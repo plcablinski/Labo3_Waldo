@@ -1,0 +1,21 @@
+feature,con_ids,sin_ids,diferencia
+DIFF(cust_request_qty),0.0005116292625874,0.0005116292625874,0.0
+DIFF(cust_request_tn),0.0753118805263192,0.0753118805263192,0.0
+DIFF(plan_precios_cuidados),1.0367764834277497e-07,1.0367764834277497e-07,0.0
+DIFF(sku_size),1.2200196547449006e-06,1.2200196547449006e-06,0.0
+DIFF(stock_final),1.4201337827322188e-05,1.4201337827322188e-05,0.0
+DIFF(tn),0.8512218781150813,0.8512218781150813,0.0
+"LAG(cust_request_qty, clientes.first_ventas_time)",7.547375973942701e-08,7.547375973942701e-08,0.0
+"LAG(cust_request_qty, periodo)",1.627464096521677e-07,1.627464096521677e-07,0.0
+"LAG(cust_request_qty, productos.first_ventas_time)",7.409145453071027e-08,7.409145453071027e-08,0.0
+"LAG(cust_request_tn, clientes.first_ventas_time)",1.4089319859693937e-06,1.4089319859693937e-06,0.0
+"LAG(cust_request_tn, periodo)",2.4399433662873548e-06,2.4399433662873548e-06,0.0
+"LAG(cust_request_tn, productos.first_ventas_time)",2.099663964109916e-06,2.099663964109916e-06,0.0
+"LAG(plan_precios_cuidados, clientes.first_ventas_time)",1.6387215992471638e-14,1.6387215992471638e-14,0.0
+"LAG(plan_precios_cuidados, periodo)",7.533031475697719e-14,7.533031475697719e-14,0.0
+"LAG(plan_precios_cuidados, productos.first_ventas_time)",3.188443123695684e-14,3.188443123695684e-14,0.0
+"LAG(sku_size, clientes.first_ventas_time)",3.3043385808438397e-06,3.3043385808438397e-06,0.0
+"LAG(sku_size, periodo)",1.9669079658771278e-06,1.9669079658771278e-06,0.0
+"LAG(sku_size, productos.first_ventas_time)",4.306360455595424e-06,4.306360455595424e-06,0.0
+"LAG(stock_final, clientes.first_ventas_time)",9.787519540454945e-06,9.787519540454945e-06,0.0
+"LAG(stock_final, periodo)",5.385569884985501e-06,5.385569884985501e-06,0.0
