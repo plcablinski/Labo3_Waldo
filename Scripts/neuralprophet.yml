@@ -1,0 +1,14 @@
+name: neuralprophet_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pandas
+  - numpy
+  - matplotlib
+  - tqdm
+  - pytorch
+  - ipykernel
+  - pip:
+      - neuralprophet

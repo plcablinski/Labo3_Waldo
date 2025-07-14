@@ -1,0 +1,14 @@
+name: autogluon-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - jupyterlab
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pip:
+      - autogluon==0.8.2

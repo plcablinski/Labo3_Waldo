@@ -1,0 +1,17 @@
+name: autoviz
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - xgboost
+  - jupyter
+  - ipykernel
+  - pip:
+      - autoviz

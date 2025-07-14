@@ -1,0 +1,16 @@
+name: tslearn_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pandas
+  - numpy>=1.24
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - pip:
+      - tslearn
+      - matplotlib
+      - seaborn

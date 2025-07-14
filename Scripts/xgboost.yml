@@ -1,0 +1,30 @@
+name: xgboost
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - xgboost
+  - optuna
+  - statsmodels
+  - openpyxl
+  - pyarrow
+  - plotly
+  - prophet
+  - tslearn
+  - tqdm
+  - holidays
+  - requests
+  - lxml
+  - beautifulsoup4
+  - pip
+  - pip:
+      - neuralprophet==0.5.4

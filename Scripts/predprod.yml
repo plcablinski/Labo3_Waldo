@@ -1,0 +1,17 @@
+name: predprod
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - pandas
+      - numpy
+      - scikit-learn
+      - statsmodels
+      - lightgbm
+      - xgboost
+      - matplotlib
+      - tqdm
+      - autogluon.tabular==0.8.2
