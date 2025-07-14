@@ -1,0 +1,1 @@
+{"n_estimators": 318, "max_depth": 5, "learning_rate": 0.08216848770996366, "subsample": 0.9281104193794921, "colsample_bytree": 0.9476603459677261, "reg_alpha": 4.482439604276862, "reg_lambda": 2.8669562564971054, "tree_method": "hist", "random_state": 42}
