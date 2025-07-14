@@ -1,0 +1,136 @@
+feature,importance
+DIFF(tn),0.8512218781150813
+DIFF(cust_request_tn),0.07531188052631928
+cust_request_tn,0.07093188134702609
+DIFF(cust_request_qty),0.0005116292625874298
+TIME_SINCE(periodo),0.0005059640358572505
+cust_request_qty,0.0004363530813022326
+MONTH(periodo),0.0002445355956145136
+"ROLLING_MEAN(productos.first_ventas_time, cust_request_qty)",9.940596361285005e-05
+"ROLLING_MEAN(productos.first_ventas_time, cust_request_tn)",9.252737285295006e-05
+YEAR(periodo),6.9239011909299e-05
+"ROLLING_MEAN(clientes.first_ventas_time, cust_request_qty)",6.40022590295972e-05
+"ROLLING_MEAN(periodo, tn)",4.7053977916552035e-05
+"ROLLING_MEAN(clientes.first_ventas_time, cust_request_tn)",4.320173518206289e-05
+"ROLLING_MEAN(productos.first_ventas_time, tn)",4.161532587640971e-05
+productos.NUM_CONSECUTIVE_GREATER_MEAN(ventas.stock_final),3.018499897341927e-05
+"ROLLING_MEAN(periodo, cust_request_qty)",2.562145083346222e-05
+clientes.STD(ventas.cust_request_tn),2.3679119228534026e-05
+"ROLLING_MEAN(clientes.first_ventas_time, stock_final)",2.1294940006236305e-05
+"ROLLING_MEAN(clientes.first_ventas_time, tn)",1.9010309920657452e-05
+"ROLLING_MEAN(periodo, stock_final)",1.6602371743771184e-05
+"ROLLING_MEAN(periodo, cust_request_tn)",1.5811750843154505e-05
+DIFF(stock_final),1.4201337827322188e-05
+productos.STD(ventas.cust_request_tn),1.4100121084099614e-05
+clientes.MAX(ventas.cust_request_tn),1.120960452727142e-05
+"ROLLING_MEAN(productos.first_ventas_time, stock_final)",1.0190122054877277e-05
+"LAG(stock_final, clientes.first_ventas_time)",9.787519540454943e-06
+clientes.MEAN(ventas.cust_request_qty),8.49447772139598e-06
+clientes.NUM_CONSECUTIVE_GREATER_MEAN(ventas.sku_size),7.223804934900228e-06
+clientes.STD(ventas.plan_precios_cuidados),6.335788960525299e-06
+clientes.MEAN(ventas.cust_request_tn),6.126899132554502e-06
+productos.MAX(ventas.stock_final),6.0203751207599075e-06
+"LAG(stock_final, productos.first_ventas_time)",5.58579556765701e-06
+"LAG(stock_final, periodo)",5.385569884985501e-06
+productos.MEAN(ventas.cust_request_tn),4.999119561009891e-06
+"ROLLING_MEAN(productos.first_ventas_time, sku_size)",4.743438482240068e-06
+stock_final,4.563045620432313e-06
+clientes.STD(ventas.cust_request_qty),4.538564228402464e-06
+clientes.MAX(ventas.plan_precios_cuidados),4.31589170174224e-06
+"LAG(sku_size, productos.first_ventas_time)",4.306360455595424e-06
+clientes.MEAN(ventas.tn),4.147069728270086e-06
+"LAG(tn, periodo)",3.585224379860874e-06
+productos.STD(ventas.cust_request_qty),3.3276358598170635e-06
+"LAG(sku_size, clientes.first_ventas_time)",3.3043385808438393e-06
+"ROLLING_MEAN(clientes.first_ventas_time, sku_size)",2.8885389812573725e-06
+productos.NUM_CONSECUTIVE_GREATER_MEAN(ventas.cust_request_tn),2.7291098548586015e-06
+productos.MIN(ventas.sku_size),2.6879009326301562e-06
+productos.MAX(ventas.tn),2.6854915523173335e-06
+productos.MEDIAN(ventas.sku_size),2.5799411963909464e-06
+clientes.MEAN(ventas.stock_final),2.529592456678093e-06
+clientes.MAX(ventas.tn),2.4583609506322936e-06
+"LAG(cust_request_tn, periodo)",2.4399433662873548e-06
+productos.STD(ventas.stock_final),2.3025364140637487e-06
+clientes.STD(ventas.stock_final),2.1583949407162344e-06
+clientes.MIN(ventas.stock_final),2.1529650215195434e-06
+"LAG(cust_request_tn, productos.first_ventas_time)",2.099663964109916e-06
+product_id,2.087456782180323e-06
+clientes.MEDIAN(ventas.cust_request_tn),2.0534414313579156e-06
+"LAG(tn, clientes.first_ventas_time)",2.019585715246652e-06
+"LAG(sku_size, periodo)",1.9669079658771273e-06
+clientes.MEDIAN(ventas.sku_size),1.8743238218483297e-06
+productos.MEAN(ventas.stock_final),1.8012394849206669e-06
+"LAG(tn, productos.first_ventas_time)",1.7911717376901074e-06
+clientes.MAX(ventas.cust_request_qty),1.7830570812048812e-06
+productos.MEAN(ventas.tn),1.7667108219148152e-06
+productos.MEAN(ventas.sku_size),1.7513941373617143e-06
+clientes.NUM_CONSECUTIVE_GREATER_MEAN(ventas.stock_final),1.7490101559741872e-06
+clientes.NUM_CONSECUTIVE_GREATER_MEAN(ventas.cust_request_qty),1.714852988571201e-06
+productos.NUM_CONSECUTIVE_GREATER_MEAN(ventas.tn),1.642978072620962e-06
+productos.MAX(ventas.sku_size),1.5450395321887495e-06
+clientes.STD(ventas.sku_size),1.542509596667948e-06
+sku_size,1.4934835943987513e-06
+productos.STD(ventas.tn),1.4829764814591234e-06
+clientes.STD(ventas.tn),1.4603825347359198e-06
+"ROLLING_MEAN(periodo, sku_size)",1.4151930098480208e-06
+productos.MAX(ventas.cust_request_qty),1.409924259618769e-06
+"LAG(cust_request_tn, clientes.first_ventas_time)",1.4089319859693937e-06
+clientes.MIN(ventas.sku_size),1.2490865419710757e-06
+clientes.MAX(ventas.sku_size),1.2354154232523855e-06
+customer_id,1.2341201875520578e-06
+DIFF(sku_size),1.2200196547449006e-06
+productos.MIN(ventas.stock_final),1.1740662423342513e-06
+clientes.MAX(ventas.stock_final),1.1622903480167075e-06
+productos.MEAN(ventas.cust_request_qty),1.034351904022598e-06
+productos.MAX(ventas.cust_request_tn),8.753829862308904e-07
+clientes.MEDIAN(ventas.cust_request_qty),7.330079394582786e-07
+clientes.MEAN(ventas.plan_precios_cuidados),7.221720146422212e-07
+clientes.MEDIAN(ventas.tn),6.5906735309193e-07
+clientes.NUM_CONSECUTIVE_GREATER_MEAN(ventas.plan_precios_cuidados),5.827307859442125e-07
+productos.NUM_CONSECUTIVE_GREATER_MEAN(ventas.cust_request_qty),4.5078593617618174e-07
+clientes.NUM_CONSECUTIVE_GREATER_MEAN(ventas.cust_request_tn),3.501347499207876e-07
+clientes.MEAN(ventas.sku_size),3.412014419350435e-07
+"ROLLING_MEAN(clientes.first_ventas_time, plan_precios_cuidados)",2.6765679590668844e-07
+clientes.NUM_CONSECUTIVE_GREATER_MEAN(ventas.tn),2.218554610459812e-07
+"ROLLING_MEAN(productos.first_ventas_time, plan_precios_cuidados)",2.0526584123431336e-07
+"LAG(cust_request_qty, periodo)",1.627464096521677e-07
+productos.NUM_CONSECUTIVE_GREATER_MEAN(ventas.plan_precios_cuidados),1.5390586515616557e-07
+"ROLLING_MEAN(periodo, plan_precios_cuidados)",1.3361049436484076e-07
+DIFF(plan_precios_cuidados),1.0367764834277495e-07
+productos.MAX(ventas.plan_precios_cuidados),8.723497372587825e-08
+"LAG(cust_request_qty, clientes.first_ventas_time)",7.547375973942701e-08
+"LAG(cust_request_qty, productos.first_ventas_time)",7.409145453071027e-08
+productos.STD(ventas.plan_precios_cuidados),5.910655169554971e-08
+productos.MEAN(ventas.plan_precios_cuidados),4.716526413493308e-08
+plan_precios_cuidados,4.373609485334515e-08
+productos.MEDIAN(ventas.cust_request_qty),2.1239889755579618e-09
+productos.MEDIAN(ventas.cust_request_tn),7.699324262524336e-10
+productos.MEDIAN(ventas.tn),7.833606920103814e-11
+"LAG(plan_precios_cuidados, periodo)",7.533031475697718e-14
+"LAG(plan_precios_cuidados, productos.first_ventas_time)",3.188443123695684e-14
+"LAG(plan_precios_cuidados, clientes.first_ventas_time)",1.6387215992471638e-14
+TIME_SINCE_PREVIOUS(periodo),3.136822213870468e-22
+clientes.MEDIAN(ventas.stock_final),0.0
+clientes.MEDIAN(ventas.plan_precios_cuidados),0.0
+clientes.MIN(ventas.cust_request_qty),0.0
+clientes.MONTH(first_ventas_time),0.0
+clientes.MIN(ventas.plan_precios_cuidados),0.0
+clientes.MIN(ventas.cust_request_tn),0.0
+clientes.MIN(ventas.tn),0.0
+clientes.N_UNIQUE_DAYS(ventas.periodo),0.0
+clientes.YEAR(first_ventas_time),0.0
+clientes.TIME_SINCE_PREVIOUS(first_ventas_time),0.0
+clientes.TIME_SINCE(first_ventas_time),0.0
+productos.MIN(ventas.cust_request_qty),0.0
+productos.MIN(ventas.plan_precios_cuidados),0.0
+productos.N_UNIQUE_DAYS(ventas.periodo),0.0
+productos.MEDIAN(ventas.plan_precios_cuidados),0.0
+productos.MEDIAN(ventas.stock_final),0.0
+productos.NUM_CONSECUTIVE_GREATER_MEAN(ventas.sku_size),0.0
+productos.MIN(ventas.cust_request_tn),0.0
+productos.MIN(ventas.tn),0.0
+productos.MONTH(first_ventas_time),0.0
+productos.YEAR(first_ventas_time),0.0
+productos.TIME_SINCE(first_ventas_time),0.0
+productos.TIME_SINCE_PREVIOUS(first_ventas_time),0.0
+productos.STD(ventas.sku_size),0.0
