@@ -1,0 +1,780 @@
+Producto 20001: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20002: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20003: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20004: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20005: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20006: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20007: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20008: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20009: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20010: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20011: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20012: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20013: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20014: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20015: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20016: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20017: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20018: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20019: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20020: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20021: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20022: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20023: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20024: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20025: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20026: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20027: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20028: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20029: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20030: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20031: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20033: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20035: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20037: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20038: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20039: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20041: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20042: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20043: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20044: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20045: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20046: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20047: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20049: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20050: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20051: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20052: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20053: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20054: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20055: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20056: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20057: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20058: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20059: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20061: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20062: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20063: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20065: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20066: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20067: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20068: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20069: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20070: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20071: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20072: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20073: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20074: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20075: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20076: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20077: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20079: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20080: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20081: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20082: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20084: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20086: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20087: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20090: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20091: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20092: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20093: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20094: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20095: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20096: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20097: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20099: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20100: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20101: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20102: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20103: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20106: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20107: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20108: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20109: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20111: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20112: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20114: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20116: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20117: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20118: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20119: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20120: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20121: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20122: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20123: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20124: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20125: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20126: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20129: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20130: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20132: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20133: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20134: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20135: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20137: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20138: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20139: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20140: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20142: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20143: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20144: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20145: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20146: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20148: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20150: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20151: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20152: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20153: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20155: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20157: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20158: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20159: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20160: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20161: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20162: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20164: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20166: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20167: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20168: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20170: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20175: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20176: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20177: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20179: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20180: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20181: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20182: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20183: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20184: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20187: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20188: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20189: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20192: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20193: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20196: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20197: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20198: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20200: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20201: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20202: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20203: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20205: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20206: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20207: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20208: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20209: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20211: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20212: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20215: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20216: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20218: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20219: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20220: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20222: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20224: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20225: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20226: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20227: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20228: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20230: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20231: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20232: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20233: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20234: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20235: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20237: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20238: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20239: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20240: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20241: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20242: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20244: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20246: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20249: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20251: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20252: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20253: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20254: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20255: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20256: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20259: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20262: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20263: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20264: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20265: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20266: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20267: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20268: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20269: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20270: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20271: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20272: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20273: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20275: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20276: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20277: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20278: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20280: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20281: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20282: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20283: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20284: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20285: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20288: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20289: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20290: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20291: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20292: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20295: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20296: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20297: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20298: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20299: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20300: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20301: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20302: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20303: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20304: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20305: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20306: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20307: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20309: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20310: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20311: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20313: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20314: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20315: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20316: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20317: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20319: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20320: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20321: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20322: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20323: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20324: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20325: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20326: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20327: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20328: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20329: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20330: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20332: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20334: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20335: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20336: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20337: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20338: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20340: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20341: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20342: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20343: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20344: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20346: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20348: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20349: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20350: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20351: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20352: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20353: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20354: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20356: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20357: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20358: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20359: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20361: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20362: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20364: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20365: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20366: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20367: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20368: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20372: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20375: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20377: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20378: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20379: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20380: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20381: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20382: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20383: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20384: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20385: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20386: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20387: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20388: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20389: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20390: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20395: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20396: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20398: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20400: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20401: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20402: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20403: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20404: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20406: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20407: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20409: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20410: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20411: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20415: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20416: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20417: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20418: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20419: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20421: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20422: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20424: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20426: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20428: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20429: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20432: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20433: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20434: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20438: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20443: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20447: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20449: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20450: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20453: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20456: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20459: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20463: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20464: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20465: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20466: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20469: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20470: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20473: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20474: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20478: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20479: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20480: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20481: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20482: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20483: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20484: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20488: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20490: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20496: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20497: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20500: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20502: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20505: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20508: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20509: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20513: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20514: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20517: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20520: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20522: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20524: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20530: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20532: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20536: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20538: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20539: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20541: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20542: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20544: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20549: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20551: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20552: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20555: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20560: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20561: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20563: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20565: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20567: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20568: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20570: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20571: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20572: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20574: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20576: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20578: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20579: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20583: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20585: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20586: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20588: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20589: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20596: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20597: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20599: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20600: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20601: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20602: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20604: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20605: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20606: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20609: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20612: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20614: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20617: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20622: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20624: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20628: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20629: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20632: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20636: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20637: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20638: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20639: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20640: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20641: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20642: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20644: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20646: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20647: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20651: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20652: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20653: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20654: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20655: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20657: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20658: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20660: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20661: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20663: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20664: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20666: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20667: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20670: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20672: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20676: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20677: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20678: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20680: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20684: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20685: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20693: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20696: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20697: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20699: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20701: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20702: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20705: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20706: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20708: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20713: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20714: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20715: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20721: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20724: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20729: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20730: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20733: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20735: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20737: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20739: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20741: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20742: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20743: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20744: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20745: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20749: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20750: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20751: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20756: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20758: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20759: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20761: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20765: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20768: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20771: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20773: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20775: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20777: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20781: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20786: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20788: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20789: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20793: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20800: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20801: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20802: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20803: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20807: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20809: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20810: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20811: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20812: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20818: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20820: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20823: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20824: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20826: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20828: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20830: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20831: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20832: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20838: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20840: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20843: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20846: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20847: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20849: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20852: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20855: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20862: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20863: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20864: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20865: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20870: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20877: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20878: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20879: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20882: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20883: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20885: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20892: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20894: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20901: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20906: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20913: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20914: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20919: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20922: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20925: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20931: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20936: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20937: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20941: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20945: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20947: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20948: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20949: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20951: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20956: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20957: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20961: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20965: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20970: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20976: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20982: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20985: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20986: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20991: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20994: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20996: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21003: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21008: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21014: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21016: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21024: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21027: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21028: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21032: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21034: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21038: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21040: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21048: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21049: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21055: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21057: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21065: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21077: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21080: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21088: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21118: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21126: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21131: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21155: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21157: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21164: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21167: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21170: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21176: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21180: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21182: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21184: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21190: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21192: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21194: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21200: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21202: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21207: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21212: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21218: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21222: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 21224: mejor modelo = regresion, MAE sep-nov = 0.0000
+Producto 20995: fallback media últimos 3 positivos = 2.67
+Producto 20997: fallback media últimos 3 positivos = 1.20
+Producto 21001: fallback media últimos 3 positivos = 0.80
+Producto 20491: fallback media últimos 3 positivos = 14.22
+Producto 21006: fallback media últimos 3 positivos = 1.45
+Producto 20495: fallback media últimos 3 positivos = 15.40
+Producto 21007: fallback media últimos 3 positivos = 2.63
+Producto 20503: fallback media últimos 3 positivos = 11.50
+Producto 20510: fallback media últimos 3 positivos = 11.37
+Producto 21022: fallback media últimos 3 positivos = 0.87
+Producto 20521: fallback media últimos 3 positivos = 15.34
+Producto 21033: fallback media últimos 3 positivos = 1.19
+Producto 20523: fallback media últimos 3 positivos = 13.07
+Producto 21035: fallback media últimos 3 positivos = 2.17
+Producto 20525: fallback media últimos 3 positivos = 18.33
+Producto 20526: fallback media últimos 3 positivos = 18.42
+Producto 20527: fallback media últimos 3 positivos = 12.80
+Producto 21037: fallback media últimos 3 positivos = 0.80
+Producto 21039: fallback media últimos 3 positivos = 1.69
+Producto 21042: fallback media últimos 3 positivos = 1.27
+Producto 20531: fallback media últimos 3 positivos = 14.88
+Producto 21044: fallback media últimos 3 positivos = 1.42
+Producto 20537: fallback media últimos 3 positivos = 16.87
+Producto 20540: fallback media últimos 3 positivos = 11.58
+Producto 21056: fallback media últimos 3 positivos = 0.85
+Producto 20032: fallback media últimos 3 positivos = 728.55
+Producto 21058: fallback media últimos 3 positivos = 1.88
+Producto 20547: fallback media últimos 3 positivos = 14.33
+Producto 20548: fallback media últimos 3 positivos = 16.54
+Producto 21064: fallback media últimos 3 positivos = 0.38
+Producto 20553: fallback media últimos 3 positivos = 9.88
+Producto 20558: fallback media últimos 3 positivos = 11.21
+Producto 20559: fallback media últimos 3 positivos = 9.76
+Producto 21073: fallback media últimos 3 positivos = 0.93
+Producto 21074: fallback media últimos 3 positivos = 1.25
+Producto 21079: fallback media últimos 3 positivos = 1.28
+Producto 20569: fallback media últimos 3 positivos = 12.61
+Producto 21084: fallback media últimos 3 positivos = 0.78
+Producto 21086: fallback media últimos 3 positivos = 0.76
+Producto 20575: fallback media últimos 3 positivos = 15.04
+Producto 21087: fallback media últimos 3 positivos = 1.11
+Producto 20577: fallback media últimos 3 positivos = 15.20
+Producto 20580: fallback media últimos 3 positivos = 19.57
+Producto 21092: fallback media últimos 3 positivos = 1.03
+Producto 21093: fallback media últimos 3 positivos = 0.37
+Producto 21097: fallback media últimos 3 positivos = 1.54
+Producto 21099: fallback media últimos 3 positivos = 0.19
+Producto 20592: fallback media últimos 3 positivos = 12.90
+Producto 20593: fallback media últimos 3 positivos = 9.86
+Producto 21105: fallback media últimos 3 positivos = 0.58
+Producto 21109: fallback media últimos 3 positivos = 1.30
+Producto 21110: fallback media últimos 3 positivos = 1.58
+Producto 21111: fallback media últimos 3 positivos = 1.40
+Producto 21112: fallback media últimos 3 positivos = 0.96
+Producto 20085: fallback media últimos 3 positivos = 209.59
+Producto 21114: fallback media últimos 3 positivos = 1.69
+Producto 20603: fallback media últimos 3 positivos = 12.93
+Producto 20089: fallback media últimos 3 positivos = 190.61
+Producto 21119: fallback media últimos 3 positivos = 1.41
+Producto 20611: fallback media últimos 3 positivos = 11.56
+Producto 20615: fallback media últimos 3 positivos = 14.78
+Producto 21129: fallback media últimos 3 positivos = 0.92
+Producto 20620: fallback media últimos 3 positivos = 8.49
+Producto 20621: fallback media últimos 3 positivos = 13.29
+Producto 20623: fallback media últimos 3 positivos = 13.71
+Producto 21135: fallback media últimos 3 positivos = 0.36
+Producto 20627: fallback media últimos 3 positivos = 10.58
+Producto 21140: fallback media últimos 3 positivos = 0.88
+Producto 21142: fallback media últimos 3 positivos = 0.28
+Producto 21144: fallback media últimos 3 positivos = 0.72
+Producto 20633: fallback media últimos 3 positivos = 11.81
+Producto 21146: fallback media últimos 3 positivos = 0.93
+Producto 20127: fallback media últimos 3 positivos = 273.65
+Producto 21153: fallback media últimos 3 positivos = 0.53
+Producto 21154: fallback media últimos 3 positivos = 0.72
+Producto 21159: fallback media últimos 3 positivos = 0.36
+Producto 20649: fallback media últimos 3 positivos = 11.53
+Producto 21163: fallback media últimos 3 positivos = 0.38
+Producto 21168: fallback media últimos 3 positivos = 0.38
+Producto 20659: fallback media últimos 3 positivos = 11.74
+Producto 21171: fallback media últimos 3 positivos = 0.48
+Producto 20662: fallback media últimos 3 positivos = 11.80
+Producto 21179: fallback media últimos 3 positivos = 0.56
+Producto 20673: fallback media últimos 3 positivos = 12.74
+Producto 20674: fallback media últimos 3 positivos = 8.68
+Producto 20679: fallback media últimos 3 positivos = 8.64
+Producto 21191: fallback media últimos 3 positivos = 0.17
+Producto 20681: fallback media últimos 3 positivos = 9.13
+Producto 20682: fallback media últimos 3 positivos = 7.55
+Producto 21196: fallback media últimos 3 positivos = 0.42
+Producto 20686: fallback media últimos 3 positivos = 11.49
+Producto 20174: fallback media últimos 3 positivos = 102.49
+Producto 20689: fallback media últimos 3 positivos = 5.99
+Producto 21201: fallback media últimos 3 positivos = 0.30
+Producto 20691: fallback media últimos 3 positivos = 10.41
+Producto 20694: fallback media últimos 3 positivos = 10.84
+Producto 21209: fallback media últimos 3 positivos = 0.12
+Producto 20700: fallback media últimos 3 positivos = 3.28
+Producto 21214: fallback media últimos 3 positivos = 0.43
+Producto 20703: fallback media últimos 3 positivos = 10.94
+Producto 20709: fallback media últimos 3 positivos = 9.41
+Producto 20711: fallback media últimos 3 positivos = 9.36
+Producto 21226: fallback media últimos 3 positivos = 0.12
+Producto 21227: fallback media últimos 3 positivos = 0.26
+Producto 20719: fallback media últimos 3 positivos = 8.75
+Producto 20720: fallback media últimos 3 positivos = 10.78
+Producto 21233: fallback media últimos 3 positivos = 0.04
+Producto 20210: fallback media últimos 3 positivos = 106.98
+Producto 20213: fallback media últimos 3 positivos = 87.26
+Producto 20732: fallback media últimos 3 positivos = 7.94
+Producto 21244: fallback media últimos 3 positivos = 0.02
+Producto 21245: fallback media últimos 3 positivos = 0.03
+Producto 21246: fallback media últimos 3 positivos = 0.02
+Producto 21248: fallback media últimos 3 positivos = 0.02
+Producto 21252: fallback media últimos 3 positivos = 0.10
+Producto 21256: fallback media últimos 3 positivos = 0.02
+Producto 20746: fallback media últimos 3 positivos = 7.62
+Producto 21259: fallback media últimos 3 positivos = 0.02
+Producto 20236: fallback media últimos 3 positivos = 62.78
+Producto 21262: fallback media últimos 3 positivos = 0.02
+Producto 21263: fallback media últimos 3 positivos = 0.02
+Producto 21265: fallback media últimos 3 positivos = 0.08
+Producto 20754: fallback media últimos 3 positivos = 8.99
+Producto 21266: fallback media últimos 3 positivos = 0.08
+Producto 21267: fallback media últimos 3 positivos = 0.05
+Producto 20757: fallback media últimos 3 positivos = 3.49
+Producto 20762: fallback media últimos 3 positivos = 7.96
+Producto 21276: fallback media últimos 3 positivos = 0.02
+Producto 20257: fallback media últimos 3 positivos = 66.99
+Producto 20772: fallback media últimos 3 positivos = 6.65
+Producto 20261: fallback media últimos 3 positivos = 55.97
+Producto 20774: fallback media últimos 3 positivos = 5.54
+Producto 20783: fallback media últimos 3 positivos = 3.86
+Producto 20785: fallback media últimos 3 positivos = 3.91
+Producto 20795: fallback media últimos 3 positivos = 7.15
+Producto 20286: fallback media últimos 3 positivos = 47.80
+Producto 20815: fallback media últimos 3 positivos = 7.91
+Producto 20817: fallback media últimos 3 positivos = 2.85
+Producto 20822: fallback media últimos 3 positivos = 6.07
+Producto 20827: fallback media últimos 3 positivos = 3.50
+Producto 20835: fallback media últimos 3 positivos = 2.45
+Producto 20845: fallback media últimos 3 positivos = 1.49
+Producto 20853: fallback media últimos 3 positivos = 3.63
+Producto 20859: fallback media últimos 3 positivos = 3.95
+Producto 20355: fallback media últimos 3 positivos = 41.84
+Producto 20886: fallback media últimos 3 positivos = 0.92
+Producto 20899: fallback media últimos 3 positivos = 3.13
+Producto 20902: fallback media últimos 3 positivos = 2.39
+Producto 20904: fallback media últimos 3 positivos = 4.01
+Producto 20907: fallback media últimos 3 positivos = 5.41
+Producto 20908: fallback media últimos 3 positivos = 2.57
+Producto 20910: fallback media últimos 3 positivos = 3.85
+Producto 20912: fallback media últimos 3 positivos = 3.62
+Producto 20917: fallback media últimos 3 positivos = 3.71
+Producto 20920: fallback media últimos 3 positivos = 3.49
+Producto 20408: fallback media últimos 3 positivos = 12.48
+Producto 20924: fallback media últimos 3 positivos = 3.15
+Producto 20414: fallback media últimos 3 positivos = 35.79
+Producto 20927: fallback media últimos 3 positivos = 4.16
+Producto 20928: fallback media últimos 3 positivos = 3.59
+Producto 20932: fallback media últimos 3 positivos = 2.76
+Producto 20933: fallback media últimos 3 positivos = 3.67
+Producto 20942: fallback media últimos 3 positivos = 2.35
+Producto 20946: fallback media últimos 3 positivos = 3.26
+Producto 20440: fallback media últimos 3 positivos = 45.83
+Producto 20953: fallback media últimos 3 positivos = 1.24
+Producto 20442: fallback media últimos 3 positivos = 22.60
+Producto 20962: fallback media últimos 3 positivos = 3.13
+Producto 20966: fallback media últimos 3 positivos = 1.71
+Producto 20967: fallback media últimos 3 positivos = 1.77
+Producto 20968: fallback media últimos 3 positivos = 2.65
+Producto 20458: fallback media últimos 3 positivos = 27.03
+Producto 20460: fallback media últimos 3 positivos = 14.72
+Producto 20975: fallback media últimos 3 positivos = 2.82
+Producto 20987: fallback media últimos 3 positivos = 0.40
+Producto 20476: fallback media últimos 3 positivos = 22.27
+Producto 20477: fallback media últimos 3 positivos = 8.21
+Producto 20990: fallback media últimos 3 positivos = 1.03

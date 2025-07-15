@@ -1,0 +1,780 @@
+Producto 20001: mejor modelo = regresion, MAE sep-nov = 123.4539, stock = 69.75548, pred ajustada = 275.81
+Producto 20002: mejor modelo = regresion, MAE sep-nov = 464.5682, stock = 176.23135, pred ajustada = 90.62
+Producto 20003: mejor modelo = regresion, MAE sep-nov = 68.6450, stock = 263.7006, pred ajustada = 50.51
+Producto 20004: mejor modelo = regresion, MAE sep-nov = 130.6671, stock = 1212.36734, pred ajustada = 8.04
+Producto 20005: mejor modelo = regresion, MAE sep-nov = 198.2507, stock = 765.6151, pred ajustada = 13.66
+Producto 20006: mejor modelo = arima, MAE sep-nov = 51.4267, stock = 5.4998, pred ajustada = 361.64
+Producto 20007: mejor modelo = arima, MAE sep-nov = 61.6130, stock = 172.63442, pred ajustada = 45.71
+Producto 20008: mejor modelo = arima, MAE sep-nov = 47.7401, stock = 10.22587, pred ajustada = 283.01
+Producto 20009: mejor modelo = arima, MAE sep-nov = 55.9116, stock = 117.30876, pred ajustada = 80.73
+Producto 20010: mejor modelo = lgbm, MAE sep-nov = 45.5079, stock = 4.42042, pred ajustada = 431.68
+Producto 20011: mejor modelo = regresion, MAE sep-nov = 65.3530, stock = -0.09828, pred ajustada = 474.91
+Producto 20012: mejor modelo = arima, MAE sep-nov = 29.4812, stock = 6.71252, pred ajustada = 254.39
+Producto 20013: mejor modelo = lgbm, MAE sep-nov = 77.1240, stock = 172.08009, pred ajustada = 46.44
+Producto 20014: mejor modelo = regresion, MAE sep-nov = 42.2938, stock = 304.97376, pred ajustada = 25.30
+Producto 20015: mejor modelo = lgbm, MAE sep-nov = 53.9219, stock = 330.50118, pred ajustada = 23.77
+Producto 20016: mejor modelo = arima, MAE sep-nov = 74.2653, stock = 2.457, pred ajustada = 214.94
+Producto 20017: mejor modelo = arima, MAE sep-nov = 44.3361, stock = 6.23172, pred ajustada = 213.90
+Producto 20018: mejor modelo = arima, MAE sep-nov = 15.4559, stock = -0.02091, pred ajustada = 279.93
+Producto 20019: mejor modelo = lgbm, MAE sep-nov = 37.6818, stock = 95.99408, pred ajustada = 65.92
+Producto 20020: mejor modelo = arima, MAE sep-nov = 40.5193, stock = 0.0, pred ajustada = 270.04
+Producto 20021: mejor modelo = arima, MAE sep-nov = 38.5118, stock = 1.54627, pred ajustada = 249.65
+Producto 20022: mejor modelo = regresion, MAE sep-nov = 62.4636, stock = 5.88806, pred ajustada = 230.82
+Producto 20023: mejor modelo = regresion, MAE sep-nov = 52.1390, stock = 20.16924, pred ajustada = 112.19
+Producto 20024: mejor modelo = arima, MAE sep-nov = 46.1725, stock = 2.65356, pred ajustada = 193.02
+Producto 20025: mejor modelo = lgbm, MAE sep-nov = 58.6245, stock = 0.75348, pred ajustada = 252.50
+Producto 20026: mejor modelo = regresion, MAE sep-nov = 58.1574, stock = 72.53261, pred ajustada = 50.29
+Producto 20027: mejor modelo = arima, MAE sep-nov = 23.1471, stock = 2.88358, pred ajustada = 205.90
+Producto 20028: mejor modelo = regresion, MAE sep-nov = 79.5806, stock = 15.38082, pred ajustada = 146.74
+Producto 20029: mejor modelo = arima, MAE sep-nov = 17.1953, stock = 0.34504, pred ajustada = 161.90
+Producto 20030: mejor modelo = arima, MAE sep-nov = 31.7116, stock = -0.5642, pred ajustada = 130.88
+Producto 20031: mejor modelo = arima, MAE sep-nov = 78.7239, stock = 45.13018, pred ajustada = 54.11
+Producto 20033: mejor modelo = arima, MAE sep-nov = 29.1768, stock = 0.21021, pred ajustada = 218.60
+Producto 20035: mejor modelo = arima, MAE sep-nov = 31.0844, stock = 68.65622, pred ajustada = 41.28
+Producto 20037: mejor modelo = regresion, MAE sep-nov = 15.5515, stock = 58.25208, pred ajustada = 58.45
+Producto 20038: mejor modelo = arima, MAE sep-nov = 21.4150, stock = 95.99117, pred ajustada = 29.75
+Producto 20039: mejor modelo = regresion, MAE sep-nov = 30.4311, stock = 103.89725, pred ajustada = 31.65
+Producto 20041: mejor modelo = arima, MAE sep-nov = 44.3307, stock = 5.50368, pred ajustada = 116.26
+Producto 20042: mejor modelo = lgbm, MAE sep-nov = 61.1742, stock = 115.30973, pred ajustada = 23.95
+Producto 20043: mejor modelo = arima, MAE sep-nov = 28.0135, stock = 0.8736, pred ajustada = 120.77
+Producto 20044: mejor modelo = lgbm, MAE sep-nov = 40.8597, stock = 3.50031, pred ajustada = 144.93
+Producto 20045: mejor modelo = arima, MAE sep-nov = 37.0120, stock = 56.83178, pred ajustada = 45.58
+Producto 20046: mejor modelo = regresion, MAE sep-nov = 41.8654, stock = 194.04567, pred ajustada = 14.94
+Producto 20047: mejor modelo = lgbm, MAE sep-nov = 45.6609, stock = 9.84289, pred ajustada = 117.10
+Producto 20049: mejor modelo = regresion, MAE sep-nov = 36.5828, stock = 138.5748, pred ajustada = 26.07
+Producto 20050: mejor modelo = arima, MAE sep-nov = 5.8213, stock = 51.57734, pred ajustada = 37.51
+Producto 20051: mejor modelo = arima, MAE sep-nov = 30.5355, stock = 19.12863, pred ajustada = 73.05
+Producto 20052: mejor modelo = arima, MAE sep-nov = 40.1407, stock = 25.54712, pred ajustada = 52.38
+Producto 20053: mejor modelo = lgbm, MAE sep-nov = 15.1684, stock = 0.91769, pred ajustada = 145.54
+Producto 20054: mejor modelo = lgbm, MAE sep-nov = 21.6335, stock = 1.58914, pred ajustada = 134.65
+Producto 20055: mejor modelo = arima, MAE sep-nov = 49.3006, stock = 44.03927, pred ajustada = 36.29
+Producto 20056: mejor modelo = arima, MAE sep-nov = 49.1425, stock = 103.01819, pred ajustada = 21.27
+Producto 20057: mejor modelo = arima, MAE sep-nov = 17.9261, stock = 77.03104, pred ajustada = 29.67
+Producto 20058: mejor modelo = arima, MAE sep-nov = 18.1365, stock = 105.36009, pred ajustada = 20.96
+Producto 20059: mejor modelo = arima, MAE sep-nov = 25.7950, stock = -0.01327, pred ajustada = 134.54
+Producto 20061: mejor modelo = lgbm, MAE sep-nov = 21.3723, stock = 2.68046, pred ajustada = 120.74
+Producto 20062: mejor modelo = arima, MAE sep-nov = 10.3955, stock = -0.0081, pred ajustada = 95.26
+Producto 20063: mejor modelo = lgbm, MAE sep-nov = 29.8790, stock = 54.71702, pred ajustada = 34.01
+Producto 20065: mejor modelo = regresion, MAE sep-nov = 17.0029, stock = 83.0466, pred ajustada = 29.68
+Producto 20066: mejor modelo = lgbm, MAE sep-nov = 32.8747, stock = 5.87059, pred ajustada = 102.32
+Producto 20067: mejor modelo = arima, MAE sep-nov = 30.4698, stock = 96.48038, pred ajustada = 20.48
+Producto 20068: mejor modelo = arima, MAE sep-nov = 8.6269, stock = 20.77788, pred ajustada = 54.12
+Producto 20069: mejor modelo = regresion, MAE sep-nov = 27.5933, stock = 1.3104, pred ajustada = 127.24
+Producto 20070: mejor modelo = lgbm, MAE sep-nov = 7.7671, stock = 2.15131, pred ajustada = 105.23
+Producto 20071: mejor modelo = arima, MAE sep-nov = 26.0508, stock = 0.0, pred ajustada = 125.10
+Producto 20072: mejor modelo = arima, MAE sep-nov = 17.5477, stock = -0.03276, pred ajustada = 97.91
+Producto 20073: mejor modelo = arima, MAE sep-nov = 5.6518, stock = 0.0, pred ajustada = 110.28
+Producto 20074: mejor modelo = arima, MAE sep-nov = 11.0081, stock = 0.93405, pred ajustada = 89.30
+Producto 20075: mejor modelo = lgbm, MAE sep-nov = 25.4213, stock = 4.21438, pred ajustada = 102.96
+Producto 20076: mejor modelo = regresion, MAE sep-nov = 18.1436, stock = 4.70292, pred ajustada = 82.24
+Producto 20077: mejor modelo = regresion, MAE sep-nov = 16.2544, stock = 125.58175, pred ajustada = 21.49
+Producto 20079: mejor modelo = arima, MAE sep-nov = 7.7333, stock = 4.35162, pred ajustada = 41.46
+Producto 20080: mejor modelo = lgbm, MAE sep-nov = 21.8656, stock = 17.88081, pred ajustada = 54.50
+Producto 20081: mejor modelo = lgbm, MAE sep-nov = 8.9302, stock = 0.11466, pred ajustada = 102.55
+Producto 20082: mejor modelo = arima, MAE sep-nov = 19.3466, stock = 125.20872, pred ajustada = 10.59
+Producto 20084: mejor modelo = regresion, MAE sep-nov = 60.9269, stock = 182.2647, pred ajustada = 7.05
+Producto 20086: mejor modelo = arima, MAE sep-nov = 12.7982, stock = 21.10851, pred ajustada = 24.90
+Producto 20087: mejor modelo = arima, MAE sep-nov = 24.7191, stock = 10.73188, pred ajustada = 59.07
+Producto 20089: mejor modelo = regresion, MAE sep-nov = 73.2015, stock = 2.2857, pred ajustada = 146.51
+Producto 20090: mejor modelo = arima, MAE sep-nov = 2.0690, stock = 66.18612, pred ajustada = 11.68
+Producto 20091: mejor modelo = arima, MAE sep-nov = 15.4184, stock = 0.58531, pred ajustada = 100.61
+Producto 20092: mejor modelo = arima, MAE sep-nov = 11.1156, stock = 56.7567, pred ajustada = 16.79
+Producto 20093: mejor modelo = regresion, MAE sep-nov = 21.1976, stock = 8.88615, pred ajustada = 61.67
+Producto 20094: mejor modelo = lgbm, MAE sep-nov = 31.9870, stock = 1.71842, pred ajustada = 93.28
+Producto 20095: mejor modelo = regresion, MAE sep-nov = 14.4217, stock = -1.23532, pred ajustada = 81.29
+Producto 20096: mejor modelo = regresion, MAE sep-nov = 15.3864, stock = 16.52264, pred ajustada = 57.60
+Producto 20097: mejor modelo = arima, MAE sep-nov = 13.9875, stock = 23.25392, pred ajustada = 28.27
+Producto 20099: mejor modelo = arima, MAE sep-nov = 11.1697, stock = 28.56412, pred ajustada = 26.53
+Producto 20100: mejor modelo = arima, MAE sep-nov = 42.2346, stock = 9.78214, pred ajustada = 69.67
+Producto 20101: mejor modelo = regresion, MAE sep-nov = 12.2856, stock = 4.68468, pred ajustada = 67.84
+Producto 20102: mejor modelo = arima, MAE sep-nov = 34.1911, stock = 71.87267, pred ajustada = 22.26
+Producto 20103: mejor modelo = regresion, MAE sep-nov = 4.6593, stock = 23.35643, pred ajustada = 43.65
+Producto 20106: mejor modelo = arima, MAE sep-nov = 12.2514, stock = 6.78951, pred ajustada = 50.08
+Producto 20107: mejor modelo = regresion, MAE sep-nov = 14.4411, stock = 115.77493, pred ajustada = 10.60
+Producto 20108: mejor modelo = regresion, MAE sep-nov = 8.4242, stock = 26.49635, pred ajustada = 31.67
+Producto 20109: mejor modelo = arima, MAE sep-nov = 5.9231, stock = 7.75131, pred ajustada = 40.34
+Producto 20111: mejor modelo = lgbm, MAE sep-nov = 9.3005, stock = 20.06747, pred ajustada = 37.38
+Producto 20112: mejor modelo = arima, MAE sep-nov = 2.5209, stock = 4.05256, pred ajustada = 74.25
+Producto 20114: mejor modelo = arima, MAE sep-nov = 3.6548, stock = 0.0, pred ajustada = 66.59
+Producto 20116: mejor modelo = regresion, MAE sep-nov = 83.5140, stock = 74.05676, pred ajustada = 12.09
+Producto 20117: mejor modelo = arima, MAE sep-nov = 6.8412, stock = 0.76975, pred ajustada = 43.27
+Producto 20118: mejor modelo = arima, MAE sep-nov = 8.4236, stock = 67.63156, pred ajustada = 15.39
+Producto 20119: mejor modelo = regresion, MAE sep-nov = 47.0194, stock = 0.0, pred ajustada = 67.90
+Producto 20120: mejor modelo = arima, MAE sep-nov = 11.9548, stock = 26.62078, pred ajustada = 29.34
+Producto 20121: mejor modelo = regresion, MAE sep-nov = 40.1032, stock = 130.40118, pred ajustada = 7.79
+Producto 20122: mejor modelo = regresion, MAE sep-nov = 7.1720, stock = 10.5997, pred ajustada = 44.86
+Producto 20123: mejor modelo = arima, MAE sep-nov = 12.4433, stock = 0.09009, pred ajustada = 60.49
+Producto 20124: mejor modelo = arima, MAE sep-nov = 3.8681, stock = 32.62419, pred ajustada = 21.33
+Producto 20125: mejor modelo = lgbm, MAE sep-nov = 14.1179, stock = 0.0, pred ajustada = 68.33
+Producto 20126: mejor modelo = regresion, MAE sep-nov = 38.2635, stock = 80.56188, pred ajustada = 22.55
+Producto 20129: mejor modelo = arima, MAE sep-nov = 4.6585, stock = 0.0, pred ajustada = 64.85
+Producto 20130: mejor modelo = lgbm, MAE sep-nov = 29.7885, stock = 44.67101, pred ajustada = 28.99
+Producto 20132: mejor modelo = regresion, MAE sep-nov = 3.7377, stock = 35.36005, pred ajustada = 23.06
+Producto 20133: mejor modelo = lgbm, MAE sep-nov = 11.9041, stock = 0.00819, pred ajustada = 63.13
+Producto 20134: mejor modelo = lgbm, MAE sep-nov = 13.7800, stock = 0.0, pred ajustada = 62.55
+Producto 20135: mejor modelo = regresion, MAE sep-nov = 18.0980, stock = 5.41061, pred ajustada = 69.67
+Producto 20137: mejor modelo = arima, MAE sep-nov = 3.2058, stock = 35.09933, pred ajustada = 19.55
+Producto 20138: mejor modelo = arima, MAE sep-nov = 10.1180, stock = 0.01621, pred ajustada = 33.44
+Producto 20139: mejor modelo = regresion, MAE sep-nov = 10.6809, stock = 0.1638, pred ajustada = 56.74
+Producto 20140: mejor modelo = regresion, MAE sep-nov = 15.8105, stock = 5.76576, pred ajustada = 44.08
+Producto 20142: mejor modelo = regresion, MAE sep-nov = 7.2675, stock = 11.4363, pred ajustada = 41.18
+Producto 20143: mejor modelo = arima, MAE sep-nov = 29.5215, stock = 0.75607, pred ajustada = 94.50
+Producto 20144: mejor modelo = lgbm, MAE sep-nov = 6.5689, stock = 0.6767, pred ajustada = 54.67
+Producto 20145: mejor modelo = regresion, MAE sep-nov = 19.3774, stock = 10.17404, pred ajustada = 34.09
+Producto 20146: mejor modelo = lgbm, MAE sep-nov = 2.7278, stock = 33.16677, pred ajustada = 24.50
+Producto 20148: mejor modelo = lgbm, MAE sep-nov = 14.1546, stock = 23.35148, pred ajustada = 23.48
+Producto 20150: mejor modelo = arima, MAE sep-nov = 80.8317, stock = 0.56373, pred ajustada = 89.20
+Producto 20151: mejor modelo = arima, MAE sep-nov = 16.5232, stock = 34.03835, pred ajustada = 14.67
+Producto 20152: mejor modelo = arima, MAE sep-nov = 2.1540, stock = 23.34565, pred ajustada = 14.85
+Producto 20153: mejor modelo = regresion, MAE sep-nov = 26.5636, stock = 15.94664, pred ajustada = 25.32
+Producto 20155: mejor modelo = regresion, MAE sep-nov = 19.8814, stock = 31.68645, pred ajustada = 17.84
+Producto 20157: mejor modelo = lgbm, MAE sep-nov = 33.8742, stock = 33.73017, pred ajustada = 16.29
+Producto 20158: mejor modelo = regresion, MAE sep-nov = 31.3499, stock = 22.6044, pred ajustada = 19.63
+Producto 20159: mejor modelo = lgbm, MAE sep-nov = 24.8403, stock = 27.4084, pred ajustada = 30.03
+Producto 20160: mejor modelo = lgbm, MAE sep-nov = 5.2764, stock = 44.15638, pred ajustada = 16.37
+Producto 20161: mejor modelo = regresion, MAE sep-nov = 5.4764, stock = 18.58304, pred ajustada = 27.74
+Producto 20162: mejor modelo = arima, MAE sep-nov = 6.9770, stock = 27.41914, pred ajustada = 27.10
+Producto 20164: mejor modelo = arima, MAE sep-nov = 9.1051, stock = 0.3913, pred ajustada = 60.30
+Producto 20166: mejor modelo = regresion, MAE sep-nov = 4.7585, stock = 35.63878, pred ajustada = 19.88
+Producto 20167: mejor modelo = regresion, MAE sep-nov = 11.5095, stock = 15.04215, pred ajustada = 22.52
+Producto 20168: mejor modelo = arima, MAE sep-nov = 12.1190, stock = 0.82568, pred ajustada = 16.76
+Producto 20170: mejor modelo = arima, MAE sep-nov = 19.9014, stock = 42.34999, pred ajustada = 23.06
+Producto 20175: mejor modelo = lgbm, MAE sep-nov = 10.2695, stock = -2.7399, pred ajustada = 55.18
+Producto 20176: mejor modelo = regresion, MAE sep-nov = 4.1002, stock = 13.31799, pred ajustada = 27.84
+Producto 20177: mejor modelo = lgbm, MAE sep-nov = 9.8134, stock = 10.64943, pred ajustada = 26.68
+Producto 20179: mejor modelo = lgbm, MAE sep-nov = 12.5908, stock = -0.00336, pred ajustada = 36.70
+Producto 20180: mejor modelo = arima, MAE sep-nov = 3.7015, stock = 5.17153, pred ajustada = 30.73
+Producto 20181: mejor modelo = lgbm, MAE sep-nov = 6.0730, stock = 3.96542, pred ajustada = 33.62
+Producto 20182: mejor modelo = regresion, MAE sep-nov = 4.2095, stock = 7.2291, pred ajustada = 32.76
+Producto 20183: mejor modelo = arima, MAE sep-nov = 10.9481, stock = 19.69882, pred ajustada = 14.77
+Producto 20184: mejor modelo = arima, MAE sep-nov = 4.7504, stock = 10.13961, pred ajustada = 24.01
+Producto 20187: mejor modelo = regresion, MAE sep-nov = 3.4025, stock = 22.31324, pred ajustada = 19.66
+Producto 20188: mejor modelo = regresion, MAE sep-nov = 5.9919, stock = 14.67901, pred ajustada = 24.46
+Producto 20189: mejor modelo = lgbm, MAE sep-nov = 14.8145, stock = 6.54327, pred ajustada = 24.97
+Producto 20192: mejor modelo = regresion, MAE sep-nov = 7.9546, stock = 71.09095, pred ajustada = 11.18
+Producto 20193: mejor modelo = lgbm, MAE sep-nov = 8.0601, stock = 9.3431, pred ajustada = 25.64
+Producto 20196: mejor modelo = arima, MAE sep-nov = 5.1292, stock = 80.4713, pred ajustada = 7.77
+Producto 20197: mejor modelo = arima, MAE sep-nov = 3.5897, stock = 1.34431, pred ajustada = 27.81
+Producto 20198: mejor modelo = lgbm, MAE sep-nov = 4.5639, stock = 8.18078, pred ajustada = 26.23
+Producto 20200: mejor modelo = lgbm, MAE sep-nov = 4.0516, stock = 26.60125, pred ajustada = 14.90
+Producto 20201: mejor modelo = arima, MAE sep-nov = 5.8446, stock = 1.79559, pred ajustada = 30.67
+Producto 20202: mejor modelo = arima, MAE sep-nov = 9.0346, stock = 36.81659, pred ajustada = 14.16
+Producto 20203: mejor modelo = arima, MAE sep-nov = 15.9524, stock = 7.9898, pred ajustada = 26.65
+Producto 20205: mejor modelo = regresion, MAE sep-nov = 4.2400, stock = 18.43979, pred ajustada = 22.41
+Producto 20206: mejor modelo = arima, MAE sep-nov = 9.0840, stock = 40.64424, pred ajustada = 11.78
+Producto 20207: mejor modelo = arima, MAE sep-nov = 4.0838, stock = 0.0, pred ajustada = 23.07
+Producto 20208: mejor modelo = arima, MAE sep-nov = 3.6683, stock = 14.90078, pred ajustada = 16.54
+Producto 20209: mejor modelo = lgbm, MAE sep-nov = 3.0192, stock = -0.13104, pred ajustada = 29.97
+Producto 20211: mejor modelo = arima, MAE sep-nov = 5.2983, stock = 76.02067, pred ajustada = 5.48
+Producto 20212: mejor modelo = lgbm, MAE sep-nov = 12.9057, stock = 39.90531, pred ajustada = 9.31
+Producto 20215: mejor modelo = lgbm, MAE sep-nov = 4.4108, stock = 11.93891, pred ajustada = 19.08
+Producto 20216: mejor modelo = arima, MAE sep-nov = 2.0094, stock = 14.5509, pred ajustada = 12.56
+Producto 20218: mejor modelo = regresion, MAE sep-nov = 11.8857, stock = 0.0, pred ajustada = 25.42
+Producto 20219: mejor modelo = arima, MAE sep-nov = 5.6918, stock = 14.6504, pred ajustada = 10.30
+Producto 20220: mejor modelo = lgbm, MAE sep-nov = 4.2292, stock = 23.16337, pred ajustada = 13.76
+Producto 20222: mejor modelo = lgbm, MAE sep-nov = 5.8634, stock = 6.34715, pred ajustada = 22.77
+Producto 20224: mejor modelo = arima, MAE sep-nov = 7.8772, stock = 41.53695, pred ajustada = 9.94
+Producto 20225: mejor modelo = arima, MAE sep-nov = 3.4786, stock = 13.89272, pred ajustada = 13.02
+Producto 20226: mejor modelo = arima, MAE sep-nov = 2.1843, stock = 12.41213, pred ajustada = 14.38
+Producto 20227: mejor modelo = arima, MAE sep-nov = 23.1121, stock = 23.84266, pred ajustada = 18.09
+Producto 20228: mejor modelo = arima, MAE sep-nov = 1.6155, stock = -0.15725, pred ajustada = 11.78
+Producto 20230: mejor modelo = arima, MAE sep-nov = 3.2531, stock = 1.52165, pred ajustada = 19.73
+Producto 20231: mejor modelo = arima, MAE sep-nov = 3.0945, stock = 7.6036, pred ajustada = 16.58
+Producto 20232: mejor modelo = arima, MAE sep-nov = 18.8484, stock = 5.10783, pred ajustada = 28.78
+Producto 20233: mejor modelo = lgbm, MAE sep-nov = 2.9245, stock = 0.0, pred ajustada = 24.94
+Producto 20234: mejor modelo = regresion, MAE sep-nov = 12.9887, stock = 8.17862, pred ajustada = 26.23
+Producto 20235: mejor modelo = arima, MAE sep-nov = 12.3743, stock = 13.34741, pred ajustada = 21.35
+Producto 20237: mejor modelo = lgbm, MAE sep-nov = 1.8486, stock = 78.98611, pred ajustada = 9.70
+Producto 20238: mejor modelo = lgbm, MAE sep-nov = 6.4264, stock = 0.0, pred ajustada = 24.93
+Producto 20239: mejor modelo = regresion, MAE sep-nov = 1.8255, stock = 7.6188, pred ajustada = 18.65
+Producto 20240: mejor modelo = regresion, MAE sep-nov = 3.8656, stock = 9.83455, pred ajustada = 17.85
+Producto 20241: mejor modelo = lgbm, MAE sep-nov = 2.8700, stock = 17.4377, pred ajustada = 13.48
+Producto 20242: mejor modelo = arima, MAE sep-nov = 4.3613, stock = 0.0, pred ajustada = 21.27
+Producto 20244: mejor modelo = lgbm, MAE sep-nov = 7.2159, stock = 36.30656, pred ajustada = 7.94
+Producto 20246: mejor modelo = regresion, MAE sep-nov = 5.3387, stock = 25.45101, pred ajustada = 11.88
+Producto 20249: mejor modelo = arima, MAE sep-nov = 2.6403, stock = 27.65293, pred ajustada = 5.45
+Producto 20251: mejor modelo = regresion, MAE sep-nov = 8.7890, stock = 6.23948, pred ajustada = 19.02
+Producto 20252: mejor modelo = regresion, MAE sep-nov = 3.9887, stock = 15.5789, pred ajustada = 15.53
+Producto 20253: mejor modelo = regresion, MAE sep-nov = 0.8458, stock = 2.04, pred ajustada = 22.96
+Producto 20254: mejor modelo = regresion, MAE sep-nov = 2.3848, stock = 25.04574, pred ajustada = 9.99
+Producto 20255: mejor modelo = arima, MAE sep-nov = 5.2405, stock = 9.9479, pred ajustada = 4.25
+Producto 20256: mejor modelo = regresion, MAE sep-nov = 3.5471, stock = 19.69728, pred ajustada = 11.96
+Producto 20259: mejor modelo = regresion, MAE sep-nov = 3.5641, stock = 0.0, pred ajustada = 27.05
+Producto 20262: mejor modelo = regresion, MAE sep-nov = 6.1732, stock = 0.52252, pred ajustada = 22.18
+Producto 20263: mejor modelo = lgbm, MAE sep-nov = 3.0844, stock = 8.50564, pred ajustada = 15.40
+Producto 20264: mejor modelo = regresion, MAE sep-nov = 3.7354, stock = 6.06222, pred ajustada = 19.38
+Producto 20265: mejor modelo = arima, MAE sep-nov = 9.4149, stock = 0.8726, pred ajustada = 18.67
+Producto 20266: mejor modelo = regresion, MAE sep-nov = 19.5846, stock = 29.12364, pred ajustada = 11.20
+Producto 20267: mejor modelo = lgbm, MAE sep-nov = 4.0448, stock = 2.61209, pred ajustada = 18.74
+Producto 20268: mejor modelo = lgbm, MAE sep-nov = 1.6453, stock = 3.4546, pred ajustada = 18.59
+Producto 20269: mejor modelo = arima, MAE sep-nov = 6.2538, stock = 6.77896, pred ajustada = 13.70
+Producto 20270: mejor modelo = lgbm, MAE sep-nov = 3.1655, stock = 0.0, pred ajustada = 23.78
+Producto 20271: mejor modelo = arima, MAE sep-nov = 7.1010, stock = 16.53201, pred ajustada = 9.13
+Producto 20272: mejor modelo = regresion, MAE sep-nov = 1.2557, stock = 8.03537, pred ajustada = 16.16
+Producto 20273: mejor modelo = regresion, MAE sep-nov = 1.9713, stock = 11.50433, pred ajustada = 15.60
+Producto 20275: mejor modelo = arima, MAE sep-nov = 5.2431, stock = 9.08683, pred ajustada = 13.73
+Producto 20276: mejor modelo = arima, MAE sep-nov = 3.1942, stock = 0.1602, pred ajustada = 19.20
+Producto 20277: mejor modelo = arima, MAE sep-nov = 0.8427, stock = 3.32867, pred ajustada = 16.68
+Producto 20278: mejor modelo = arima, MAE sep-nov = 2.7726, stock = 36.59947, pred ajustada = 2.21
+Producto 20280: mejor modelo = arima, MAE sep-nov = 4.6125, stock = 9.34996, pred ajustada = 12.33
+Producto 20281: mejor modelo = arima, MAE sep-nov = 6.9447, stock = 28.31938, pred ajustada = 7.55
+Producto 20282: mejor modelo = arima, MAE sep-nov = 3.4917, stock = 0.0, pred ajustada = 20.70
+Producto 20283: mejor modelo = arima, MAE sep-nov = 2.6209, stock = 19.4162, pred ajustada = 8.96
+Producto 20284: mejor modelo = lgbm, MAE sep-nov = 2.7684, stock = 11.00669, pred ajustada = 13.35
+Producto 20285: mejor modelo = regresion, MAE sep-nov = 3.5275, stock = 0.0, pred ajustada = 22.20
+Producto 20288: mejor modelo = arima, MAE sep-nov = 2.4631, stock = 1.07467, pred ajustada = 15.61
+Producto 20289: mejor modelo = lgbm, MAE sep-nov = 3.1726, stock = 20.9209, pred ajustada = 10.56
+Producto 20290: mejor modelo = regresion, MAE sep-nov = 9.7010, stock = 23.05553, pred ajustada = 8.48
+Producto 20291: mejor modelo = arima, MAE sep-nov = 2.1193, stock = 15.74343, pred ajustada = 9.85
+Producto 20292: mejor modelo = regresion, MAE sep-nov = 0.7866, stock = 15.83123, pred ajustada = 11.46
+Producto 20295: mejor modelo = arima, MAE sep-nov = 4.5636, stock = 10.40392, pred ajustada = 11.49
+Producto 20296: mejor modelo = arima, MAE sep-nov = 0.4497, stock = 0.19951, pred ajustada = 18.22
+Producto 20297: mejor modelo = lgbm, MAE sep-nov = 12.3622, stock = 8.13158, pred ajustada = 15.43
+Producto 20298: mejor modelo = arima, MAE sep-nov = 3.6725, stock = 15.35767, pred ajustada = 10.57
+Producto 20299: mejor modelo = regresion, MAE sep-nov = 10.2992, stock = 36.75399, pred ajustada = 5.68
+Producto 20300: mejor modelo = arima, MAE sep-nov = 2.7823, stock = 0.00197, pred ajustada = 16.92
+Producto 20301: mejor modelo = regresion, MAE sep-nov = 4.1611, stock = 1.95232, pred ajustada = 18.29
+Producto 20302: mejor modelo = arima, MAE sep-nov = 3.9339, stock = 2.6407, pred ajustada = 5.86
+Producto 20303: mejor modelo = lgbm, MAE sep-nov = 5.0153, stock = 0.17518, pred ajustada = 19.19
+Producto 20304: mejor modelo = arima, MAE sep-nov = 4.5447, stock = 17.94156, pred ajustada = 7.91
+Producto 20305: mejor modelo = arima, MAE sep-nov = 3.2424, stock = 1.24843, pred ajustada = 5.47
+Producto 20306: mejor modelo = lgbm, MAE sep-nov = 11.7407, stock = 12.96713, pred ajustada = 13.07
+Producto 20307: mejor modelo = arima, MAE sep-nov = 5.8378, stock = 2.31843, pred ajustada = 14.47
+Producto 20309: mejor modelo = lgbm, MAE sep-nov = 1.7304, stock = 0.00449, pred ajustada = 18.26
+Producto 20310: mejor modelo = lgbm, MAE sep-nov = 6.6394, stock = 0.0, pred ajustada = 17.90
+Producto 20311: mejor modelo = arima, MAE sep-nov = 0.7646, stock = 34.37889, pred ajustada = 7.55
+Producto 20313: mejor modelo = lgbm, MAE sep-nov = 7.6798, stock = 16.93692, pred ajustada = 8.83
+Producto 20314: mejor modelo = regresion, MAE sep-nov = 0.4787, stock = 0.12248, pred ajustada = 17.79
+Producto 20315: mejor modelo = arima, MAE sep-nov = 1.7840, stock = 3.91376, pred ajustada = 12.03
+Producto 20316: mejor modelo = arima, MAE sep-nov = 13.2858, stock = 8.50695, pred ajustada = 15.48
+Producto 20317: mejor modelo = regresion, MAE sep-nov = 2.4967, stock = 0.23849, pred ajustada = 18.93
+Producto 20319: mejor modelo = regresion, MAE sep-nov = 3.6995, stock = 15.62289, pred ajustada = 12.12
+Producto 20320: mejor modelo = lgbm, MAE sep-nov = 1.3093, stock = 2.91793, pred ajustada = 14.22
+Producto 20321: mejor modelo = arima, MAE sep-nov = 11.2020, stock = 5.32904, pred ajustada = 12.86
+Producto 20322: mejor modelo = arima, MAE sep-nov = 2.0595, stock = 15.48609, pred ajustada = 4.55
+Producto 20323: mejor modelo = arima, MAE sep-nov = 7.3039, stock = 0.0, pred ajustada = 22.95
+Producto 20324: mejor modelo = lgbm, MAE sep-nov = 1.2728, stock = 13.14271, pred ajustada = 10.63
+Producto 20325: mejor modelo = arima, MAE sep-nov = 2.2963, stock = 14.78131, pred ajustada = 5.02
+Producto 20326: mejor modelo = arima, MAE sep-nov = 2.7781, stock = 20.19641, pred ajustada = 7.30
+Producto 20327: mejor modelo = arima, MAE sep-nov = 2.6664, stock = 11.91868, pred ajustada = 9.27
+Producto 20328: mejor modelo = arima, MAE sep-nov = 7.1965, stock = 26.88504, pred ajustada = 7.76
+Producto 20329: mejor modelo = arima, MAE sep-nov = 4.1361, stock = 7.34746, pred ajustada = 10.63
+Producto 20330: mejor modelo = lgbm, MAE sep-nov = 0.3966, stock = 2.9495, pred ajustada = 14.53
+Producto 20332: mejor modelo = arima, MAE sep-nov = 3.8760, stock = 7.86636, pred ajustada = 12.79
+Producto 20334: mejor modelo = arima, MAE sep-nov = 9.3563, stock = 2.75163, pred ajustada = 21.74
+Producto 20335: mejor modelo = regresion, MAE sep-nov = 4.2222, stock = 28.00538, pred ajustada = 7.95
+Producto 20336: mejor modelo = regresion, MAE sep-nov = 2.0871, stock = 12.00303, pred ajustada = 10.71
+Producto 20337: mejor modelo = regresion, MAE sep-nov = 0.6919, stock = 15.58175, pred ajustada = 8.80
+Producto 20338: mejor modelo = regresion, MAE sep-nov = 2.7256, stock = 2.7337, pred ajustada = 16.11
+Producto 20340: mejor modelo = lgbm, MAE sep-nov = 10.7271, stock = 0.43532, pred ajustada = 19.44
+Producto 20341: mejor modelo = arima, MAE sep-nov = 3.5637, stock = 6.27622, pred ajustada = 8.32
+Producto 20342: mejor modelo = lgbm, MAE sep-nov = 5.5951, stock = 37.28844, pred ajustada = 5.81
+Producto 20343: mejor modelo = lgbm, MAE sep-nov = 2.6910, stock = 19.52828, pred ajustada = 7.99
+Producto 20344: mejor modelo = regresion, MAE sep-nov = 4.0628, stock = 21.30641, pred ajustada = 12.28
+Producto 20346: mejor modelo = arima, MAE sep-nov = 3.0628, stock = 11.23523, pred ajustada = 7.16
+Producto 20348: mejor modelo = arima, MAE sep-nov = 1.7309, stock = 9.99347, pred ajustada = 13.34
+Producto 20349: mejor modelo = arima, MAE sep-nov = 1.2514, stock = -0.55353, pred ajustada = 12.98
+Producto 20350: mejor modelo = arima, MAE sep-nov = 1.4608, stock = 11.85393, pred ajustada = 1.37
+Producto 20351: mejor modelo = lgbm, MAE sep-nov = 3.4358, stock = 23.05673, pred ajustada = 10.70
+Producto 20352: mejor modelo = arima, MAE sep-nov = 2.4864, stock = 4.00808, pred ajustada = 16.36
+Producto 20353: mejor modelo = lgbm, MAE sep-nov = 3.0752, stock = 2.54267, pred ajustada = 13.76
+Producto 20354: mejor modelo = lgbm, MAE sep-nov = 1.6741, stock = 2.03046, pred ajustada = 12.59
+Producto 20356: mejor modelo = lgbm, MAE sep-nov = 1.8951, stock = 5.60388, pred ajustada = 11.63
+Producto 20357: mejor modelo = arima, MAE sep-nov = 0.9792, stock = 2.58635, pred ajustada = 11.52
+Producto 20358: mejor modelo = arima, MAE sep-nov = 4.2321, stock = 2.36964, pred ajustada = 9.30
+Producto 20359: mejor modelo = arima, MAE sep-nov = 0.9685, stock = 1.37888, pred ajustada = 12.78
+Producto 20361: mejor modelo = arima, MAE sep-nov = 6.5278, stock = 21.64371, pred ajustada = 7.27
+Producto 20362: mejor modelo = arima, MAE sep-nov = 2.7954, stock = 4.80311, pred ajustada = 2.75
+Producto 20364: mejor modelo = arima, MAE sep-nov = 6.9473, stock = 0.01284, pred ajustada = 30.22
+Producto 20365: mejor modelo = lgbm, MAE sep-nov = 1.4675, stock = 2.09316, pred ajustada = 12.85
+Producto 20366: mejor modelo = arima, MAE sep-nov = 2.9850, stock = 11.49764, pred ajustada = 8.72
+Producto 20367: mejor modelo = arima, MAE sep-nov = 1.7261, stock = -0.07415, pred ajustada = 12.57
+Producto 20368: mejor modelo = arima, MAE sep-nov = 1.1855, stock = 9.44737, pred ajustada = 14.13
+Producto 20372: mejor modelo = arima, MAE sep-nov = 5.1088, stock = 23.85387, pred ajustada = 4.68
+Producto 20375: mejor modelo = arima, MAE sep-nov = 2.6535, stock = 29.50147, pred ajustada = 4.98
+Producto 20377: mejor modelo = arima, MAE sep-nov = 0.7313, stock = 12.98458, pred ajustada = 8.52
+Producto 20378: mejor modelo = lgbm, MAE sep-nov = 5.8690, stock = 28.34259, pred ajustada = 10.63
+Producto 20379: mejor modelo = arima, MAE sep-nov = 2.5906, stock = 2.92936, pred ajustada = 8.48
+Producto 20380: mejor modelo = arima, MAE sep-nov = 2.0793, stock = 10.91388, pred ajustada = 9.99
+Producto 20381: mejor modelo = arima, MAE sep-nov = 1.5868, stock = 2.95233, pred ajustada = 13.55
+Producto 20382: mejor modelo = arima, MAE sep-nov = 3.5404, stock = -4.44673, pred ajustada = 9.49
+Producto 20383: mejor modelo = arima, MAE sep-nov = 2.1516, stock = 21.00641, pred ajustada = 5.16
+Producto 20384: mejor modelo = arima, MAE sep-nov = 6.1039, stock = 28.16792, pred ajustada = 5.27
+Producto 20385: mejor modelo = arima, MAE sep-nov = 1.1076, stock = 3.71791, pred ajustada = 8.57
+Producto 20386: mejor modelo = lgbm, MAE sep-nov = 0.5746, stock = 1.22801, pred ajustada = 12.00
+Producto 20387: mejor modelo = regresion, MAE sep-nov = 2.9083, stock = 0.08358, pred ajustada = 18.78
+Producto 20388: mejor modelo = arima, MAE sep-nov = 2.3489, stock = 70.77252, pred ajustada = 2.88
+Producto 20389: mejor modelo = arima, MAE sep-nov = 3.2185, stock = 0.40306, pred ajustada = 28.91
+Producto 20390: mejor modelo = arima, MAE sep-nov = 3.8935, stock = 12.80321, pred ajustada = 8.28
+Producto 20395: mejor modelo = lgbm, MAE sep-nov = 5.5710, stock = 1.10838, pred ajustada = 14.08
+Producto 20396: mejor modelo = lgbm, MAE sep-nov = 0.6915, stock = 0.0, pred ajustada = 12.58
+Producto 20398: mejor modelo = regresion, MAE sep-nov = 6.4843, stock = 8.7082, pred ajustada = 13.97
+Producto 20400: mejor modelo = arima, MAE sep-nov = 1.2574, stock = 20.29602, pred ajustada = 5.37
+Producto 20401: mejor modelo = regresion, MAE sep-nov = 1.1919, stock = 3.53811, pred ajustada = 12.57
+Producto 20402: mejor modelo = lgbm, MAE sep-nov = 2.1716, stock = 18.93419, pred ajustada = 7.87
+Producto 20403: mejor modelo = regresion, MAE sep-nov = 1.7414, stock = 11.65777, pred ajustada = 11.01
+Producto 20404: mejor modelo = arima, MAE sep-nov = 1.7102, stock = 18.09135, pred ajustada = 4.31
+Producto 20406: mejor modelo = lgbm, MAE sep-nov = 3.8617, stock = 21.47855, pred ajustada = 6.25
+Producto 20407: mejor modelo = regresion, MAE sep-nov = 1.6979, stock = 0.08452, pred ajustada = 12.79
+Producto 20409: mejor modelo = arima, MAE sep-nov = 0.7182, stock = 9.13185, pred ajustada = 4.20
+Producto 20410: mejor modelo = arima, MAE sep-nov = 2.5265, stock = 0.08374, pred ajustada = 9.65
+Producto 20411: mejor modelo = regresion, MAE sep-nov = 0.9200, stock = 2.3086, pred ajustada = 12.52
+Producto 20415: mejor modelo = arima, MAE sep-nov = 1.3291, stock = 12.2964, pred ajustada = 4.57
+Producto 20416: mejor modelo = arima, MAE sep-nov = 2.9934, stock = 0.49264, pred ajustada = 4.49
+Producto 20417: mejor modelo = regresion, MAE sep-nov = 2.1198, stock = 12.32396, pred ajustada = 8.10
+Producto 20418: mejor modelo = arima, MAE sep-nov = 3.9128, stock = 0.83047, pred ajustada = 5.08
+Producto 20419: mejor modelo = regresion, MAE sep-nov = 1.0396, stock = 6.58209, pred ajustada = 8.52
+Producto 20421: mejor modelo = regresion, MAE sep-nov = 2.0212, stock = 6.36594, pred ajustada = 9.79
+Producto 20422: mejor modelo = arima, MAE sep-nov = 4.5750, stock = 0.76658, pred ajustada = 5.96
+Producto 20424: mejor modelo = arima, MAE sep-nov = 1.1015, stock = 0.13176, pred ajustada = 8.38
+Producto 20426: mejor modelo = regresion, MAE sep-nov = 6.1235, stock = 9.18536, pred ajustada = 6.15
+Producto 20428: mejor modelo = arima, MAE sep-nov = 0.2507, stock = 1.71662, pred ajustada = 1.40
+Producto 20429: mejor modelo = arima, MAE sep-nov = 3.0658, stock = 1.20964, pred ajustada = 4.27
+Producto 20432: mejor modelo = regresion, MAE sep-nov = 0.6615, stock = 0.11762, pred ajustada = 11.88
+Producto 20433: mejor modelo = regresion, MAE sep-nov = 3.1474, stock = 2.76232, pred ajustada = 9.21
+Producto 20434: mejor modelo = arima, MAE sep-nov = 0.8432, stock = 11.56539, pred ajustada = 5.98
+Producto 20438: mejor modelo = arima, MAE sep-nov = 3.4632, stock = 0.19247, pred ajustada = 12.58
+Producto 20443: mejor modelo = arima, MAE sep-nov = 0.5338, stock = 20.45878, pred ajustada = 4.27
+Producto 20447: mejor modelo = arima, MAE sep-nov = 0.9446, stock = 2.65236, pred ajustada = 8.74
+Producto 20449: mejor modelo = arima, MAE sep-nov = 0.9236, stock = 4.57939, pred ajustada = 1.81
+Producto 20450: mejor modelo = regresion, MAE sep-nov = 1.5990, stock = 0.0, pred ajustada = 10.33
+Producto 20453: mejor modelo = arima, MAE sep-nov = 2.7374, stock = 1.43741, pred ajustada = 9.49
+Producto 20456: mejor modelo = lgbm, MAE sep-nov = 2.2268, stock = 16.53517, pred ajustada = 5.98
+Producto 20459: mejor modelo = lgbm, MAE sep-nov = 2.5042, stock = 3.48095, pred ajustada = 16.82
+Producto 20463: mejor modelo = regresion, MAE sep-nov = 3.0666, stock = 4.70588, pred ajustada = 6.69
+Producto 20464: mejor modelo = regresion, MAE sep-nov = 2.4802, stock = 7.93126, pred ajustada = 8.15
+Producto 20465: mejor modelo = arima, MAE sep-nov = 1.0059, stock = 4.87012, pred ajustada = 6.10
+Producto 20466: mejor modelo = regresion, MAE sep-nov = 1.0118, stock = 18.62015, pred ajustada = 5.23
+Producto 20469: mejor modelo = lgbm, MAE sep-nov = 2.9337, stock = 8.32702, pred ajustada = 6.53
+Producto 20470: mejor modelo = arima, MAE sep-nov = 0.8989, stock = 7.24419, pred ajustada = 6.38
+Producto 20473: mejor modelo = arima, MAE sep-nov = 5.0246, stock = 2.84102, pred ajustada = 8.70
+Producto 20474: mejor modelo = lgbm, MAE sep-nov = 2.0737, stock = 3.08799, pred ajustada = 7.25
+Producto 20478: mejor modelo = arima, MAE sep-nov = 1.3547, stock = 17.44469, pred ajustada = 2.92
+Producto 20479: mejor modelo = lgbm, MAE sep-nov = 1.3445, stock = 19.93473, pred ajustada = 6.29
+Producto 20480: mejor modelo = arima, MAE sep-nov = 1.5424, stock = 17.01712, pred ajustada = 3.24
+Producto 20481: mejor modelo = lgbm, MAE sep-nov = 0.8586, stock = 4.46999, pred ajustada = 7.44
+Producto 20482: mejor modelo = lgbm, MAE sep-nov = 1.4150, stock = 9.65591, pred ajustada = 6.71
+Producto 20483: mejor modelo = arima, MAE sep-nov = 2.2185, stock = 0.26245, pred ajustada = 8.75
+Producto 20484: mejor modelo = regresion, MAE sep-nov = 1.3285, stock = 0.17372, pred ajustada = 9.98
+Producto 20488: mejor modelo = arima, MAE sep-nov = 1.3369, stock = 36.39112, pred ajustada = 4.74
+Producto 20490: mejor modelo = arima, MAE sep-nov = 1.0387, stock = 4.406, pred ajustada = 1.36
+Producto 20495: mejor modelo = lgbm, MAE sep-nov = 1.2607, stock = 20.70867, pred ajustada = 8.61
+Producto 20496: mejor modelo = arima, MAE sep-nov = 1.4333, stock = 1.80283, pred ajustada = 6.97
+Producto 20497: mejor modelo = arima, MAE sep-nov = 1.5710, stock = 8.78674, pred ajustada = 5.56
+Producto 20500: mejor modelo = lgbm, MAE sep-nov = 1.6107, stock = 4.49009, pred ajustada = 6.50
+Producto 20502: mejor modelo = arima, MAE sep-nov = 1.1040, stock = 0.0, pred ajustada = 6.97
+Producto 20503: mejor modelo = arima, MAE sep-nov = 2.1808, stock = 4.2315, pred ajustada = 13.60
+Producto 20505: mejor modelo = regresion, MAE sep-nov = 0.9553, stock = 3.55848, pred ajustada = 8.20
+Producto 20508: mejor modelo = arima, MAE sep-nov = 2.7653, stock = 15.3705, pred ajustada = 1.18
+Producto 20509: mejor modelo = arima, MAE sep-nov = 2.4024, stock = 1.87496, pred ajustada = 3.35
+Producto 20513: mejor modelo = lgbm, MAE sep-nov = 1.5465, stock = 0.0, pred ajustada = 8.62
+Producto 20514: mejor modelo = lgbm, MAE sep-nov = 0.9367, stock = 17.73845, pred ajustada = 4.22
+Producto 20517: mejor modelo = arima, MAE sep-nov = 0.7309, stock = 3.84111, pred ajustada = 5.04
+Producto 20520: mejor modelo = regresion, MAE sep-nov = 3.0429, stock = 9.18372, pred ajustada = 5.63
+Producto 20522: mejor modelo = lgbm, MAE sep-nov = 1.7745, stock = 26.10105, pred ajustada = 6.72
+Producto 20523: mejor modelo = lgbm, MAE sep-nov = 1.1078, stock = 13.04903, pred ajustada = 9.70
+Producto 20524: mejor modelo = lgbm, MAE sep-nov = 1.3313, stock = 19.76083, pred ajustada = 3.87
+Producto 20527: mejor modelo = regresion, MAE sep-nov = 1.9011, stock = 17.79672, pred ajustada = 8.39
+Producto 20530: mejor modelo = regresion, MAE sep-nov = 3.1113, stock = 11.8748, pred ajustada = 5.92
+Producto 20532: mejor modelo = arima, MAE sep-nov = 0.6929, stock = 13.63651, pred ajustada = 3.24
+Producto 20536: mejor modelo = regresion, MAE sep-nov = 0.7066, stock = 2.04717, pred ajustada = 7.59
+Producto 20538: mejor modelo = lgbm, MAE sep-nov = 2.3489, stock = 11.67398, pred ajustada = 3.90
+Producto 20539: mejor modelo = arima, MAE sep-nov = 1.3135, stock = 1.58722, pred ajustada = 4.12
+Producto 20540: mejor modelo = arima, MAE sep-nov = 2.2981, stock = 6.47585, pred ajustada = 11.59
+Producto 20541: mejor modelo = regresion, MAE sep-nov = 1.0122, stock = 23.45372, pred ajustada = 5.69
+Producto 20542: mejor modelo = lgbm, MAE sep-nov = 1.5855, stock = 0.66437, pred ajustada = 7.26
+Producto 20544: mejor modelo = regresion, MAE sep-nov = 1.8112, stock = 4.31487, pred ajustada = 7.85
+Producto 20549: mejor modelo = lgbm, MAE sep-nov = 3.4724, stock = 12.84775, pred ajustada = 3.82
+Producto 20551: mejor modelo = arima, MAE sep-nov = 1.1864, stock = 35.25237, pred ajustada = 1.89
+Producto 20552: mejor modelo = arima, MAE sep-nov = 2.6839, stock = 10.49925, pred ajustada = 1.78
+Producto 20553: mejor modelo = regresion, MAE sep-nov = 1.9021, stock = 9.88702, pred ajustada = 11.38
+Producto 20555: mejor modelo = regresion, MAE sep-nov = 2.5970, stock = 3.00431, pred ajustada = 7.80
+Producto 20559: mejor modelo = regresion, MAE sep-nov = 2.7343, stock = 23.88484, pred ajustada = 7.28
+Producto 20560: mejor modelo = arima, MAE sep-nov = 1.2411, stock = 14.33483, pred ajustada = 3.16
+Producto 20561: mejor modelo = arima, MAE sep-nov = 2.8927, stock = 0.83014, pred ajustada = 3.27
+Producto 20563: mejor modelo = arima, MAE sep-nov = 5.3716, stock = 0.15921, pred ajustada = 5.36
+Producto 20565: mejor modelo = regresion, MAE sep-nov = 1.9356, stock = 5.46917, pred ajustada = 6.01
+Producto 20567: mejor modelo = lgbm, MAE sep-nov = 2.1617, stock = 6.52317, pred ajustada = 6.81
+Producto 20568: mejor modelo = regresion, MAE sep-nov = 0.9497, stock = 5.45454, pred ajustada = 4.28
+Producto 20569: mejor modelo = lgbm, MAE sep-nov = 1.8807, stock = -0.09524, pred ajustada = 9.84
+Producto 20570: mejor modelo = lgbm, MAE sep-nov = 0.2684, stock = 6.75813, pred ajustada = 4.42
+Producto 20571: mejor modelo = lgbm, MAE sep-nov = 1.3878, stock = 10.60323, pred ajustada = 6.36
+Producto 20572: mejor modelo = arima, MAE sep-nov = 0.6659, stock = 7.43316, pred ajustada = 3.18
+Producto 20574: mejor modelo = lgbm, MAE sep-nov = 1.5365, stock = 17.72578, pred ajustada = 3.33
+Producto 20576: mejor modelo = regresion, MAE sep-nov = 2.2819, stock = 6.25388, pred ajustada = 6.29
+Producto 20578: mejor modelo = arima, MAE sep-nov = 0.8839, stock = 18.77175, pred ajustada = 2.89
+Producto 20579: mejor modelo = regresion, MAE sep-nov = 1.5333, stock = 2.61774, pred ajustada = 6.28
+Producto 20583: mejor modelo = arima, MAE sep-nov = 0.3154, stock = 3.4145, pred ajustada = 3.84
+Producto 20585: mejor modelo = lgbm, MAE sep-nov = 2.1831, stock = 0.0, pred ajustada = 5.08
+Producto 20586: mejor modelo = arima, MAE sep-nov = 1.0837, stock = 0.93912, pred ajustada = 1.76
+Producto 20588: mejor modelo = arima, MAE sep-nov = 2.8111, stock = 11.67348, pred ajustada = 3.24
+Producto 20589: mejor modelo = regresion, MAE sep-nov = 0.7138, stock = 10.21348, pred ajustada = 5.38
+Producto 20596: mejor modelo = lgbm, MAE sep-nov = 2.1887, stock = 13.1922, pred ajustada = 3.89
+Producto 20597: mejor modelo = arima, MAE sep-nov = 1.9546, stock = -0.00273, pred ajustada = 2.49
+Producto 20599: mejor modelo = arima, MAE sep-nov = 0.6093, stock = 0.60835, pred ajustada = 4.38
+Producto 20600: mejor modelo = lgbm, MAE sep-nov = 0.6242, stock = 1.81514, pred ajustada = 4.73
+Producto 20601: mejor modelo = regresion, MAE sep-nov = 3.5105, stock = 0.2964, pred ajustada = 8.92
+Producto 20602: mejor modelo = arima, MAE sep-nov = 0.5276, stock = 0.32422, pred ajustada = 3.92
+Producto 20604: mejor modelo = lgbm, MAE sep-nov = 1.6731, stock = 0.0, pred ajustada = 5.83
+Producto 20605: mejor modelo = lgbm, MAE sep-nov = 0.2989, stock = 0.00097, pred ajustada = 5.25
+Producto 20606: mejor modelo = arima, MAE sep-nov = 0.6774, stock = 5.62622, pred ajustada = 4.16
+Producto 20609: mejor modelo = arima, MAE sep-nov = 1.1475, stock = -0.15201, pred ajustada = 4.62
+Producto 20611: mejor modelo = lgbm, MAE sep-nov = 0.8318, stock = 2.4552, pred ajustada = 10.42
+Producto 20612: mejor modelo = lgbm, MAE sep-nov = 3.2795, stock = 0.0, pred ajustada = 4.70
+Producto 20614: mejor modelo = arima, MAE sep-nov = 1.0218, stock = 4.30376, pred ajustada = 3.32
+Producto 20617: mejor modelo = arima, MAE sep-nov = 0.4455, stock = 3.91382, pred ajustada = 3.24
+Producto 20622: mejor modelo = lgbm, MAE sep-nov = 0.5022, stock = 10.57675, pred ajustada = 3.17
+Producto 20624: mejor modelo = arima, MAE sep-nov = 0.9803, stock = 4.92547, pred ajustada = 3.57
+Producto 20628: mejor modelo = regresion, MAE sep-nov = 0.1284, stock = 5.31939, pred ajustada = 3.50
+Producto 20629: mejor modelo = arima, MAE sep-nov = 0.3271, stock = 9.26494, pred ajustada = 2.18
+Producto 20632: mejor modelo = arima, MAE sep-nov = 0.5226, stock = 4.45087, pred ajustada = 2.82
+Producto 20636: mejor modelo = regresion, MAE sep-nov = 3.7513, stock = 1.91406, pred ajustada = 7.19
+Producto 20637: mejor modelo = regresion, MAE sep-nov = 0.2808, stock = 1.86841, pred ajustada = 4.36
+Producto 20638: mejor modelo = regresion, MAE sep-nov = 0.7222, stock = 14.53801, pred ajustada = 3.16
+Producto 20639: mejor modelo = lgbm, MAE sep-nov = 0.1815, stock = 4.19172, pred ajustada = 3.68
+Producto 20640: mejor modelo = arima, MAE sep-nov = 0.0843, stock = -0.00325, pred ajustada = 3.70
+Producto 20641: mejor modelo = regresion, MAE sep-nov = 1.3103, stock = 7.97553, pred ajustada = 4.53
+Producto 20642: mejor modelo = regresion, MAE sep-nov = 1.2210, stock = 10.78377, pred ajustada = 3.47
+Producto 20644: mejor modelo = arima, MAE sep-nov = 0.3794, stock = 3.8493, pred ajustada = 2.16
+Producto 20646: mejor modelo = regresion, MAE sep-nov = 0.6757, stock = 0.09033, pred ajustada = 4.89
+Producto 20647: mejor modelo = regresion, MAE sep-nov = 1.2038, stock = 2.15779, pred ajustada = 5.94
+Producto 20651: mejor modelo = arima, MAE sep-nov = 0.7589, stock = 17.1689, pred ajustada = 2.06
+Producto 20652: mejor modelo = lgbm, MAE sep-nov = 1.1489, stock = 15.0281, pred ajustada = 2.57
+Producto 20653: mejor modelo = regresion, MAE sep-nov = 0.7683, stock = 4.086, pred ajustada = 4.15
+Producto 20654: mejor modelo = arima, MAE sep-nov = 0.5758, stock = -0.02343, pred ajustada = 3.44
+Producto 20655: mejor modelo = arima, MAE sep-nov = 0.1266, stock = 7.84122, pred ajustada = 2.10
+Producto 20657: mejor modelo = arima, MAE sep-nov = 3.4571, stock = 11.76647, pred ajustada = 0.09
+Producto 20658: mejor modelo = lgbm, MAE sep-nov = 0.9980, stock = 8.69728, pred ajustada = 2.60
+Producto 20660: mejor modelo = arima, MAE sep-nov = 1.0453, stock = -0.72618, pred ajustada = 3.70
+Producto 20661: mejor modelo = lgbm, MAE sep-nov = 1.0886, stock = 5.43454, pred ajustada = 3.20
+Producto 20663: mejor modelo = arima, MAE sep-nov = 0.1158, stock = 0.35283, pred ajustada = 0.61
+Producto 20664: mejor modelo = arima, MAE sep-nov = 1.4015, stock = 2.65266, pred ajustada = 3.35
+Producto 20666: mejor modelo = lgbm, MAE sep-nov = 3.3247, stock = 0.0, pred ajustada = 5.00
+Producto 20667: mejor modelo = lgbm, MAE sep-nov = 0.9883, stock = 2.13111, pred ajustada = 4.36
+Producto 20670: mejor modelo = arima, MAE sep-nov = 1.2931, stock = 7.7557, pred ajustada = -0.82
+Producto 20672: mejor modelo = regresion, MAE sep-nov = 0.7158, stock = 9.14397, pred ajustada = 2.84
+Producto 20676: mejor modelo = arima, MAE sep-nov = 0.9169, stock = 8.23095, pred ajustada = 1.75
+Producto 20677: mejor modelo = arima, MAE sep-nov = 0.6737, stock = 6.23587, pred ajustada = 2.26
+Producto 20678: mejor modelo = arima, MAE sep-nov = 0.2826, stock = 0.77969, pred ajustada = 0.65
+Producto 20679: mejor modelo = lgbm, MAE sep-nov = 1.3730, stock = 1.02728, pred ajustada = 5.75
+Producto 20680: mejor modelo = lgbm, MAE sep-nov = 2.2597, stock = 1.06929, pred ajustada = 4.14
+Producto 20682: mejor modelo = lgbm, MAE sep-nov = 1.6162, stock = -0.01793, pred ajustada = 9.24
+Producto 20684: mejor modelo = arima, MAE sep-nov = 1.0134, stock = 4.39639, pred ajustada = 2.48
+Producto 20685: mejor modelo = arima, MAE sep-nov = 0.2961, stock = 4.35082, pred ajustada = 0.83
+Producto 20693: mejor modelo = lgbm, MAE sep-nov = 0.8769, stock = 6.01852, pred ajustada = 2.79
+Producto 20696: mejor modelo = lgbm, MAE sep-nov = 0.9866, stock = 5.87662, pred ajustada = 2.67
+Producto 20697: mejor modelo = arima, MAE sep-nov = 0.6311, stock = 0.0, pred ajustada = 3.01
+Producto 20699: mejor modelo = arima, MAE sep-nov = 3.4585, stock = 6.03685, pred ajustada = 2.50
+Producto 20701: mejor modelo = lgbm, MAE sep-nov = 0.6213, stock = 0.22655, pred ajustada = 3.56
+Producto 20702: mejor modelo = arima, MAE sep-nov = 0.3989, stock = 0.54707, pred ajustada = 2.34
+Producto 20705: mejor modelo = arima, MAE sep-nov = 2.2079, stock = -0.85479, pred ajustada = 3.33
+Producto 20706: mejor modelo = regresion, MAE sep-nov = 1.0905, stock = 0.88221, pred ajustada = 3.99
+Producto 20708: mejor modelo = arima, MAE sep-nov = 0.2541, stock = 1.4538, pred ajustada = 2.93
+Producto 20713: mejor modelo = arima, MAE sep-nov = 0.7402, stock = 8.10845, pred ajustada = 2.09
+Producto 20714: mejor modelo = lgbm, MAE sep-nov = 0.8959, stock = 7.4612, pred ajustada = 2.36
+Producto 20715: mejor modelo = arima, MAE sep-nov = 0.5624, stock = 2.87625, pred ajustada = 1.94
+Producto 20721: mejor modelo = regresion, MAE sep-nov = 0.7555, stock = -0.0166, pred ajustada = 4.28
+Producto 20724: mejor modelo = lgbm, MAE sep-nov = 2.2910, stock = 4.83483, pred ajustada = 3.08
+Producto 20729: mejor modelo = arima, MAE sep-nov = 1.8415, stock = 6.30783, pred ajustada = 2.20
+Producto 20730: mejor modelo = regresion, MAE sep-nov = 1.0512, stock = 2.38602, pred ajustada = 3.69
+Producto 20733: mejor modelo = arima, MAE sep-nov = 1.4263, stock = 4.97908, pred ajustada = 2.69
+Producto 20735: mejor modelo = lgbm, MAE sep-nov = 0.2415, stock = 0.6552, pred ajustada = 3.19
+Producto 20737: mejor modelo = regresion, MAE sep-nov = 2.5413, stock = 13.68429, pred ajustada = 1.68
+Producto 20739: mejor modelo = lgbm, MAE sep-nov = 0.2596, stock = 1.08443, pred ajustada = 2.98
+Producto 20741: mejor modelo = arima, MAE sep-nov = 1.2464, stock = 5.01645, pred ajustada = 0.04
+Producto 20742: mejor modelo = lgbm, MAE sep-nov = 1.7764, stock = 0.0, pred ajustada = 2.97
+Producto 20743: mejor modelo = arima, MAE sep-nov = 0.6142, stock = 6.71624, pred ajustada = 1.72
+Producto 20744: mejor modelo = arima, MAE sep-nov = 0.2044, stock = 0.13995, pred ajustada = 2.52
+Producto 20745: mejor modelo = arima, MAE sep-nov = 0.8488, stock = 15.19825, pred ajustada = 1.52
+Producto 20749: mejor modelo = lgbm, MAE sep-nov = 0.2430, stock = 0.0, pred ajustada = 2.75
+Producto 20750: mejor modelo = regresion, MAE sep-nov = 0.3847, stock = -0.04099, pred ajustada = 4.18
+Producto 20751: mejor modelo = arima, MAE sep-nov = 1.2943, stock = 8.27911, pred ajustada = 1.57
+Producto 20756: mejor modelo = arima, MAE sep-nov = 0.7180, stock = 2.59787, pred ajustada = 1.49
+Producto 20758: mejor modelo = arima, MAE sep-nov = 0.7530, stock = 1.47226, pred ajustada = 2.13
+Producto 20759: mejor modelo = arima, MAE sep-nov = 0.4317, stock = 1.48141, pred ajustada = 2.09
+Producto 20761: mejor modelo = lgbm, MAE sep-nov = 0.2943, stock = 1.24488, pred ajustada = 2.55
+Producto 20765: mejor modelo = arima, MAE sep-nov = 1.4622, stock = 0.34835, pred ajustada = 2.23
+Producto 20768: mejor modelo = arima, MAE sep-nov = 0.2942, stock = 0.5083, pred ajustada = 2.00
+Producto 20771: mejor modelo = arima, MAE sep-nov = 0.6903, stock = 14.10982, pred ajustada = 1.06
+Producto 20773: mejor modelo = regresion, MAE sep-nov = 1.7592, stock = 0.18701, pred ajustada = 4.38
+Producto 20775: mejor modelo = arima, MAE sep-nov = 1.0710, stock = 0.33415, pred ajustada = 2.99
+Producto 20777: mejor modelo = lgbm, MAE sep-nov = 0.6406, stock = 0.18405, pred ajustada = 3.06
+Producto 20781: mejor modelo = arima, MAE sep-nov = 1.0861, stock = 0.56924, pred ajustada = 2.88
+Producto 20783: mejor modelo = regresion, MAE sep-nov = 0.4760, stock = 6.92386, pred ajustada = 2.63
+Producto 20786: mejor modelo = lgbm, MAE sep-nov = 0.6593, stock = -0.02335, pred ajustada = 2.40
+Producto 20788: mejor modelo = arima, MAE sep-nov = 0.7503, stock = 8.82309, pred ajustada = 0.31
+Producto 20789: mejor modelo = arima, MAE sep-nov = 0.2150, stock = 7.73256, pred ajustada = 1.43
+Producto 20793: mejor modelo = lgbm, MAE sep-nov = 0.6486, stock = 0.0, pred ajustada = 2.04
+Producto 20800: mejor modelo = arima, MAE sep-nov = 0.7029, stock = 4.65723, pred ajustada = 1.44
+Producto 20801: mejor modelo = arima, MAE sep-nov = 0.7211, stock = 11.60359, pred ajustada = 1.20
+Producto 20802: mejor modelo = arima, MAE sep-nov = 0.4970, stock = 5.62595, pred ajustada = 1.06
+Producto 20803: mejor modelo = arima, MAE sep-nov = 0.7275, stock = 1.83698, pred ajustada = 1.21
+Producto 20807: mejor modelo = lgbm, MAE sep-nov = 0.4720, stock = 3.41602, pred ajustada = 1.75
+Producto 20809: mejor modelo = lgbm, MAE sep-nov = 0.2864, stock = 4.36625, pred ajustada = 2.32
+Producto 20810: mejor modelo = arima, MAE sep-nov = 0.7480, stock = 0.7485, pred ajustada = 1.96
+Producto 20811: mejor modelo = arima, MAE sep-nov = 0.4538, stock = 3.63046, pred ajustada = 3.13
+Producto 20812: mejor modelo = arima, MAE sep-nov = 0.6292, stock = 1.07671, pred ajustada = 2.03
+Producto 20818: mejor modelo = arima, MAE sep-nov = 0.3030, stock = 0.86858, pred ajustada = 1.30
+Producto 20820: mejor modelo = arima, MAE sep-nov = 0.0863, stock = 3.61489, pred ajustada = 1.75
+Producto 20823: mejor modelo = arima, MAE sep-nov = 0.2269, stock = 2.60195, pred ajustada = 1.64
+Producto 20824: mejor modelo = lgbm, MAE sep-nov = 1.5994, stock = 3.65947, pred ajustada = 2.54
+Producto 20826: mejor modelo = arima, MAE sep-nov = 0.3968, stock = 14.91017, pred ajustada = 0.71
+Producto 20828: mejor modelo = arima, MAE sep-nov = 0.3163, stock = 0.0, pred ajustada = 2.03
+Producto 20830: mejor modelo = regresion, MAE sep-nov = 0.2112, stock = 15.51514, pred ajustada = 1.47
+Producto 20831: mejor modelo = arima, MAE sep-nov = 0.4231, stock = 7.72372, pred ajustada = 1.37
+Producto 20832: mejor modelo = regresion, MAE sep-nov = 0.3414, stock = 0.0, pred ajustada = 3.24
+Producto 20838: mejor modelo = arima, MAE sep-nov = 0.3518, stock = 0.57636, pred ajustada = 1.66
+Producto 20840: mejor modelo = arima, MAE sep-nov = 0.2076, stock = 0.10957, pred ajustada = 1.08
+Producto 20843: mejor modelo = lgbm, MAE sep-nov = 0.5943, stock = 1.04054, pred ajustada = 2.06
+Producto 20846: mejor modelo = arima, MAE sep-nov = 0.1392, stock = 2.6229, pred ajustada = 1.32
+Producto 20847: mejor modelo = arima, MAE sep-nov = 0.3387, stock = 0.01638, pred ajustada = 2.11
+Producto 20849: mejor modelo = regresion, MAE sep-nov = 0.7324, stock = 0.10197, pred ajustada = 2.66
+Producto 20852: mejor modelo = arima, MAE sep-nov = 0.7595, stock = -0.48354, pred ajustada = 1.93
+Producto 20853: mejor modelo = regresion, MAE sep-nov = 0.8079, stock = 1.82373, pred ajustada = 2.80
+Producto 20855: mejor modelo = arima, MAE sep-nov = 0.3759, stock = 0.06115, pred ajustada = 2.16
+Producto 20862: mejor modelo = regresion, MAE sep-nov = 0.2045, stock = 0.85176, pred ajustada = 1.50
+Producto 20863: mejor modelo = regresion, MAE sep-nov = 0.3867, stock = 0.26859, pred ajustada = 2.05
+Producto 20864: mejor modelo = regresion, MAE sep-nov = 0.2767, stock = 3.6058, pred ajustada = 1.58
+Producto 20865: mejor modelo = lgbm, MAE sep-nov = 0.1768, stock = 9.28855, pred ajustada = 1.24
+Producto 20870: mejor modelo = arima, MAE sep-nov = 0.1058, stock = 0.5865, pred ajustada = 1.31
+Producto 20877: mejor modelo = arima, MAE sep-nov = 0.3302, stock = 1.21845, pred ajustada = 1.43
+Producto 20878: mejor modelo = lgbm, MAE sep-nov = 0.4380, stock = 3.86463, pred ajustada = 1.43
+Producto 20879: mejor modelo = regresion, MAE sep-nov = 0.7136, stock = 0.0, pred ajustada = 1.87
+Producto 20882: mejor modelo = lgbm, MAE sep-nov = 0.2888, stock = 6.64373, pred ajustada = 1.15
+Producto 20883: mejor modelo = arima, MAE sep-nov = 0.4180, stock = 3.75921, pred ajustada = 1.16
+Producto 20885: mejor modelo = lgbm, MAE sep-nov = 0.3464, stock = 8.53726, pred ajustada = 1.14
+Producto 20892: mejor modelo = arima, MAE sep-nov = 0.2158, stock = 1.88608, pred ajustada = 1.26
+Producto 20894: mejor modelo = lgbm, MAE sep-nov = 0.6146, stock = -0.16307, pred ajustada = 1.68
+Producto 20901: mejor modelo = arima, MAE sep-nov = 0.1635, stock = 0.92521, pred ajustada = 0.97
+Producto 20902: mejor modelo = regresion, MAE sep-nov = 0.5171, stock = 16.50704, pred ajustada = 1.35
+Producto 20906: mejor modelo = arima, MAE sep-nov = 0.2568, stock = 5.78476, pred ajustada = 0.86
+Producto 20908: mejor modelo = lgbm, MAE sep-nov = 0.4097, stock = 3.66625, pred ajustada = 2.04
+Producto 20913: mejor modelo = lgbm, MAE sep-nov = 0.4436, stock = 1.79931, pred ajustada = 1.13
+Producto 20914: mejor modelo = regresion, MAE sep-nov = 0.3330, stock = 5.27962, pred ajustada = 1.64
+Producto 20919: mejor modelo = regresion, MAE sep-nov = 0.2107, stock = 2.78771, pred ajustada = 1.14
+Producto 20922: mejor modelo = arima, MAE sep-nov = 0.1969, stock = 4.23199, pred ajustada = 0.53
+Producto 20925: mejor modelo = arima, MAE sep-nov = 0.2585, stock = 3.34016, pred ajustada = 1.08
+Producto 20931: mejor modelo = arima, MAE sep-nov = 0.3817, stock = 0.82555, pred ajustada = 1.16
+Producto 20936: mejor modelo = regresion, MAE sep-nov = 0.5150, stock = 0.0, pred ajustada = 1.53
+Producto 20937: mejor modelo = arima, MAE sep-nov = 0.1847, stock = 5.71771, pred ajustada = 0.80
+Producto 20941: mejor modelo = arima, MAE sep-nov = 0.3438, stock = 0.90799, pred ajustada = 0.79
+Producto 20945: mejor modelo = lgbm, MAE sep-nov = 0.8120, stock = 2.74847, pred ajustada = 1.18
+Producto 20947: mejor modelo = arima, MAE sep-nov = 0.2608, stock = 0.90418, pred ajustada = 1.10
+Producto 20948: mejor modelo = arima, MAE sep-nov = 0.3212, stock = -0.04586, pred ajustada = 1.07
+Producto 20949: mejor modelo = regresion, MAE sep-nov = 0.1926, stock = 3.5538, pred ajustada = 0.93
+Producto 20951: mejor modelo = lgbm, MAE sep-nov = 0.7330, stock = 0.0, pred ajustada = 1.27
+Producto 20956: mejor modelo = arima, MAE sep-nov = 0.2855, stock = 12.27714, pred ajustada = 0.48
+Producto 20957: mejor modelo = lgbm, MAE sep-nov = 0.4517, stock = 1.50914, pred ajustada = 0.96
+Producto 20961: mejor modelo = arima, MAE sep-nov = 0.1360, stock = 1.6401, pred ajustada = 0.83
+Producto 20965: mejor modelo = arima, MAE sep-nov = 0.0601, stock = 1.39671, pred ajustada = 0.74
+Producto 20967: mejor modelo = regresion, MAE sep-nov = 0.2554, stock = 1.82309, pred ajustada = 1.63
+Producto 20970: mejor modelo = arima, MAE sep-nov = 0.2158, stock = 1.09855, pred ajustada = 0.62
+Producto 20976: mejor modelo = arima, MAE sep-nov = 0.0281, stock = 4.86704, pred ajustada = 0.65
+Producto 20982: mejor modelo = arima, MAE sep-nov = 0.5336, stock = 4.23987, pred ajustada = 0.88
+Producto 20985: mejor modelo = regresion, MAE sep-nov = 0.1857, stock = 6.20933, pred ajustada = 0.95
+Producto 20986: mejor modelo = regresion, MAE sep-nov = 0.1393, stock = -0.00052, pred ajustada = 0.82
+Producto 20991: mejor modelo = arima, MAE sep-nov = 0.6222, stock = 0.11794, pred ajustada = 1.01
+Producto 20994: mejor modelo = arima, MAE sep-nov = 0.2539, stock = 3.13518, pred ajustada = 0.55
+Producto 20996: mejor modelo = regresion, MAE sep-nov = 0.1534, stock = 0.0, pred ajustada = 1.08
+Producto 20997: mejor modelo = lgbm, MAE sep-nov = 0.3450, stock = 6.38775, pred ajustada = 1.35
+Producto 21003: mejor modelo = arima, MAE sep-nov = 0.2364, stock = 0.99154, pred ajustada = 0.84
+Producto 21008: mejor modelo = arima, MAE sep-nov = 0.1189, stock = 1.54955, pred ajustada = 0.57
+Producto 21014: mejor modelo = regresion, MAE sep-nov = 0.1396, stock = 1.51242, pred ajustada = 0.93
+Producto 21016: mejor modelo = arima, MAE sep-nov = 0.1703, stock = 0.33415, pred ajustada = 0.72
+Producto 21024: mejor modelo = arima, MAE sep-nov = 0.1888, stock = 0.07535, pred ajustada = 0.74
+Producto 21027: mejor modelo = arima, MAE sep-nov = 0.7321, stock = 2.54801, pred ajustada = 0.69
+Producto 21028: mejor modelo = arima, MAE sep-nov = 0.1074, stock = 4.63882, pred ajustada = 0.54
+Producto 21032: mejor modelo = arima, MAE sep-nov = 0.1744, stock = -0.06261, pred ajustada = 0.71
+Producto 21034: mejor modelo = arima, MAE sep-nov = 0.2146, stock = 3.87245, pred ajustada = 0.96
+Producto 21038: mejor modelo = regresion, MAE sep-nov = 0.2119, stock = 0.04368, pred ajustada = 0.89
+Producto 21040: mejor modelo = regresion, MAE sep-nov = 0.4509, stock = 4.05995, pred ajustada = 1.19
+Producto 21048: mejor modelo = arima, MAE sep-nov = 0.0475, stock = 0.89183, pred ajustada = 0.33
+Producto 21049: mejor modelo = regresion, MAE sep-nov = 0.3883, stock = 2.32319, pred ajustada = 0.72
+Producto 21055: mejor modelo = arima, MAE sep-nov = 0.1402, stock = 4.91291, pred ajustada = 0.42
+Producto 21057: mejor modelo = regresion, MAE sep-nov = 0.1813, stock = 3.84712, pred ajustada = 0.46
+Producto 21065: mejor modelo = regresion, MAE sep-nov = 0.1618, stock = 1.31646, pred ajustada = 1.18
+Producto 21077: mejor modelo = arima, MAE sep-nov = 0.0868, stock = 2.90023, pred ajustada = 0.15
+Producto 21080: mejor modelo = lgbm, MAE sep-nov = 0.0714, stock = 1.11384, pred ajustada = 0.51
+Producto 21084: mejor modelo = regresion, MAE sep-nov = 0.2335, stock = -0.00055, pred ajustada = 0.45
+Producto 21088: mejor modelo = arima, MAE sep-nov = 0.1383, stock = 0.58378, pred ajustada = 0.37
+Producto 21118: mejor modelo = regresion, MAE sep-nov = 0.1372, stock = 1.61663, pred ajustada = 0.48
+Producto 21126: mejor modelo = regresion, MAE sep-nov = 0.2358, stock = 0.96236, pred ajustada = 0.32
+Producto 21131: mejor modelo = regresion, MAE sep-nov = 0.0884, stock = 0.04144, pred ajustada = 0.36
+Producto 21142: mejor modelo = arima, MAE sep-nov = 0.1401, stock = 2.94403, pred ajustada = 0.36
+Producto 21155: mejor modelo = arima, MAE sep-nov = 0.0711, stock = 0.00034, pred ajustada = 0.37
+Producto 21157: mejor modelo = arima, MAE sep-nov = 0.0560, stock = 1.24379, pred ajustada = 0.21
+Producto 21164: mejor modelo = regresion, MAE sep-nov = 0.1266, stock = 0.84644, pred ajustada = 0.51
+Producto 21167: mejor modelo = lgbm, MAE sep-nov = 0.0586, stock = 0.17944, pred ajustada = 0.26
+Producto 21170: mejor modelo = regresion, MAE sep-nov = 0.0831, stock = 0.1325, pred ajustada = 0.29
+Producto 21176: mejor modelo = arima, MAE sep-nov = 0.0326, stock = 1.27314, pred ajustada = 0.32
+Producto 21180: mejor modelo = arima, MAE sep-nov = 0.0142, stock = 3.175, pred ajustada = 0.06
+Producto 21182: mejor modelo = arima, MAE sep-nov = 0.0417, stock = 0.16944, pred ajustada = 0.10
+Producto 21184: mejor modelo = arima, MAE sep-nov = 0.0350, stock = 0.11374, pred ajustada = 0.24
+Producto 21190: mejor modelo = regresion, MAE sep-nov = 0.0574, stock = 0.00183, pred ajustada = 0.21
+Producto 21191: mejor modelo = arima, MAE sep-nov = 0.0396, stock = 0.69002, pred ajustada = 0.16
+Producto 21192: mejor modelo = arima, MAE sep-nov = 0.0504, stock = 1.27254, pred ajustada = -0.01
+Producto 21194: mejor modelo = arima, MAE sep-nov = 0.0647, stock = 1.05592, pred ajustada = 0.16
+Producto 21200: mejor modelo = regresion, MAE sep-nov = 0.0736, stock = 0.15617, pred ajustada = 0.19
+Producto 21202: mejor modelo = arima, MAE sep-nov = 0.0334, stock = 0.44481, pred ajustada = 0.08
+Producto 21207: mejor modelo = regresion, MAE sep-nov = 0.1017, stock = 0.12328, pred ajustada = 0.21
+Producto 21209: mejor modelo = arima, MAE sep-nov = 0.0444, stock = 1.05926, pred ajustada = 0.10
+Producto 21212: mejor modelo = arima, MAE sep-nov = 0.0395, stock = 0.0, pred ajustada = 0.15
+Producto 21218: mejor modelo = arima, MAE sep-nov = 0.0208, stock = 0.39348, pred ajustada = 0.07
+Producto 21222: mejor modelo = regresion, MAE sep-nov = 0.0194, stock = 0.30576, pred ajustada = 0.15
+Producto 21224: mejor modelo = regresion, MAE sep-nov = 0.0231, stock = 0.16121, pred ajustada = 0.12
+Producto 21226: mejor modelo = arima, MAE sep-nov = 0.0359, stock = 0.91008, pred ajustada = 0.14
+Producto 21233: mejor modelo = arima, MAE sep-nov = 0.0948, stock = 0.39399, pred ajustada = 0.14
+Producto 21245: mejor modelo = arima, MAE sep-nov = 0.0336, stock = 1.30306, pred ajustada = 0.05
+Producto 20995: fallback promedio últimos 12 meses = 3.37, stock = 5.67731, pred ajustada = 2.62
+Producto 21001: fallback promedio últimos 12 meses = 0.83, stock = 2.37383, pred ajustada = 0.74
+Producto 20491: fallback promedio últimos 12 meses = 15.66, stock = 7.0404, pred ajustada = 11.58
+Producto 21006: fallback promedio últimos 12 meses = 2.40, stock = 9.20962, pred ajustada = 1.64
+Producto 21007: fallback promedio últimos 12 meses = 2.13, stock = 27.8162, pred ajustada = 0.89
+Producto 20510: fallback promedio últimos 12 meses = 20.47, stock = 22.18532, pred ajustada = 9.70
+Producto 21022: fallback promedio últimos 12 meses = 1.18, stock = 5.67112, pred ajustada = 0.92
+Producto 20521: fallback promedio últimos 12 meses = 21.18, stock = 6.36854, pred ajustada = 16.06
+Producto 21033: fallback promedio últimos 12 meses = 1.64, stock = 8.9554, pred ajustada = 1.13
+Producto 21035: fallback promedio últimos 12 meses = 1.90, stock = 13.76723, pred ajustada = 1.12
+Producto 20525: fallback promedio últimos 12 meses = 18.36, stock = 22.49992, pred ajustada = 8.64
+Producto 20526: fallback promedio últimos 12 meses = 19.87, stock = 12.94053, pred ajustada = 12.06
+Producto 21037: fallback promedio últimos 12 meses = 0.77, stock = 4.45356, pred ajustada = 0.63
+Producto 21039: fallback promedio últimos 12 meses = 1.98, stock = 14.63498, pred ajustada = 1.14
+Producto 21042: fallback promedio últimos 12 meses = 1.78, stock = 5.45727, pred ajustada = 1.40
+Producto 20531: fallback promedio últimos 12 meses = 17.81, stock = 7.99606, pred ajustada = 12.73
+Producto 21044: fallback promedio últimos 12 meses = 1.86, stock = 7.45654, pred ajustada = 1.35
+Producto 20537: fallback promedio últimos 12 meses = 17.25, stock = 3.46599, pred ajustada = 14.70
+Producto 21056: fallback promedio últimos 12 meses = 1.07, stock = 2.73597, pred ajustada = 0.94
+Producto 20032: fallback promedio últimos 12 meses = 590.33, stock = 128.25284, pred ajustada = 79.64
+Producto 21058: fallback promedio últimos 12 meses = 1.64, stock = 7.01236, pred ajustada = 1.22
+Producto 20547: fallback promedio últimos 12 meses = 13.83, stock = 11.97105, pred ajustada = 8.65
+Producto 20548: fallback promedio últimos 12 meses = 20.25, stock = 31.66311, pred ajustada = 7.84
+Producto 21064: fallback promedio últimos 12 meses = 2.16, stock = 0.50712, pred ajustada = 2.10
+Producto 20558: fallback promedio últimos 12 meses = 15.57, stock = 0.0, pred ajustada = 15.57
+Producto 21073: fallback promedio últimos 12 meses = 1.33, stock = 3.53917, pred ajustada = 1.13
+Producto 21074: fallback promedio últimos 12 meses = 1.43, stock = 0.00934, pred ajustada = 1.42
+Producto 21079: fallback promedio últimos 12 meses = 1.90, stock = 4.30704, pred ajustada = 1.56
+Producto 21086: fallback promedio últimos 12 meses = 1.50, stock = 5.48717, pred ajustada = 1.17
+Producto 20575: fallback promedio últimos 12 meses = 15.82, stock = 10.28021, pred ajustada = 10.45
+Producto 21087: fallback promedio últimos 12 meses = 0.91, stock = 5.79239, pred ajustada = 0.70
+Producto 20577: fallback promedio últimos 12 meses = 15.52, stock = 13.03606, pred ajustada = 9.39
+Producto 20580: fallback promedio últimos 12 meses = 14.39, stock = 16.45917, pred ajustada = 7.89
+Producto 21092: fallback promedio últimos 12 meses = 1.04, stock = 2.63663, pred ajustada = 0.92
+Producto 21093: fallback promedio últimos 12 meses = 1.06, stock = 2.31705, pred ajustada = 0.95
+Producto 21097: fallback promedio últimos 12 meses = 1.38, stock = 8.66585, pred ajustada = 0.96
+Producto 21099: fallback promedio últimos 12 meses = 1.52, stock = 0.53071, pred ajustada = 1.48
+Producto 20592: fallback promedio últimos 12 meses = 16.77, stock = 16.10711, pred ajustada = 9.29
+Producto 20593: fallback promedio últimos 12 meses = 17.16, stock = 12.27203, pred ajustada = 10.63
+Producto 21105: fallback promedio últimos 12 meses = 0.88, stock = 3.05638, pred ajustada = 0.77
+Producto 21109: fallback promedio últimos 12 meses = 1.22, stock = 3.94267, pred ajustada = 1.02
+Producto 21110: fallback promedio últimos 12 meses = 1.39, stock = 1.36991, pred ajustada = 1.30
+Producto 21111: fallback promedio últimos 12 meses = 1.26, stock = 0.66313, pred ajustada = 1.22
+Producto 21112: fallback promedio últimos 12 meses = 1.08, stock = 8.83046, pred ajustada = 0.75
+Producto 20085: fallback promedio últimos 12 meses = 190.80, stock = 0, pred ajustada = 190.80
+Producto 21114: fallback promedio últimos 12 meses = 1.28, stock = 0.15517, pred ajustada = 1.27
+Producto 20603: fallback promedio últimos 12 meses = 14.08, stock = 17.31412, pred ajustada = 7.54
+Producto 21119: fallback promedio últimos 12 meses = 1.16, stock = 1.13435, pred ajustada = 1.10
+Producto 20615: fallback promedio últimos 12 meses = 13.48, stock = 21.38928, pred ajustada = 6.51
+Producto 21129: fallback promedio últimos 12 meses = 0.93, stock = 2.09118, pred ajustada = 0.84
+Producto 20620: fallback promedio últimos 12 meses = 15.09, stock = 17.92078, pred ajustada = 7.96
+Producto 20621: fallback promedio últimos 12 meses = 12.56, stock = 14.63406, pred ajustada = 7.25
+Producto 20623: fallback promedio últimos 12 meses = 13.21, stock = 9.44484, pred ajustada = 8.97
+Producto 21135: fallback promedio últimos 12 meses = 0.69, stock = 1.72279, pred ajustada = 0.63
+Producto 20627: fallback promedio últimos 12 meses = 8.94, stock = 2.15233, pred ajustada = 8.07
+Producto 21140: fallback promedio últimos 12 meses = 0.83, stock = 3.42342, pred ajustada = 0.71
+Producto 21144: fallback promedio últimos 12 meses = 1.18, stock = 2.23882, pred ajustada = 1.06
+Producto 20633: fallback promedio últimos 12 meses = 13.05, stock = 8.90323, pred ajustada = 9.03
+Producto 21146: fallback promedio últimos 12 meses = 1.20, stock = 3.21179, pred ajustada = 1.03
+Producto 20127: fallback promedio últimos 12 meses = 208.44, stock = 91.63318, pred ajustada = 37.34
+Producto 21153: fallback promedio últimos 12 meses = 0.59, stock = 0.86268, pred ajustada = 0.57
+Producto 21154: fallback promedio últimos 12 meses = 1.20, stock = 0.0, pred ajustada = 1.20
+Producto 21159: fallback promedio últimos 12 meses = 0.51, stock = 1.86295, pred ajustada = 0.47
+Producto 20649: fallback promedio últimos 12 meses = 21.76, stock = 93.40531, pred ajustada = 3.84
+Producto 21163: fallback promedio últimos 12 meses = 0.69, stock = 1.22189, pred ajustada = 0.65
+Producto 21168: fallback promedio últimos 12 meses = 0.49, stock = 4.22276, pred ajustada = 0.40
+Producto 20659: fallback promedio últimos 12 meses = 11.69, stock = 8.09321, pred ajustada = 8.33
+Producto 21171: fallback promedio últimos 12 meses = 0.55, stock = 2.24351, pred ajustada = 0.50
+Producto 20662: fallback promedio últimos 12 meses = 10.89, stock = 13.59959, pred ajustada = 6.48
+Producto 21179: fallback promedio últimos 12 meses = 0.53, stock = 3.3003, pred ajustada = 0.45
+Producto 20673: fallback promedio últimos 12 meses = 11.39, stock = 16.49759, pred ajustada = 6.24
+Producto 20674: fallback promedio últimos 12 meses = 13.74, stock = 31.62159, pred ajustada = 5.32
+Producto 20681: fallback promedio últimos 12 meses = 12.23, stock = 14.11118, pred ajustada = 7.17
+Producto 21196: fallback promedio últimos 12 meses = 0.45, stock = 0.21512, pred ajustada = 0.45
+Producto 20686: fallback promedio últimos 12 meses = 12.50, stock = 61.98351, pred ajustada = 3.05
+Producto 20174: fallback promedio últimos 12 meses = 114.81, stock = 144.1624, pred ajustada = 13.99
+Producto 20689: fallback promedio últimos 12 meses = 9.02, stock = 0.0, pred ajustada = 9.02
+Producto 21201: fallback promedio últimos 12 meses = 0.25, stock = 0.28896, pred ajustada = 0.25
+Producto 20691: fallback promedio últimos 12 meses = 19.81, stock = 22.88483, pred ajustada = 9.24
+Producto 20694: fallback promedio últimos 12 meses = 8.78, stock = 6.35675, pred ajustada = 6.66
+Producto 20700: fallback promedio últimos 12 meses = 3.76, stock = 15.36411, pred ajustada = 2.13
+Producto 21214: fallback promedio últimos 12 meses = 0.41, stock = 2.69032, pred ajustada = 0.36
+Producto 20703: fallback promedio últimos 12 meses = 12.17, stock = 0.38653, pred ajustada = 11.94
+Producto 20709: fallback promedio últimos 12 meses = 6.92, stock = 0.0, pred ajustada = 6.92
+Producto 20711: fallback promedio últimos 12 meses = 11.25, stock = 33.50169, pred ajustada = 4.21
+Producto 21227: fallback promedio últimos 12 meses = 0.34, stock = 1.04259, pred ajustada = 0.32
+Producto 20719: fallback promedio últimos 12 meses = 8.32, stock = 0.0, pred ajustada = 8.32
+Producto 20720: fallback promedio últimos 12 meses = 9.75, stock = 2.78735, pred ajustada = 8.55
+Producto 20210: fallback promedio últimos 12 meses = 82.18, stock = 1.47001, pred ajustada = 76.55
+Producto 20213: fallback promedio últimos 12 meses = 78.12, stock = 8.72979, pred ajustada = 54.38
+Producto 20732: fallback promedio últimos 12 meses = 10.11, stock = 2.34398, pred ajustada = 9.05
+Producto 21244: fallback promedio últimos 12 meses = 0.04, stock = 1.20188, pred ajustada = 0.03
+Producto 21246: fallback promedio últimos 12 meses = 0.03, stock = 1.14257, pred ajustada = 0.03
+Producto 21248: fallback promedio últimos 12 meses = 0.03, stock = 0.86716, pred ajustada = 0.02
+Producto 21252: fallback promedio últimos 12 meses = 0.18, stock = 3.2643, pred ajustada = 0.15
+Producto 21256: fallback promedio últimos 12 meses = 0.03, stock = 0.58611, pred ajustada = 0.02
+Producto 20746: fallback promedio últimos 12 meses = 7.32, stock = 7.72588, pred ajustada = 5.28
+Producto 21259: fallback promedio últimos 12 meses = 0.03, stock = 0.5847, pred ajustada = 0.03
+Producto 20236: fallback promedio últimos 12 meses = 97.62, stock = 83.84341, pred ajustada = 18.80
+Producto 21262: fallback promedio últimos 12 meses = 0.03, stock = 0.5042, pred ajustada = 0.03
+Producto 21263: fallback promedio últimos 12 meses = 0.03, stock = 0.5042, pred ajustada = 0.03
+Producto 21265: fallback promedio últimos 12 meses = 0.09, stock = 0.22068, pred ajustada = 0.09
+Producto 20754: fallback promedio últimos 12 meses = 8.74, stock = 14.5166, pred ajustada = 5.06
+Producto 21266: fallback promedio últimos 12 meses = 0.09, stock = 0.11603, pred ajustada = 0.09
+Producto 21267: fallback promedio últimos 12 meses = 0.09, stock = 0.54007, pred ajustada = 0.09
+Producto 20757: fallback promedio últimos 12 meses = 5.68, stock = 8.87147, pred ajustada = 3.94
+Producto 20762: fallback promedio últimos 12 meses = 6.82, stock = 3.90761, pred ajustada = 5.71
+Producto 21276: fallback promedio últimos 12 meses = 0.05, stock = 1.05592, pred ajustada = 0.04
+Producto 20257: fallback promedio últimos 12 meses = 58.23, stock = 9.56076, pred ajustada = 39.40
+Producto 20772: fallback promedio últimos 12 meses = 9.34, stock = 9.10171, pred ajustada = 6.42
+Producto 20261: fallback promedio últimos 12 meses = 71.73, stock = 51.98619, pred ajustada = 19.93
+Producto 20774: fallback promedio últimos 12 meses = 7.70, stock = 12.40982, pred ajustada = 4.75
+Producto 20785: fallback promedio últimos 12 meses = 7.75, stock = 22.96057, pred ajustada = 3.61
+Producto 20795: fallback promedio últimos 12 meses = 6.31, stock = 18.5162, pred ajustada = 3.27
+Producto 20286: fallback promedio últimos 12 meses = 49.78, stock = 26.28091, pred ajustada = 21.51
+Producto 20815: fallback promedio últimos 12 meses = 7.46, stock = 9.61296, pred ajustada = 5.04
+Producto 20817: fallback promedio últimos 12 meses = 6.43, stock = 0.0, pred ajustada = 6.43
+Producto 20822: fallback promedio últimos 12 meses = 6.03, stock = 11.47292, pred ajustada = 3.83
+Producto 20827: fallback promedio últimos 12 meses = 6.93, stock = 19.45059, pred ajustada = 3.52
+Producto 20835: fallback promedio últimos 12 meses = 5.79, stock = 0.0, pred ajustada = 5.79
+Producto 20845: fallback promedio últimos 12 meses = 6.43, stock = 26.42551, pred ajustada = 2.77
+Producto 20859: fallback promedio últimos 12 meses = 2.89, stock = 0.94674, pred ajustada = 2.76
+Producto 20355: fallback promedio últimos 12 meses = 35.55, stock = 0.0, pred ajustada = 35.55
+Producto 20886: fallback promedio últimos 12 meses = 3.52, stock = 49.14573, pred ajustada = 1.02
+Producto 20899: fallback promedio últimos 12 meses = 3.02, stock = 31.81324, pred ajustada = 1.17
+Producto 20904: fallback promedio últimos 12 meses = 5.29, stock = 1.68452, pred ajustada = 4.88
+Producto 20907: fallback promedio últimos 12 meses = 4.65, stock = 2.04204, pred ajustada = 4.22
+Producto 20910: fallback promedio últimos 12 meses = 4.86, stock = 14.22644, pred ajustada = 2.84
+Producto 20912: fallback promedio últimos 12 meses = 4.68, stock = 4.34889, pred ajustada = 3.84
+Producto 20917: fallback promedio últimos 12 meses = 2.59, stock = 0.0, pred ajustada = 2.59
+Producto 20920: fallback promedio últimos 12 meses = 3.66, stock = 2.92481, pred ajustada = 3.20
+Producto 20408: fallback promedio últimos 12 meses = 17.67, stock = 6.99419, pred ajustada = 13.09
+Producto 20924: fallback promedio últimos 12 meses = 3.10, stock = 1.60683, pred ajustada = 2.87
+Producto 20414: fallback promedio últimos 12 meses = 31.20, stock = -0.03538, pred ajustada = 31.25
+Producto 20927: fallback promedio últimos 12 meses = 3.73, stock = 13.83004, pred ajustada = 2.21
+Producto 20928: fallback promedio últimos 12 meses = 4.59, stock = 1.8291, pred ajustada = 4.20
+Producto 20932: fallback promedio últimos 12 meses = 2.60, stock = 3.64941, pred ajustada = 2.20
+Producto 20933: fallback promedio últimos 12 meses = 3.57, stock = 11.50819, pred ajustada = 2.27
+Producto 20942: fallback promedio últimos 12 meses = 2.35, stock = 23.50366, pred ajustada = 1.08
+Producto 20946: fallback promedio últimos 12 meses = 3.17, stock = 2.52154, pred ajustada = 2.82
+Producto 20440: fallback promedio últimos 12 meses = 30.27, stock = 0.50933, pred ajustada = 29.52
+Producto 20953: fallback promedio últimos 12 meses = 4.00, stock = 12.12119, pred ajustada = 2.49
+Producto 20442: fallback promedio últimos 12 meses = 31.27, stock = 11.83932, pred ajustada = 19.64
+Producto 20962: fallback promedio últimos 12 meses = 3.92, stock = 11.01719, pred ajustada = 2.52
+Producto 20966: fallback promedio últimos 12 meses = 1.41, stock = 1.39231, pred ajustada = 1.32
+Producto 20968: fallback promedio últimos 12 meses = 2.97, stock = 12.42726, pred ajustada = 1.83
+Producto 20458: fallback promedio últimos 12 meses = 24.69, stock = 5.55479, pred ajustada = 19.32
+Producto 20460: fallback promedio últimos 12 meses = 18.20, stock = 0.0, pred ajustada = 18.20
+Producto 20975: fallback promedio últimos 12 meses = 3.58, stock = 11.76739, pred ajustada = 2.26
+Producto 20987: fallback promedio últimos 12 meses = 2.67, stock = 4.11138, pred ajustada = 2.21
+Producto 20476: fallback promedio últimos 12 meses = 24.86, stock = 0.85798, pred ajustada = 23.83
+Producto 20477: fallback promedio últimos 12 meses = 14.47, stock = 0.6395, pred ajustada = 14.02
+Producto 20990: fallback promedio últimos 12 meses = 1.15, stock = 3.82054, pred ajustada = 0.97

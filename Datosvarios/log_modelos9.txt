@@ -1,0 +1,780 @@
+Producto 20001: mejor modelo = regresion, MAE sep-nov = 183.9959
+Producto 20002: mejor modelo = regresion, MAE sep-nov = 228.1794
+Producto 20003: mejor modelo = lgbm, MAE sep-nov = 149.7599
+Producto 20004: mejor modelo = lgbm, MAE sep-nov = 116.0327
+Producto 20005: mejor modelo = lgbm, MAE sep-nov = 195.4070
+Producto 20006: mejor modelo = regresion, MAE sep-nov = 184.2853
+Producto 20007: mejor modelo = lgbm, MAE sep-nov = 227.5978
+Producto 20008: mejor modelo = regresion, MAE sep-nov = 168.7670
+Producto 20009: mejor modelo = regresion, MAE sep-nov = 149.6071
+Producto 20010: mejor modelo = lgbm, MAE sep-nov = 90.9788
+Producto 20011: mejor modelo = regresion, MAE sep-nov = 76.1525
+Producto 20012: mejor modelo = lgbm, MAE sep-nov = 240.0154
+Producto 20013: mejor modelo = regresion, MAE sep-nov = 83.4902
+Producto 20014: mejor modelo = lgbm, MAE sep-nov = 59.1709
+Producto 20015: mejor modelo = lgbm, MAE sep-nov = 70.9095
+Producto 20016: mejor modelo = lgbm, MAE sep-nov = 123.4087
+Producto 20017: mejor modelo = regresion, MAE sep-nov = 129.7258
+Producto 20018: mejor modelo = regresion, MAE sep-nov = 139.1018
+Producto 20019: mejor modelo = lgbm, MAE sep-nov = 97.2529
+Producto 20020: mejor modelo = lgbm, MAE sep-nov = 80.8611
+Producto 20021: mejor modelo = lgbm, MAE sep-nov = 93.9582
+Producto 20022: mejor modelo = lgbm, MAE sep-nov = 71.4497
+Producto 20023: mejor modelo = lgbm, MAE sep-nov = 52.5688
+Producto 20024: mejor modelo = lgbm, MAE sep-nov = 93.9580
+Producto 20025: mejor modelo = lgbm, MAE sep-nov = 54.0401
+Producto 20026: mejor modelo = lgbm, MAE sep-nov = 53.6457
+Producto 20027: mejor modelo = lgbm, MAE sep-nov = 32.2169
+Producto 20028: mejor modelo = lgbm, MAE sep-nov = 74.7234
+Producto 20029: mejor modelo = regresion, MAE sep-nov = 88.4754
+Producto 20030: mejor modelo = lgbm, MAE sep-nov = 197.5610
+Producto 20031: mejor modelo = lgbm, MAE sep-nov = 95.4461
+Producto 20033: mejor modelo = lgbm, MAE sep-nov = 58.2313
+Producto 20035: mejor modelo = lgbm, MAE sep-nov = 45.8035
+Producto 20037: mejor modelo = regresion, MAE sep-nov = 34.7815
+Producto 20038: mejor modelo = regresion, MAE sep-nov = 29.9090
+Producto 20039: mejor modelo = regresion, MAE sep-nov = 47.6191
+Producto 20041: mejor modelo = lgbm, MAE sep-nov = 66.4157
+Producto 20042: mejor modelo = lgbm, MAE sep-nov = 37.0122
+Producto 20043: mejor modelo = lgbm, MAE sep-nov = 66.5783
+Producto 20044: mejor modelo = lgbm, MAE sep-nov = 42.9635
+Producto 20045: mejor modelo = lgbm, MAE sep-nov = 41.0035
+Producto 20046: mejor modelo = lgbm, MAE sep-nov = 46.9042
+Producto 20047: mejor modelo = regresion, MAE sep-nov = 51.0508
+Producto 20049: mejor modelo = lgbm, MAE sep-nov = 36.0012
+Producto 20050: mejor modelo = lgbm, MAE sep-nov = 36.0112
+Producto 20051: mejor modelo = lgbm, MAE sep-nov = 36.6773
+Producto 20052: mejor modelo = lgbm, MAE sep-nov = 60.1866
+Producto 20053: mejor modelo = regresion, MAE sep-nov = 20.5746
+Producto 20054: mejor modelo = regresion, MAE sep-nov = 27.1603
+Producto 20055: mejor modelo = lgbm, MAE sep-nov = 75.1333
+Producto 20056: mejor modelo = lgbm, MAE sep-nov = 70.8108
+Producto 20057: mejor modelo = regresion, MAE sep-nov = 27.1301
+Producto 20058: mejor modelo = lgbm, MAE sep-nov = 23.1033
+Producto 20059: mejor modelo = regresion, MAE sep-nov = 25.2085
+Producto 20061: mejor modelo = lgbm, MAE sep-nov = 19.8480
+Producto 20062: mejor modelo = regresion, MAE sep-nov = 43.6943
+Producto 20063: mejor modelo = lgbm, MAE sep-nov = 20.5061
+Producto 20065: mejor modelo = regresion, MAE sep-nov = 24.7388
+Producto 20066: mejor modelo = regresion, MAE sep-nov = 25.9234
+Producto 20067: mejor modelo = regresion, MAE sep-nov = 52.2254
+Producto 20068: mejor modelo = regresion, MAE sep-nov = 26.5171
+Producto 20069: mejor modelo = lgbm, MAE sep-nov = 31.6374
+Producto 20070: mejor modelo = lgbm, MAE sep-nov = 21.9232
+Producto 20071: mejor modelo = regresion, MAE sep-nov = 32.0691
+Producto 20072: mejor modelo = lgbm, MAE sep-nov = 49.3892
+Producto 20073: mejor modelo = lgbm, MAE sep-nov = 23.5090
+Producto 20074: mejor modelo = regresion, MAE sep-nov = 34.0716
+Producto 20075: mejor modelo = regresion, MAE sep-nov = 26.4412
+Producto 20076: mejor modelo = lgbm, MAE sep-nov = 21.3698
+Producto 20077: mejor modelo = regresion, MAE sep-nov = 36.1818
+Producto 20079: mejor modelo = regresion, MAE sep-nov = 64.9638
+Producto 20080: mejor modelo = regresion, MAE sep-nov = 30.9132
+Producto 20081: mejor modelo = lgbm, MAE sep-nov = 12.5770
+Producto 20082: mejor modelo = regresion, MAE sep-nov = 36.4238
+Producto 20084: mejor modelo = regresion, MAE sep-nov = 40.7231
+Producto 20086: mejor modelo = regresion, MAE sep-nov = 18.4739
+Producto 20087: mejor modelo = regresion, MAE sep-nov = 37.1522
+Producto 20090: mejor modelo = regresion, MAE sep-nov = 24.1188
+Producto 20091: mejor modelo = lgbm, MAE sep-nov = 16.0950
+Producto 20092: mejor modelo = regresion, MAE sep-nov = 27.4363
+Producto 20093: mejor modelo = lgbm, MAE sep-nov = 17.9832
+Producto 20094: mejor modelo = regresion, MAE sep-nov = 28.7028
+Producto 20095: mejor modelo = regresion, MAE sep-nov = 34.3183
+Producto 20096: mejor modelo = regresion, MAE sep-nov = 20.4157
+Producto 20097: mejor modelo = regresion, MAE sep-nov = 48.6330
+Producto 20099: mejor modelo = regresion, MAE sep-nov = 35.6091
+Producto 20100: mejor modelo = lgbm, MAE sep-nov = 49.4019
+Producto 20101: mejor modelo = lgbm, MAE sep-nov = 15.0255
+Producto 20102: mejor modelo = regresion, MAE sep-nov = 77.8865
+Producto 20103: mejor modelo = regresion, MAE sep-nov = 11.5637
+Producto 20106: mejor modelo = lgbm, MAE sep-nov = 13.5396
+Producto 20107: mejor modelo = lgbm, MAE sep-nov = 18.8169
+Producto 20108: mejor modelo = lgbm, MAE sep-nov = 19.5710
+Producto 20109: mejor modelo = regresion, MAE sep-nov = 35.8704
+Producto 20111: mejor modelo = lgbm, MAE sep-nov = 14.3390
+Producto 20112: mejor modelo = lgbm, MAE sep-nov = 26.3481
+Producto 20114: mejor modelo = regresion, MAE sep-nov = 12.3609
+Producto 20116: mejor modelo = regresion, MAE sep-nov = 49.4504
+Producto 20117: mejor modelo = lgbm, MAE sep-nov = 35.2659
+Producto 20118: mejor modelo = lgbm, MAE sep-nov = 26.3220
+Producto 20119: mejor modelo = lgbm, MAE sep-nov = 41.8432
+Producto 20120: mejor modelo = lgbm, MAE sep-nov = 8.8305
+Producto 20121: mejor modelo = regresion, MAE sep-nov = 30.3231
+Producto 20122: mejor modelo = lgbm, MAE sep-nov = 6.2331
+Producto 20123: mejor modelo = regresion, MAE sep-nov = 11.3786
+Producto 20124: mejor modelo = lgbm, MAE sep-nov = 20.8451
+Producto 20125: mejor modelo = lgbm, MAE sep-nov = 10.1910
+Producto 20126: mejor modelo = regresion, MAE sep-nov = 30.4501
+Producto 20129: mejor modelo = regresion, MAE sep-nov = 7.6730
+Producto 20130: mejor modelo = lgbm, MAE sep-nov = 31.8238
+Producto 20132: mejor modelo = regresion, MAE sep-nov = 8.9264
+Producto 20133: mejor modelo = lgbm, MAE sep-nov = 16.5494
+Producto 20134: mejor modelo = lgbm, MAE sep-nov = 13.8080
+Producto 20135: mejor modelo = regresion, MAE sep-nov = 30.2135
+Producto 20137: mejor modelo = regresion, MAE sep-nov = 11.5524
+Producto 20138: mejor modelo = regresion, MAE sep-nov = 33.4318
+Producto 20139: mejor modelo = regresion, MAE sep-nov = 10.5644
+Producto 20140: mejor modelo = regresion, MAE sep-nov = 12.4557
+Producto 20142: mejor modelo = regresion, MAE sep-nov = 15.4866
+Producto 20143: mejor modelo = lgbm, MAE sep-nov = 37.4798
+Producto 20144: mejor modelo = regresion, MAE sep-nov = 13.3060
+Producto 20145: mejor modelo = regresion, MAE sep-nov = 15.9828
+Producto 20146: mejor modelo = lgbm, MAE sep-nov = 18.8911
+Producto 20148: mejor modelo = lgbm, MAE sep-nov = 37.4075
+Producto 20150: mejor modelo = regresion, MAE sep-nov = 59.9325
+Producto 20151: mejor modelo = regresion, MAE sep-nov = 25.8729
+Producto 20152: mejor modelo = regresion, MAE sep-nov = 14.3648
+Producto 20153: mejor modelo = regresion, MAE sep-nov = 14.3645
+Producto 20155: mejor modelo = regresion, MAE sep-nov = 13.8796
+Producto 20157: mejor modelo = lgbm, MAE sep-nov = 19.3666
+Producto 20158: mejor modelo = regresion, MAE sep-nov = 23.2160
+Producto 20159: mejor modelo = lgbm, MAE sep-nov = 28.8375
+Producto 20160: mejor modelo = lgbm, MAE sep-nov = 7.4558
+Producto 20161: mejor modelo = regresion, MAE sep-nov = 10.4814
+Producto 20162: mejor modelo = lgbm, MAE sep-nov = 30.8142
+Producto 20164: mejor modelo = lgbm, MAE sep-nov = 20.2494
+Producto 20166: mejor modelo = regresion, MAE sep-nov = 11.8961
+Producto 20167: mejor modelo = regresion, MAE sep-nov = 8.5954
+Producto 20168: mejor modelo = lgbm, MAE sep-nov = 33.9470
+Producto 20170: mejor modelo = lgbm, MAE sep-nov = 22.5342
+Producto 20175: mejor modelo = lgbm, MAE sep-nov = 18.3601
+Producto 20176: mejor modelo = regresion, MAE sep-nov = 9.9760
+Producto 20177: mejor modelo = regresion, MAE sep-nov = 8.3112
+Producto 20179: mejor modelo = lgbm, MAE sep-nov = 13.9910
+Producto 20180: mejor modelo = lgbm, MAE sep-nov = 3.6059
+Producto 20181: mejor modelo = lgbm, MAE sep-nov = 5.3645
+Producto 20182: mejor modelo = regresion, MAE sep-nov = 8.6408
+Producto 20183: mejor modelo = lgbm, MAE sep-nov = 17.1963
+Producto 20184: mejor modelo = regresion, MAE sep-nov = 7.7576
+Producto 20187: mejor modelo = regresion, MAE sep-nov = 9.3081
+Producto 20188: mejor modelo = regresion, MAE sep-nov = 8.6819
+Producto 20189: mejor modelo = lgbm, MAE sep-nov = 8.9260
+Producto 20192: mejor modelo = regresion, MAE sep-nov = 14.5116
+Producto 20193: mejor modelo = regresion, MAE sep-nov = 8.5299
+Producto 20196: mejor modelo = lgbm, MAE sep-nov = 7.2098
+Producto 20197: mejor modelo = regresion, MAE sep-nov = 9.5473
+Producto 20198: mejor modelo = regresion, MAE sep-nov = 5.8640
+Producto 20200: mejor modelo = lgbm, MAE sep-nov = 5.2037
+Producto 20201: mejor modelo = lgbm, MAE sep-nov = 9.9241
+Producto 20202: mejor modelo = lgbm, MAE sep-nov = 8.9102
+Producto 20203: mejor modelo = lgbm, MAE sep-nov = 14.9589
+Producto 20205: mejor modelo = regresion, MAE sep-nov = 4.9637
+Producto 20206: mejor modelo = lgbm, MAE sep-nov = 10.0324
+Producto 20207: mejor modelo = lgbm, MAE sep-nov = 24.5489
+Producto 20208: mejor modelo = regresion, MAE sep-nov = 4.1894
+Producto 20209: mejor modelo = regresion, MAE sep-nov = 4.3509
+Producto 20211: mejor modelo = lgbm, MAE sep-nov = 17.2250
+Producto 20212: mejor modelo = lgbm, MAE sep-nov = 8.5724
+Producto 20215: mejor modelo = regresion, MAE sep-nov = 4.2560
+Producto 20216: mejor modelo = lgbm, MAE sep-nov = 15.3332
+Producto 20218: mejor modelo = regresion, MAE sep-nov = 13.8437
+Producto 20219: mejor modelo = regresion, MAE sep-nov = 8.4757
+Producto 20220: mejor modelo = lgbm, MAE sep-nov = 5.6358
+Producto 20222: mejor modelo = lgbm, MAE sep-nov = 6.1685
+Producto 20224: mejor modelo = regresion, MAE sep-nov = 6.2760
+Producto 20225: mejor modelo = regresion, MAE sep-nov = 4.4917
+Producto 20226: mejor modelo = regresion, MAE sep-nov = 5.5774
+Producto 20227: mejor modelo = regresion, MAE sep-nov = 25.7083
+Producto 20228: mejor modelo = regresion, MAE sep-nov = 17.1317
+Producto 20230: mejor modelo = lgbm, MAE sep-nov = 3.0818
+Producto 20231: mejor modelo = lgbm, MAE sep-nov = 5.9385
+Producto 20232: mejor modelo = regresion, MAE sep-nov = 13.0358
+Producto 20233: mejor modelo = lgbm, MAE sep-nov = 16.4915
+Producto 20234: mejor modelo = regresion, MAE sep-nov = 8.4725
+Producto 20235: mejor modelo = lgbm, MAE sep-nov = 19.7576
+Producto 20237: mejor modelo = lgbm, MAE sep-nov = 10.8981
+Producto 20238: mejor modelo = lgbm, MAE sep-nov = 5.8989
+Producto 20239: mejor modelo = regresion, MAE sep-nov = 2.7126
+Producto 20240: mejor modelo = regresion, MAE sep-nov = 4.2255
+Producto 20241: mejor modelo = regresion, MAE sep-nov = 4.6090
+Producto 20242: mejor modelo = lgbm, MAE sep-nov = 14.0331
+Producto 20244: mejor modelo = lgbm, MAE sep-nov = 4.8798
+Producto 20246: mejor modelo = regresion, MAE sep-nov = 5.0033
+Producto 20249: mejor modelo = regresion, MAE sep-nov = 4.6895
+Producto 20251: mejor modelo = regresion, MAE sep-nov = 7.9131
+Producto 20252: mejor modelo = regresion, MAE sep-nov = 4.6347
+Producto 20253: mejor modelo = regresion, MAE sep-nov = 4.2896
+Producto 20254: mejor modelo = lgbm, MAE sep-nov = 5.9227
+Producto 20255: mejor modelo = lgbm, MAE sep-nov = 11.9057
+Producto 20256: mejor modelo = regresion, MAE sep-nov = 3.1862
+Producto 20259: mejor modelo = regresion, MAE sep-nov = 4.0315
+Producto 20262: mejor modelo = regresion, MAE sep-nov = 6.5163
+Producto 20263: mejor modelo = regresion, MAE sep-nov = 2.6909
+Producto 20264: mejor modelo = lgbm, MAE sep-nov = 9.3441
+Producto 20265: mejor modelo = regresion, MAE sep-nov = 10.8503
+Producto 20266: mejor modelo = regresion, MAE sep-nov = 15.9527
+Producto 20267: mejor modelo = lgbm, MAE sep-nov = 3.0359
+Producto 20268: mejor modelo = lgbm, MAE sep-nov = 4.0470
+Producto 20269: mejor modelo = regresion, MAE sep-nov = 6.7414
+Producto 20270: mejor modelo = lgbm, MAE sep-nov = 8.6528
+Producto 20271: mejor modelo = regresion, MAE sep-nov = 5.5317
+Producto 20272: mejor modelo = regresion, MAE sep-nov = 4.1501
+Producto 20273: mejor modelo = regresion, MAE sep-nov = 4.1074
+Producto 20275: mejor modelo = lgbm, MAE sep-nov = 4.4419
+Producto 20276: mejor modelo = regresion, MAE sep-nov = 3.8349
+Producto 20277: mejor modelo = lgbm, MAE sep-nov = 5.9551
+Producto 20278: mejor modelo = regresion, MAE sep-nov = 4.3167
+Producto 20280: mejor modelo = lgbm, MAE sep-nov = 5.7744
+Producto 20281: mejor modelo = regresion, MAE sep-nov = 6.0473
+Producto 20282: mejor modelo = lgbm, MAE sep-nov = 4.7963
+Producto 20283: mejor modelo = regresion, MAE sep-nov = 5.1067
+Producto 20284: mejor modelo = regresion, MAE sep-nov = 4.1273
+Producto 20285: mejor modelo = regresion, MAE sep-nov = 5.2679
+Producto 20288: mejor modelo = lgbm, MAE sep-nov = 3.8558
+Producto 20289: mejor modelo = lgbm, MAE sep-nov = 5.5223
+Producto 20290: mejor modelo = regresion, MAE sep-nov = 5.2720
+Producto 20291: mejor modelo = lgbm, MAE sep-nov = 4.8830
+Producto 20292: mejor modelo = regresion, MAE sep-nov = 5.0001
+Producto 20295: mejor modelo = lgbm, MAE sep-nov = 5.6536
+Producto 20296: mejor modelo = regresion, MAE sep-nov = 2.1306
+Producto 20297: mejor modelo = lgbm, MAE sep-nov = 8.7570
+Producto 20298: mejor modelo = lgbm, MAE sep-nov = 4.8279
+Producto 20299: mejor modelo = lgbm, MAE sep-nov = 8.6841
+Producto 20300: mejor modelo = regresion, MAE sep-nov = 3.9936
+Producto 20301: mejor modelo = regresion, MAE sep-nov = 4.9629
+Producto 20302: mejor modelo = regresion, MAE sep-nov = 7.1788
+Producto 20303: mejor modelo = lgbm, MAE sep-nov = 4.4969
+Producto 20304: mejor modelo = lgbm, MAE sep-nov = 10.0146
+Producto 20305: mejor modelo = regresion, MAE sep-nov = 7.0915
+Producto 20306: mejor modelo = lgbm, MAE sep-nov = 7.4518
+Producto 20307: mejor modelo = regresion, MAE sep-nov = 5.3631
+Producto 20309: mejor modelo = lgbm, MAE sep-nov = 4.1091
+Producto 20310: mejor modelo = lgbm, MAE sep-nov = 6.7621
+Producto 20311: mejor modelo = lgbm, MAE sep-nov = 1.4553
+Producto 20313: mejor modelo = lgbm, MAE sep-nov = 9.0265
+Producto 20314: mejor modelo = regresion, MAE sep-nov = 2.9786
+Producto 20315: mejor modelo = regresion, MAE sep-nov = 2.7845
+Producto 20316: mejor modelo = lgbm, MAE sep-nov = 14.6132
+Producto 20317: mejor modelo = regresion, MAE sep-nov = 2.7241
+Producto 20319: mejor modelo = regresion, MAE sep-nov = 4.6837
+Producto 20320: mejor modelo = regresion, MAE sep-nov = 3.2218
+Producto 20321: mejor modelo = regresion, MAE sep-nov = 7.8075
+Producto 20322: mejor modelo = lgbm, MAE sep-nov = 14.9699
+Producto 20323: mejor modelo = lgbm, MAE sep-nov = 8.3444
+Producto 20324: mejor modelo = lgbm, MAE sep-nov = 3.6349
+Producto 20325: mejor modelo = lgbm, MAE sep-nov = 15.5894
+Producto 20326: mejor modelo = regresion, MAE sep-nov = 3.3791
+Producto 20327: mejor modelo = regresion, MAE sep-nov = 3.5741
+Producto 20328: mejor modelo = lgbm, MAE sep-nov = 5.5720
+Producto 20329: mejor modelo = regresion, MAE sep-nov = 3.9394
+Producto 20330: mejor modelo = lgbm, MAE sep-nov = 3.0125
+Producto 20332: mejor modelo = lgbm, MAE sep-nov = 5.9142
+Producto 20334: mejor modelo = regresion, MAE sep-nov = 9.9243
+Producto 20335: mejor modelo = regresion, MAE sep-nov = 3.6231
+Producto 20336: mejor modelo = regresion, MAE sep-nov = 4.0234
+Producto 20337: mejor modelo = regresion, MAE sep-nov = 2.7801
+Producto 20338: mejor modelo = regresion, MAE sep-nov = 4.3329
+Producto 20340: mejor modelo = regresion, MAE sep-nov = 8.8769
+Producto 20341: mejor modelo = regresion, MAE sep-nov = 3.0319
+Producto 20342: mejor modelo = regresion, MAE sep-nov = 3.6677
+Producto 20343: mejor modelo = lgbm, MAE sep-nov = 4.0037
+Producto 20344: mejor modelo = regresion, MAE sep-nov = 4.0815
+Producto 20346: mejor modelo = lgbm, MAE sep-nov = 4.8957
+Producto 20348: mejor modelo = regresion, MAE sep-nov = 4.4483
+Producto 20349: mejor modelo = lgbm, MAE sep-nov = 2.3312
+Producto 20350: mejor modelo = regresion, MAE sep-nov = 5.2140
+Producto 20351: mejor modelo = lgbm, MAE sep-nov = 4.4477
+Producto 20352: mejor modelo = lgbm, MAE sep-nov = 5.0692
+Producto 20353: mejor modelo = regresion, MAE sep-nov = 4.7191
+Producto 20354: mejor modelo = lgbm, MAE sep-nov = 2.0951
+Producto 20356: mejor modelo = lgbm, MAE sep-nov = 2.6552
+Producto 20357: mejor modelo = regresion, MAE sep-nov = 2.9541
+Producto 20358: mejor modelo = regresion, MAE sep-nov = 7.4829
+Producto 20359: mejor modelo = lgbm, MAE sep-nov = 1.8133
+Producto 20361: mejor modelo = lgbm, MAE sep-nov = 9.2276
+Producto 20362: mejor modelo = lgbm, MAE sep-nov = 8.4885
+Producto 20364: mejor modelo = lgbm, MAE sep-nov = 13.3352
+Producto 20365: mejor modelo = regresion, MAE sep-nov = 2.9963
+Producto 20366: mejor modelo = regresion, MAE sep-nov = 5.2924
+Producto 20367: mejor modelo = regresion, MAE sep-nov = 2.8148
+Producto 20368: mejor modelo = lgbm, MAE sep-nov = 4.0279
+Producto 20372: mejor modelo = lgbm, MAE sep-nov = 6.3197
+Producto 20375: mejor modelo = lgbm, MAE sep-nov = 7.1872
+Producto 20377: mejor modelo = regresion, MAE sep-nov = 4.3784
+Producto 20378: mejor modelo = lgbm, MAE sep-nov = 10.5264
+Producto 20379: mejor modelo = lgbm, MAE sep-nov = 8.3199
+Producto 20380: mejor modelo = lgbm, MAE sep-nov = 3.1189
+Producto 20381: mejor modelo = lgbm, MAE sep-nov = 4.6197
+Producto 20382: mejor modelo = lgbm, MAE sep-nov = 6.0822
+Producto 20383: mejor modelo = regresion, MAE sep-nov = 4.5707
+Producto 20384: mejor modelo = lgbm, MAE sep-nov = 5.8231
+Producto 20385: mejor modelo = regresion, MAE sep-nov = 4.3523
+Producto 20386: mejor modelo = lgbm, MAE sep-nov = 1.1727
+Producto 20387: mejor modelo = regresion, MAE sep-nov = 4.0097
+Producto 20388: mejor modelo = lgbm, MAE sep-nov = 3.9833
+Producto 20389: mejor modelo = lgbm, MAE sep-nov = 10.2960
+Producto 20390: mejor modelo = regresion, MAE sep-nov = 5.9218
+Producto 20395: mejor modelo = lgbm, MAE sep-nov = 5.8870
+Producto 20396: mejor modelo = lgbm, MAE sep-nov = 3.8857
+Producto 20398: mejor modelo = regresion, MAE sep-nov = 4.7748
+Producto 20400: mejor modelo = lgbm, MAE sep-nov = 4.4157
+Producto 20401: mejor modelo = regresion, MAE sep-nov = 3.2216
+Producto 20402: mejor modelo = lgbm, MAE sep-nov = 1.7893
+Producto 20403: mejor modelo = regresion, MAE sep-nov = 3.5206
+Producto 20404: mejor modelo = regresion, MAE sep-nov = 3.1364
+Producto 20406: mejor modelo = regresion, MAE sep-nov = 2.6524
+Producto 20407: mejor modelo = regresion, MAE sep-nov = 2.9119
+Producto 20409: mejor modelo = lgbm, MAE sep-nov = 8.8307
+Producto 20410: mejor modelo = lgbm, MAE sep-nov = 2.9076
+Producto 20411: mejor modelo = regresion, MAE sep-nov = 1.9962
+Producto 20415: mejor modelo = regresion, MAE sep-nov = 7.7407
+Producto 20416: mejor modelo = regresion, MAE sep-nov = 4.1454
+Producto 20417: mejor modelo = regresion, MAE sep-nov = 2.2953
+Producto 20418: mejor modelo = regresion, MAE sep-nov = 5.4777
+Producto 20419: mejor modelo = lgbm, MAE sep-nov = 1.2519
+Producto 20421: mejor modelo = lgbm, MAE sep-nov = 1.8878
+Producto 20422: mejor modelo = regresion, MAE sep-nov = 4.5664
+Producto 20424: mejor modelo = regresion, MAE sep-nov = 2.6130
+Producto 20426: mejor modelo = regresion, MAE sep-nov = 4.6464
+Producto 20428: mejor modelo = regresion, MAE sep-nov = 5.5814
+Producto 20429: mejor modelo = regresion, MAE sep-nov = 4.4312
+Producto 20432: mejor modelo = regresion, MAE sep-nov = 2.5470
+Producto 20433: mejor modelo = lgbm, MAE sep-nov = 3.7064
+Producto 20434: mejor modelo = lgbm, MAE sep-nov = 3.2599
+Producto 20438: mejor modelo = lgbm, MAE sep-nov = 3.2498
+Producto 20443: mejor modelo = regresion, MAE sep-nov = 2.8356
+Producto 20447: mejor modelo = regresion, MAE sep-nov = 3.7320
+Producto 20449: mejor modelo = regresion, MAE sep-nov = 4.6812
+Producto 20450: mejor modelo = lgbm, MAE sep-nov = 2.2360
+Producto 20453: mejor modelo = regresion, MAE sep-nov = 3.0006
+Producto 20456: mejor modelo = lgbm, MAE sep-nov = 3.6671
+Producto 20463: mejor modelo = regresion, MAE sep-nov = 2.2625
+Producto 20464: mejor modelo = regresion, MAE sep-nov = 3.0839
+Producto 20465: mejor modelo = regresion, MAE sep-nov = 2.1271
+Producto 20466: mejor modelo = lgbm, MAE sep-nov = 2.4928
+Producto 20469: mejor modelo = lgbm, MAE sep-nov = 2.6012
+Producto 20470: mejor modelo = lgbm, MAE sep-nov = 1.6631
+Producto 20473: mejor modelo = regresion, MAE sep-nov = 3.8615
+Producto 20474: mejor modelo = lgbm, MAE sep-nov = 2.2293
+Producto 20478: mejor modelo = regresion, MAE sep-nov = 6.6377
+Producto 20479: mejor modelo = regresion, MAE sep-nov = 1.7454
+Producto 20480: mejor modelo = lgbm, MAE sep-nov = 3.6527
+Producto 20481: mejor modelo = regresion, MAE sep-nov = 0.8802
+Producto 20482: mejor modelo = lgbm, MAE sep-nov = 2.7823
+Producto 20483: mejor modelo = lgbm, MAE sep-nov = 2.2492
+Producto 20484: mejor modelo = regresion, MAE sep-nov = 3.4206
+Producto 20488: mejor modelo = lgbm, MAE sep-nov = 3.0484
+Producto 20490: mejor modelo = regresion, MAE sep-nov = 5.3918
+Producto 20496: mejor modelo = lgbm, MAE sep-nov = 5.4844
+Producto 20497: mejor modelo = regresion, MAE sep-nov = 2.1902
+Producto 20500: mejor modelo = lgbm, MAE sep-nov = 1.2825
+Producto 20502: mejor modelo = regresion, MAE sep-nov = 1.8385
+Producto 20505: mejor modelo = regresion, MAE sep-nov = 2.1319
+Producto 20508: mejor modelo = regresion, MAE sep-nov = 5.9015
+Producto 20509: mejor modelo = regresion, MAE sep-nov = 5.2491
+Producto 20513: mejor modelo = lgbm, MAE sep-nov = 1.7722
+Producto 20514: mejor modelo = lgbm, MAE sep-nov = 1.0250
+Producto 20517: mejor modelo = regresion, MAE sep-nov = 1.3064
+Producto 20520: mejor modelo = lgbm, MAE sep-nov = 2.7857
+Producto 20524: mejor modelo = lgbm, MAE sep-nov = 1.8489
+Producto 20530: mejor modelo = regresion, MAE sep-nov = 3.8772
+Producto 20532: mejor modelo = lgbm, MAE sep-nov = 2.3956
+Producto 20536: mejor modelo = regresion, MAE sep-nov = 0.9734
+Producto 20538: mejor modelo = lgbm, MAE sep-nov = 1.2964
+Producto 20539: mejor modelo = regresion, MAE sep-nov = 1.8063
+Producto 20541: mejor modelo = regresion, MAE sep-nov = 2.3997
+Producto 20542: mejor modelo = lgbm, MAE sep-nov = 1.0453
+Producto 20544: mejor modelo = regresion, MAE sep-nov = 1.4642
+Producto 20549: mejor modelo = lgbm, MAE sep-nov = 3.2212
+Producto 20551: mejor modelo = regresion, MAE sep-nov = 1.7774
+Producto 20552: mejor modelo = lgbm, MAE sep-nov = 6.4515
+Producto 20555: mejor modelo = regresion, MAE sep-nov = 2.3423
+Producto 20560: mejor modelo = regresion, MAE sep-nov = 1.6758
+Producto 20561: mejor modelo = regresion, MAE sep-nov = 3.4863
+Producto 20563: mejor modelo = lgbm, MAE sep-nov = 3.6658
+Producto 20565: mejor modelo = regresion, MAE sep-nov = 1.7297
+Producto 20567: mejor modelo = lgbm, MAE sep-nov = 1.8976
+Producto 20568: mejor modelo = regresion, MAE sep-nov = 1.0142
+Producto 20570: mejor modelo = lgbm, MAE sep-nov = 0.6308
+Producto 20571: mejor modelo = regresion, MAE sep-nov = 1.8949
+Producto 20572: mejor modelo = regresion, MAE sep-nov = 2.8830
+Producto 20574: mejor modelo = lgbm, MAE sep-nov = 2.3273
+Producto 20576: mejor modelo = lgbm, MAE sep-nov = 2.4717
+Producto 20578: mejor modelo = regresion, MAE sep-nov = 1.1089
+Producto 20579: mejor modelo = lgbm, MAE sep-nov = 2.8739
+Producto 20583: mejor modelo = regresion, MAE sep-nov = 1.2683
+Producto 20585: mejor modelo = lgbm, MAE sep-nov = 2.2373
+Producto 20586: mejor modelo = regresion, MAE sep-nov = 2.3331
+Producto 20588: mejor modelo = regresion, MAE sep-nov = 3.7746
+Producto 20589: mejor modelo = lgbm, MAE sep-nov = 0.7409
+Producto 20596: mejor modelo = lgbm, MAE sep-nov = 2.5902
+Producto 20597: mejor modelo = regresion, MAE sep-nov = 3.0279
+Producto 20599: mejor modelo = regresion, MAE sep-nov = 1.1675
+Producto 20600: mejor modelo = regresion, MAE sep-nov = 1.1155
+Producto 20601: mejor modelo = regresion, MAE sep-nov = 2.8443
+Producto 20602: mejor modelo = regresion, MAE sep-nov = 2.5288
+Producto 20604: mejor modelo = lgbm, MAE sep-nov = 2.2366
+Producto 20605: mejor modelo = lgbm, MAE sep-nov = 0.9823
+Producto 20606: mejor modelo = regresion, MAE sep-nov = 1.4432
+Producto 20609: mejor modelo = lgbm, MAE sep-nov = 2.2612
+Producto 20612: mejor modelo = lgbm, MAE sep-nov = 2.1041
+Producto 20614: mejor modelo = regresion, MAE sep-nov = 2.8115
+Producto 20617: mejor modelo = regresion, MAE sep-nov = 2.7624
+Producto 20622: mejor modelo = lgbm, MAE sep-nov = 0.6246
+Producto 20624: mejor modelo = lgbm, MAE sep-nov = 2.8748
+Producto 20628: mejor modelo = regresion, MAE sep-nov = 0.4584
+Producto 20629: mejor modelo = regresion, MAE sep-nov = 2.5072
+Producto 20632: mejor modelo = regresion, MAE sep-nov = 2.5942
+Producto 20636: mejor modelo = regresion, MAE sep-nov = 2.5434
+Producto 20637: mejor modelo = lgbm, MAE sep-nov = 0.5119
+Producto 20639: mejor modelo = lgbm, MAE sep-nov = 0.4664
+Producto 20640: mejor modelo = regresion, MAE sep-nov = 1.0275
+Producto 20641: mejor modelo = regresion, MAE sep-nov = 2.3527
+Producto 20642: mejor modelo = regresion, MAE sep-nov = 1.5741
+Producto 20644: mejor modelo = regresion, MAE sep-nov = 2.2977
+Producto 20646: mejor modelo = lgbm, MAE sep-nov = 1.6137
+Producto 20647: mejor modelo = regresion, MAE sep-nov = 1.1201
+Producto 20651: mejor modelo = lgbm, MAE sep-nov = 1.3705
+Producto 20652: mejor modelo = lgbm, MAE sep-nov = 0.8936
+Producto 20653: mejor modelo = regresion, MAE sep-nov = 0.7618
+Producto 20654: mejor modelo = regresion, MAE sep-nov = 1.1847
+Producto 20655: mejor modelo = regresion, MAE sep-nov = 1.7986
+Producto 20657: mejor modelo = lgbm, MAE sep-nov = 4.0179
+Producto 20658: mejor modelo = lgbm, MAE sep-nov = 1.0470
+Producto 20660: mejor modelo = regresion, MAE sep-nov = 1.8216
+Producto 20661: mejor modelo = lgbm, MAE sep-nov = 1.0380
+Producto 20663: mejor modelo = regresion, MAE sep-nov = 2.2941
+Producto 20664: mejor modelo = regresion, MAE sep-nov = 2.0019
+Producto 20666: mejor modelo = regresion, MAE sep-nov = 2.6622
+Producto 20667: mejor modelo = lgbm, MAE sep-nov = 1.8798
+Producto 20670: mejor modelo = regresion, MAE sep-nov = 4.6477
+Producto 20672: mejor modelo = lgbm, MAE sep-nov = 1.1061
+Producto 20676: mejor modelo = lgbm, MAE sep-nov = 2.2750
+Producto 20677: mejor modelo = regresion, MAE sep-nov = 1.6939
+Producto 20678: mejor modelo = regresion, MAE sep-nov = 2.3808
+Producto 20680: mejor modelo = lgbm, MAE sep-nov = 1.4482
+Producto 20684: mejor modelo = regresion, MAE sep-nov = 3.2585
+Producto 20685: mejor modelo = regresion, MAE sep-nov = 1.6326
+Producto 20693: mejor modelo = lgbm, MAE sep-nov = 0.9431
+Producto 20696: mejor modelo = lgbm, MAE sep-nov = 1.1000
+Producto 20697: mejor modelo = regresion, MAE sep-nov = 1.0773
+Producto 20699: mejor modelo = regresion, MAE sep-nov = 1.9895
+Producto 20701: mejor modelo = lgbm, MAE sep-nov = 0.5719
+Producto 20702: mejor modelo = lgbm, MAE sep-nov = 1.3403
+Producto 20705: mejor modelo = lgbm, MAE sep-nov = 1.7054
+Producto 20706: mejor modelo = regresion, MAE sep-nov = 1.3198
+Producto 20708: mejor modelo = regresion, MAE sep-nov = 0.9154
+Producto 20713: mejor modelo = lgbm, MAE sep-nov = 1.9054
+Producto 20714: mejor modelo = lgbm, MAE sep-nov = 0.8721
+Producto 20715: mejor modelo = regresion, MAE sep-nov = 1.4482
+Producto 20721: mejor modelo = regresion, MAE sep-nov = 1.3691
+Producto 20724: mejor modelo = regresion, MAE sep-nov = 2.1006
+Producto 20729: mejor modelo = regresion, MAE sep-nov = 3.1796
+Producto 20730: mejor modelo = regresion, MAE sep-nov = 1.3043
+Producto 20733: mejor modelo = regresion, MAE sep-nov = 1.6405
+Producto 20735: mejor modelo = regresion, MAE sep-nov = 0.8654
+Producto 20737: mejor modelo = lgbm, MAE sep-nov = 1.5098
+Producto 20739: mejor modelo = lgbm, MAE sep-nov = 0.4837
+Producto 20741: mejor modelo = lgbm, MAE sep-nov = 2.9098
+Producto 20742: mejor modelo = regresion, MAE sep-nov = 1.2411
+Producto 20743: mejor modelo = lgbm, MAE sep-nov = 2.3772
+Producto 20744: mejor modelo = regresion, MAE sep-nov = 0.7973
+Producto 20745: mejor modelo = lgbm, MAE sep-nov = 1.4625
+Producto 20749: mejor modelo = regresion, MAE sep-nov = 0.2431
+Producto 20750: mejor modelo = regresion, MAE sep-nov = 0.5764
+Producto 20751: mejor modelo = lgbm, MAE sep-nov = 0.9079
+Producto 20756: mejor modelo = regresion, MAE sep-nov = 0.9494
+Producto 20758: mejor modelo = lgbm, MAE sep-nov = 1.2369
+Producto 20759: mejor modelo = regresion, MAE sep-nov = 0.9595
+Producto 20761: mejor modelo = regresion, MAE sep-nov = 0.4658
+Producto 20765: mejor modelo = regresion, MAE sep-nov = 1.6703
+Producto 20768: mejor modelo = lgbm, MAE sep-nov = 1.4133
+Producto 20771: mejor modelo = lgbm, MAE sep-nov = 2.1586
+Producto 20773: mejor modelo = regresion, MAE sep-nov = 1.4397
+Producto 20775: mejor modelo = lgbm, MAE sep-nov = 1.2278
+Producto 20777: mejor modelo = regresion, MAE sep-nov = 0.7467
+Producto 20781: mejor modelo = regresion, MAE sep-nov = 0.9459
+Producto 20786: mejor modelo = lgbm, MAE sep-nov = 0.9608
+Producto 20788: mejor modelo = regresion, MAE sep-nov = 1.9631
+Producto 20789: mejor modelo = regresion, MAE sep-nov = 0.5444
+Producto 20793: mejor modelo = lgbm, MAE sep-nov = 0.8124
+Producto 20800: mejor modelo = regresion, MAE sep-nov = 1.2795
+Producto 20801: mejor modelo = lgbm, MAE sep-nov = 0.5058
+Producto 20802: mejor modelo = regresion, MAE sep-nov = 1.8576
+Producto 20803: mejor modelo = regresion, MAE sep-nov = 1.0600
+Producto 20807: mejor modelo = lgbm, MAE sep-nov = 0.3271
+Producto 20809: mejor modelo = lgbm, MAE sep-nov = 0.5078
+Producto 20810: mejor modelo = regresion, MAE sep-nov = 0.9165
+Producto 20811: mejor modelo = lgbm, MAE sep-nov = 0.6848
+Producto 20812: mejor modelo = regresion, MAE sep-nov = 0.8819
+Producto 20818: mejor modelo = lgbm, MAE sep-nov = 1.3973
+Producto 20820: mejor modelo = regresion, MAE sep-nov = 0.4260
+Producto 20823: mejor modelo = lgbm, MAE sep-nov = 0.7751
+Producto 20824: mejor modelo = lgbm, MAE sep-nov = 2.0210
+Producto 20826: mejor modelo = regresion, MAE sep-nov = 0.8365
+Producto 20828: mejor modelo = regresion, MAE sep-nov = 0.9703
+Producto 20830: mejor modelo = regresion, MAE sep-nov = 1.0373
+Producto 20831: mejor modelo = lgbm, MAE sep-nov = 0.8306
+Producto 20832: mejor modelo = regresion, MAE sep-nov = 1.0147
+Producto 20838: mejor modelo = regresion, MAE sep-nov = 0.5150
+Producto 20840: mejor modelo = regresion, MAE sep-nov = 0.8420
+Producto 20843: mejor modelo = lgbm, MAE sep-nov = 0.8006
+Producto 20846: mejor modelo = regresion, MAE sep-nov = 0.6633
+Producto 20847: mejor modelo = regresion, MAE sep-nov = 0.5052
+Producto 20849: mejor modelo = regresion, MAE sep-nov = 0.6372
+Producto 20852: mejor modelo = lgbm, MAE sep-nov = 0.8118
+Producto 20855: mejor modelo = regresion, MAE sep-nov = 0.6943
+Producto 20862: mejor modelo = regresion, MAE sep-nov = 0.3344
+Producto 20863: mejor modelo = regresion, MAE sep-nov = 0.2836
+Producto 20864: mejor modelo = regresion, MAE sep-nov = 0.4059
+Producto 20865: mejor modelo = lgbm, MAE sep-nov = 0.2549
+Producto 20870: mejor modelo = regresion, MAE sep-nov = 0.6004
+Producto 20877: mejor modelo = regresion, MAE sep-nov = 1.0256
+Producto 20878: mejor modelo = lgbm, MAE sep-nov = 0.5285
+Producto 20879: mejor modelo = regresion, MAE sep-nov = 0.5193
+Producto 20882: mejor modelo = lgbm, MAE sep-nov = 0.2196
+Producto 20883: mejor modelo = regresion, MAE sep-nov = 0.7951
+Producto 20885: mejor modelo = lgbm, MAE sep-nov = 0.2888
+Producto 20892: mejor modelo = regresion, MAE sep-nov = 0.3288
+Producto 20894: mejor modelo = lgbm, MAE sep-nov = 0.3959
+Producto 20901: mejor modelo = lgbm, MAE sep-nov = 0.8886
+Producto 20906: mejor modelo = lgbm, MAE sep-nov = 0.7968
+Producto 20913: mejor modelo = regresion, MAE sep-nov = 0.4207
+Producto 20914: mejor modelo = regresion, MAE sep-nov = 0.6935
+Producto 20919: mejor modelo = lgbm, MAE sep-nov = 0.3214
+Producto 20922: mejor modelo = lgbm, MAE sep-nov = 0.7425
+Producto 20925: mejor modelo = regresion, MAE sep-nov = 0.3926
+Producto 20931: mejor modelo = lgbm, MAE sep-nov = 0.3940
+Producto 20936: mejor modelo = regresion, MAE sep-nov = 0.6798
+Producto 20937: mejor modelo = lgbm, MAE sep-nov = 0.2505
+Producto 20941: mejor modelo = regresion, MAE sep-nov = 0.3943
+Producto 20945: mejor modelo = lgbm, MAE sep-nov = 0.5712
+Producto 20947: mejor modelo = regresion, MAE sep-nov = 0.3393
+Producto 20948: mejor modelo = regresion, MAE sep-nov = 0.4321
+Producto 20949: mejor modelo = lgbm, MAE sep-nov = 0.3729
+Producto 20951: mejor modelo = lgbm, MAE sep-nov = 0.6182
+Producto 20956: mejor modelo = regresion, MAE sep-nov = 0.6313
+Producto 20957: mejor modelo = regresion, MAE sep-nov = 0.2775
+Producto 20961: mejor modelo = lgbm, MAE sep-nov = 0.2466
+Producto 20965: mejor modelo = regresion, MAE sep-nov = 0.4618
+Producto 20970: mejor modelo = regresion, MAE sep-nov = 0.3477
+Producto 20976: mejor modelo = lgbm, MAE sep-nov = 0.1398
+Producto 20982: mejor modelo = lgbm, MAE sep-nov = 0.6748
+Producto 20985: mejor modelo = regresion, MAE sep-nov = 0.2606
+Producto 20986: mejor modelo = regresion, MAE sep-nov = 0.1802
+Producto 20991: mejor modelo = regresion, MAE sep-nov = 0.7005
+Producto 20994: mejor modelo = lgbm, MAE sep-nov = 0.4611
+Producto 20996: mejor modelo = regresion, MAE sep-nov = 0.2340
+Producto 21003: mejor modelo = regresion, MAE sep-nov = 0.3597
+Producto 21008: mejor modelo = regresion, MAE sep-nov = 0.2096
+Producto 21014: mejor modelo = regresion, MAE sep-nov = 0.3394
+Producto 21016: mejor modelo = regresion, MAE sep-nov = 0.1721
+Producto 21024: mejor modelo = regresion, MAE sep-nov = 0.2075
+Producto 21027: mejor modelo = lgbm, MAE sep-nov = 0.7998
+Producto 21028: mejor modelo = lgbm, MAE sep-nov = 0.0767
+Producto 21032: mejor modelo = regresion, MAE sep-nov = 0.2146
+Producto 21034: mejor modelo = regresion, MAE sep-nov = 0.5995
+Producto 21038: mejor modelo = regresion, MAE sep-nov = 0.1489
+Producto 21040: mejor modelo = regresion, MAE sep-nov = 0.4558
+Producto 21048: mejor modelo = regresion, MAE sep-nov = 0.3123
+Producto 21049: mejor modelo = regresion, MAE sep-nov = 0.3365
+Producto 21055: mejor modelo = lgbm, MAE sep-nov = 0.1265
+Producto 21057: mejor modelo = regresion, MAE sep-nov = 0.1355
+Producto 21065: mejor modelo = regresion, MAE sep-nov = 0.2316
+Producto 21077: mejor modelo = regresion, MAE sep-nov = 0.1670
+Producto 21080: mejor modelo = lgbm, MAE sep-nov = 0.0983
+Producto 21088: mejor modelo = regresion, MAE sep-nov = 0.1964
+Producto 21118: mejor modelo = regresion, MAE sep-nov = 0.1256
+Producto 21126: mejor modelo = regresion, MAE sep-nov = 0.1446
+Producto 21131: mejor modelo = regresion, MAE sep-nov = 0.0912
+Producto 21155: mejor modelo = lgbm, MAE sep-nov = 0.0875
+Producto 21157: mejor modelo = regresion, MAE sep-nov = 0.2032
+Producto 21164: mejor modelo = regresion, MAE sep-nov = 0.1361
+Producto 21167: mejor modelo = lgbm, MAE sep-nov = 0.1004
+Producto 21170: mejor modelo = regresion, MAE sep-nov = 0.0703
+Producto 21176: mejor modelo = regresion, MAE sep-nov = 0.0999
+Producto 21180: mejor modelo = lgbm, MAE sep-nov = 0.1831
+Producto 21182: mejor modelo = regresion, MAE sep-nov = 0.1576
+Producto 21184: mejor modelo = lgbm, MAE sep-nov = 0.1231
+Producto 21190: mejor modelo = regresion, MAE sep-nov = 0.0605
+Producto 21192: mejor modelo = regresion, MAE sep-nov = 0.1000
+Producto 21194: mejor modelo = lgbm, MAE sep-nov = 0.1084
+Producto 21200: mejor modelo = regresion, MAE sep-nov = 0.0649
+Producto 21202: mejor modelo = regresion, MAE sep-nov = 0.0830
+Producto 21207: mejor modelo = regresion, MAE sep-nov = 0.1101
+Producto 21212: mejor modelo = lgbm, MAE sep-nov = 0.0897
+Producto 21218: mejor modelo = regresion, MAE sep-nov = 0.0568
+Producto 21222: mejor modelo = regresion, MAE sep-nov = 0.0428
+Producto 21224: mejor modelo = regresion, MAE sep-nov = 0.0432
+Producto 20995: fallback promedio últimos 12 meses = 3.37
+Producto 20997: fallback promedio últimos 12 meses = 1.38
+Producto 21001: fallback promedio últimos 12 meses = 0.83
+Producto 20491: fallback promedio últimos 12 meses = 15.66
+Producto 21006: fallback promedio últimos 12 meses = 2.40
+Producto 20495: fallback promedio últimos 12 meses = 16.57
+Producto 21007: fallback promedio últimos 12 meses = 2.13
+Producto 20503: fallback promedio últimos 12 meses = 15.31
+Producto 20510: fallback promedio últimos 12 meses = 20.47
+Producto 21022: fallback promedio últimos 12 meses = 1.18
+Producto 20521: fallback promedio últimos 12 meses = 21.18
+Producto 20522: fallback promedio últimos 12 meses = 12.36
+Producto 20523: fallback promedio últimos 12 meses = 14.51
+Producto 21033: fallback promedio últimos 12 meses = 1.64
+Producto 20525: fallback promedio últimos 12 meses = 18.36
+Producto 20526: fallback promedio últimos 12 meses = 19.87
+Producto 20527: fallback promedio últimos 12 meses = 14.12
+Producto 21035: fallback promedio últimos 12 meses = 1.90
+Producto 21037: fallback promedio últimos 12 meses = 0.77
+Producto 21039: fallback promedio últimos 12 meses = 1.98
+Producto 20531: fallback promedio últimos 12 meses = 17.81
+Producto 21042: fallback promedio últimos 12 meses = 1.78
+Producto 21044: fallback promedio últimos 12 meses = 1.86
+Producto 20537: fallback promedio últimos 12 meses = 17.25
+Producto 20540: fallback promedio últimos 12 meses = 13.68
+Producto 21056: fallback promedio últimos 12 meses = 1.07
+Producto 20032: fallback promedio últimos 12 meses = 590.33
+Producto 21058: fallback promedio últimos 12 meses = 1.64
+Producto 20547: fallback promedio últimos 12 meses = 13.83
+Producto 20548: fallback promedio últimos 12 meses = 20.25
+Producto 21064: fallback promedio últimos 12 meses = 2.16
+Producto 20553: fallback promedio últimos 12 meses = 13.51
+Producto 20558: fallback promedio últimos 12 meses = 15.57
+Producto 20559: fallback promedio últimos 12 meses = 13.66
+Producto 21073: fallback promedio últimos 12 meses = 1.33
+Producto 21074: fallback promedio últimos 12 meses = 1.43
+Producto 21079: fallback promedio últimos 12 meses = 1.90
+Producto 20569: fallback promedio últimos 12 meses = 11.01
+Producto 21084: fallback promedio últimos 12 meses = 0.70
+Producto 21086: fallback promedio últimos 12 meses = 1.50
+Producto 20575: fallback promedio últimos 12 meses = 15.82
+Producto 21087: fallback promedio últimos 12 meses = 0.91
+Producto 20577: fallback promedio últimos 12 meses = 15.52
+Producto 20580: fallback promedio últimos 12 meses = 14.39
+Producto 21092: fallback promedio últimos 12 meses = 1.04
+Producto 21093: fallback promedio últimos 12 meses = 1.06
+Producto 21097: fallback promedio últimos 12 meses = 1.38
+Producto 21099: fallback promedio últimos 12 meses = 1.52
+Producto 20592: fallback promedio últimos 12 meses = 16.77
+Producto 20593: fallback promedio últimos 12 meses = 17.16
+Producto 21105: fallback promedio últimos 12 meses = 0.88
+Producto 21109: fallback promedio últimos 12 meses = 1.22
+Producto 21110: fallback promedio últimos 12 meses = 1.39
+Producto 21111: fallback promedio últimos 12 meses = 1.26
+Producto 21112: fallback promedio últimos 12 meses = 1.08
+Producto 20085: fallback promedio últimos 12 meses = 190.80
+Producto 21114: fallback promedio últimos 12 meses = 1.28
+Producto 20603: fallback promedio últimos 12 meses = 14.08
+Producto 20089: fallback promedio últimos 12 meses = 196.35
+Producto 21119: fallback promedio últimos 12 meses = 1.16
+Producto 20611: fallback promedio últimos 12 meses = 10.85
+Producto 20615: fallback promedio últimos 12 meses = 13.48
+Producto 21129: fallback promedio últimos 12 meses = 0.93
+Producto 20620: fallback promedio últimos 12 meses = 15.09
+Producto 20621: fallback promedio últimos 12 meses = 12.56
+Producto 20623: fallback promedio últimos 12 meses = 13.21
+Producto 21135: fallback promedio últimos 12 meses = 0.69
+Producto 20627: fallback promedio últimos 12 meses = 8.94
+Producto 21140: fallback promedio últimos 12 meses = 0.83
+Producto 21142: fallback promedio últimos 12 meses = 0.36
+Producto 21144: fallback promedio últimos 12 meses = 1.18
+Producto 20633: fallback promedio últimos 12 meses = 13.05
+Producto 21146: fallback promedio últimos 12 meses = 1.20
+Producto 20638: fallback promedio últimos 12 meses = 5.94
+Producto 20127: fallback promedio últimos 12 meses = 208.44
+Producto 21153: fallback promedio últimos 12 meses = 0.59
+Producto 21154: fallback promedio últimos 12 meses = 1.20
+Producto 21159: fallback promedio últimos 12 meses = 0.51
+Producto 20649: fallback promedio últimos 12 meses = 21.76
+Producto 21163: fallback promedio últimos 12 meses = 0.69
+Producto 21168: fallback promedio últimos 12 meses = 0.49
+Producto 20659: fallback promedio últimos 12 meses = 11.69
+Producto 21171: fallback promedio últimos 12 meses = 0.55
+Producto 20662: fallback promedio últimos 12 meses = 10.89
+Producto 21179: fallback promedio últimos 12 meses = 0.53
+Producto 20673: fallback promedio últimos 12 meses = 11.39
+Producto 20674: fallback promedio últimos 12 meses = 13.74
+Producto 20679: fallback promedio últimos 12 meses = 7.08
+Producto 21191: fallback promedio últimos 12 meses = 0.17
+Producto 20681: fallback promedio últimos 12 meses = 12.23
+Producto 20682: fallback promedio últimos 12 meses = 7.52
+Producto 21196: fallback promedio últimos 12 meses = 0.45
+Producto 20686: fallback promedio últimos 12 meses = 12.50
+Producto 20174: fallback promedio últimos 12 meses = 114.81
+Producto 20689: fallback promedio últimos 12 meses = 9.02
+Producto 21201: fallback promedio últimos 12 meses = 0.25
+Producto 20691: fallback promedio últimos 12 meses = 19.81
+Producto 20694: fallback promedio últimos 12 meses = 8.78
+Producto 21209: fallback promedio últimos 12 meses = 0.14
+Producto 20700: fallback promedio últimos 12 meses = 3.76
+Producto 21214: fallback promedio últimos 12 meses = 0.41
+Producto 20703: fallback promedio últimos 12 meses = 12.17
+Producto 20709: fallback promedio últimos 12 meses = 6.92
+Producto 20711: fallback promedio últimos 12 meses = 11.25
+Producto 21226: fallback promedio últimos 12 meses = 0.14
+Producto 21227: fallback promedio últimos 12 meses = 0.34
+Producto 20719: fallback promedio últimos 12 meses = 8.32
+Producto 20720: fallback promedio últimos 12 meses = 9.75
+Producto 21233: fallback promedio últimos 12 meses = 0.10
+Producto 20210: fallback promedio últimos 12 meses = 82.18
+Producto 20213: fallback promedio últimos 12 meses = 78.12
+Producto 20732: fallback promedio últimos 12 meses = 10.11
+Producto 21244: fallback promedio últimos 12 meses = 0.04
+Producto 21245: fallback promedio últimos 12 meses = 0.06
+Producto 21246: fallback promedio últimos 12 meses = 0.03
+Producto 21248: fallback promedio últimos 12 meses = 0.03
+Producto 21252: fallback promedio últimos 12 meses = 0.18
+Producto 21256: fallback promedio últimos 12 meses = 0.03
+Producto 20746: fallback promedio últimos 12 meses = 7.32
+Producto 21259: fallback promedio últimos 12 meses = 0.03
+Producto 20236: fallback promedio últimos 12 meses = 97.62
+Producto 21262: fallback promedio últimos 12 meses = 0.03
+Producto 21263: fallback promedio últimos 12 meses = 0.03
+Producto 21265: fallback promedio últimos 12 meses = 0.09
+Producto 20754: fallback promedio últimos 12 meses = 8.74
+Producto 21266: fallback promedio últimos 12 meses = 0.09
+Producto 21267: fallback promedio últimos 12 meses = 0.09
+Producto 20757: fallback promedio últimos 12 meses = 5.68
+Producto 20762: fallback promedio últimos 12 meses = 6.82
+Producto 21276: fallback promedio últimos 12 meses = 0.05
+Producto 20257: fallback promedio últimos 12 meses = 58.23
+Producto 20772: fallback promedio últimos 12 meses = 9.34
+Producto 20261: fallback promedio últimos 12 meses = 71.73
+Producto 20774: fallback promedio últimos 12 meses = 7.70
+Producto 20783: fallback promedio últimos 12 meses = 3.71
+Producto 20785: fallback promedio últimos 12 meses = 7.75
+Producto 20795: fallback promedio últimos 12 meses = 6.31
+Producto 20286: fallback promedio últimos 12 meses = 49.78
+Producto 20815: fallback promedio últimos 12 meses = 7.46
+Producto 20817: fallback promedio últimos 12 meses = 6.43
+Producto 20822: fallback promedio últimos 12 meses = 6.03
+Producto 20827: fallback promedio últimos 12 meses = 6.93
+Producto 20835: fallback promedio últimos 12 meses = 5.79
+Producto 20845: fallback promedio últimos 12 meses = 6.43
+Producto 20853: fallback promedio últimos 12 meses = 3.15
+Producto 20859: fallback promedio últimos 12 meses = 2.89
+Producto 20355: fallback promedio últimos 12 meses = 35.55
+Producto 20886: fallback promedio últimos 12 meses = 3.52
+Producto 20899: fallback promedio últimos 12 meses = 3.02
+Producto 20902: fallback promedio últimos 12 meses = 2.58
+Producto 20904: fallback promedio últimos 12 meses = 5.29
+Producto 20907: fallback promedio últimos 12 meses = 4.65
+Producto 20908: fallback promedio últimos 12 meses = 2.44
+Producto 20910: fallback promedio últimos 12 meses = 4.86
+Producto 20912: fallback promedio últimos 12 meses = 4.68
+Producto 20917: fallback promedio últimos 12 meses = 2.59
+Producto 20920: fallback promedio últimos 12 meses = 3.66
+Producto 20408: fallback promedio últimos 12 meses = 17.67
+Producto 20924: fallback promedio últimos 12 meses = 3.10
+Producto 20414: fallback promedio últimos 12 meses = 31.20
+Producto 20927: fallback promedio últimos 12 meses = 3.73
+Producto 20928: fallback promedio últimos 12 meses = 4.59
+Producto 20932: fallback promedio últimos 12 meses = 2.60
+Producto 20933: fallback promedio últimos 12 meses = 3.57
+Producto 20942: fallback promedio últimos 12 meses = 2.35
+Producto 20946: fallback promedio últimos 12 meses = 3.17
+Producto 20440: fallback promedio últimos 12 meses = 30.27
+Producto 20953: fallback promedio últimos 12 meses = 4.00
+Producto 20442: fallback promedio últimos 12 meses = 31.27
+Producto 20962: fallback promedio últimos 12 meses = 3.92
+Producto 20966: fallback promedio últimos 12 meses = 1.41
+Producto 20967: fallback promedio últimos 12 meses = 1.72
+Producto 20968: fallback promedio últimos 12 meses = 2.97
+Producto 20458: fallback promedio últimos 12 meses = 24.69
+Producto 20459: fallback promedio últimos 12 meses = 17.30
+Producto 20460: fallback promedio últimos 12 meses = 18.20
+Producto 20975: fallback promedio últimos 12 meses = 3.58
+Producto 20987: fallback promedio últimos 12 meses = 2.67
+Producto 20476: fallback promedio últimos 12 meses = 24.86
+Producto 20477: fallback promedio últimos 12 meses = 14.47
+Producto 20990: fallback promedio últimos 12 meses = 1.15

@@ -1,0 +1,780 @@
+Producto 20001: mejor modelo = lgbm, MAE 2019 = 180.3243
+Producto 20002: mejor modelo = arima, MAE 2019 = 250.1385
+Producto 20003: mejor modelo = arima, MAE 2019 = 152.6637
+Producto 20004: mejor modelo = regresion, MAE 2019 = 123.9434
+Producto 20005: mejor modelo = regresion, MAE 2019 = 161.7902
+Producto 20006: mejor modelo = arima, MAE 2019 = 125.0379
+Producto 20007: mejor modelo = arima, MAE 2019 = 79.3371
+Producto 20008: mejor modelo = arima, MAE 2019 = 92.1476
+Producto 20009: mejor modelo = arima, MAE 2019 = 80.5576
+Producto 20010: mejor modelo = arima, MAE 2019 = 79.7621
+Producto 20011: mejor modelo = arima, MAE 2019 = 74.6432
+Producto 20012: mejor modelo = arima, MAE 2019 = 67.5829
+Producto 20013: mejor modelo = arima, MAE 2019 = 81.7315
+Producto 20014: mejor modelo = regresion, MAE 2019 = 85.3105
+Producto 20015: mejor modelo = regresion, MAE 2019 = 82.9029
+Producto 20016: mejor modelo = arima, MAE 2019 = 27.6274
+Producto 20017: mejor modelo = arima, MAE 2019 = 86.4815
+Producto 20018: mejor modelo = arima, MAE 2019 = 111.7176
+Producto 20019: mejor modelo = lgbm, MAE 2019 = 119.7018
+Producto 20020: mejor modelo = arima, MAE 2019 = 53.3117
+Producto 20021: mejor modelo = arima, MAE 2019 = 97.4251
+Producto 20022: mejor modelo = lgbm, MAE 2019 = 67.9879
+Producto 20023: mejor modelo = regresion, MAE 2019 = 47.7050
+Producto 20024: mejor modelo = arima, MAE 2019 = 48.1386
+Producto 20025: mejor modelo = arima, MAE 2019 = 47.7225
+Producto 20026: mejor modelo = regresion, MAE 2019 = 55.0923
+Producto 20027: mejor modelo = arima, MAE 2019 = 24.5114
+Producto 20028: mejor modelo = arima, MAE 2019 = 64.3594
+Producto 20029: mejor modelo = arima, MAE 2019 = 44.5239
+Producto 20030: mejor modelo = arima, MAE 2019 = 39.9776
+Producto 20031: mejor modelo = arima, MAE 2019 = 87.1865
+Producto 20033: mejor modelo = arima, MAE 2019 = 47.3227
+Producto 20035: mejor modelo = arima, MAE 2019 = 46.3891
+Producto 20037: mejor modelo = regresion, MAE 2019 = 49.4567
+Producto 20038: mejor modelo = arima, MAE 2019 = 32.4856
+Producto 20039: mejor modelo = arima, MAE 2019 = 30.1830
+Producto 20041: mejor modelo = arima, MAE 2019 = 54.3782
+Producto 20042: mejor modelo = regresion, MAE 2019 = 36.8913
+Producto 20043: mejor modelo = arima, MAE 2019 = 57.0971
+Producto 20044: mejor modelo = lgbm, MAE 2019 = 39.8422
+Producto 20045: mejor modelo = arima, MAE 2019 = 42.4911
+Producto 20046: mejor modelo = arima, MAE 2019 = 30.9729
+Producto 20047: mejor modelo = lgbm, MAE 2019 = 40.3318
+Producto 20049: mejor modelo = regresion, MAE 2019 = 37.8660
+Producto 20050: mejor modelo = arima, MAE 2019 = 51.1442
+Producto 20051: mejor modelo = arima, MAE 2019 = 24.0089
+Producto 20052: mejor modelo = arima, MAE 2019 = 38.2097
+Producto 20053: mejor modelo = arima, MAE 2019 = 18.4190
+Producto 20054: mejor modelo = lgbm, MAE 2019 = 32.9935
+Producto 20055: mejor modelo = arima, MAE 2019 = 27.5744
+Producto 20056: mejor modelo = arima, MAE 2019 = 74.3855
+Producto 20057: mejor modelo = arima, MAE 2019 = 31.5910
+Producto 20058: mejor modelo = arima, MAE 2019 = 14.6265
+Producto 20059: mejor modelo = regresion, MAE 2019 = 22.5902
+Producto 20061: mejor modelo = lgbm, MAE 2019 = 19.9962
+Producto 20062: mejor modelo = arima, MAE 2019 = 19.8737
+Producto 20063: mejor modelo = lgbm, MAE 2019 = 20.1976
+Producto 20065: mejor modelo = regresion, MAE 2019 = 24.9619
+Producto 20066: mejor modelo = lgbm, MAE 2019 = 31.3453
+Producto 20067: mejor modelo = arima, MAE 2019 = 42.4955
+Producto 20068: mejor modelo = arima, MAE 2019 = 14.7996
+Producto 20069: mejor modelo = lgbm, MAE 2019 = 27.1529
+Producto 20070: mejor modelo = arima, MAE 2019 = 22.5950
+Producto 20071: mejor modelo = regresion, MAE 2019 = 29.3453
+Producto 20072: mejor modelo = arima, MAE 2019 = 38.4669
+Producto 20073: mejor modelo = arima, MAE 2019 = 14.1916
+Producto 20074: mejor modelo = arima, MAE 2019 = 21.6607
+Producto 20075: mejor modelo = lgbm, MAE 2019 = 32.4004
+Producto 20076: mejor modelo = arima, MAE 2019 = 19.5871
+Producto 20077: mejor modelo = arima, MAE 2019 = 36.8325
+Producto 20079: mejor modelo = arima, MAE 2019 = 24.9287
+Producto 20080: mejor modelo = regresion, MAE 2019 = 36.3981
+Producto 20081: mejor modelo = arima, MAE 2019 = 14.0433
+Producto 20082: mejor modelo = arima, MAE 2019 = 20.1612
+Producto 20084: mejor modelo = arima, MAE 2019 = 29.8026
+Producto 20086: mejor modelo = regresion, MAE 2019 = 21.4818
+Producto 20087: mejor modelo = arima, MAE 2019 = 39.2430
+Producto 20090: mejor modelo = regresion, MAE 2019 = 30.2418
+Producto 20091: mejor modelo = lgbm, MAE 2019 = 15.4584
+Producto 20092: mejor modelo = arima, MAE 2019 = 19.8846
+Producto 20093: mejor modelo = arima, MAE 2019 = 13.8537
+Producto 20094: mejor modelo = lgbm, MAE 2019 = 31.1065
+Producto 20095: mejor modelo = regresion, MAE 2019 = 27.2754
+Producto 20096: mejor modelo = arima, MAE 2019 = 23.2324
+Producto 20097: mejor modelo = arima, MAE 2019 = 14.7664
+Producto 20099: mejor modelo = arima, MAE 2019 = 18.8416
+Producto 20100: mejor modelo = regresion, MAE 2019 = 33.9990
+Producto 20101: mejor modelo = arima, MAE 2019 = 11.0078
+Producto 20102: mejor modelo = arima, MAE 2019 = 90.6018
+Producto 20103: mejor modelo = regresion, MAE 2019 = 17.9456
+Producto 20106: mejor modelo = arima, MAE 2019 = 8.1854
+Producto 20107: mejor modelo = arima, MAE 2019 = 16.7668
+Producto 20108: mejor modelo = arima, MAE 2019 = 19.8882
+Producto 20109: mejor modelo = arima, MAE 2019 = 17.6937
+Producto 20111: mejor modelo = arima, MAE 2019 = 13.1835
+Producto 20112: mejor modelo = arima, MAE 2019 = 17.7640
+Producto 20114: mejor modelo = arima, MAE 2019 = 11.0727
+Producto 20116: mejor modelo = arima, MAE 2019 = 37.0132
+Producto 20117: mejor modelo = arima, MAE 2019 = 13.4781
+Producto 20118: mejor modelo = arima, MAE 2019 = 12.1544
+Producto 20119: mejor modelo = regresion, MAE 2019 = 33.1099
+Producto 20120: mejor modelo = arima, MAE 2019 = 11.0532
+Producto 20121: mejor modelo = arima, MAE 2019 = 24.5499
+Producto 20122: mejor modelo = arima, MAE 2019 = 8.8498
+Producto 20123: mejor modelo = arima, MAE 2019 = 7.3950
+Producto 20124: mejor modelo = arima, MAE 2019 = 16.7603
+Producto 20125: mejor modelo = lgbm, MAE 2019 = 11.3766
+Producto 20129: mejor modelo = arima, MAE 2019 = 10.1232
+Producto 20132: mejor modelo = arima, MAE 2019 = 13.2503
+Producto 20133: mejor modelo = lgbm, MAE 2019 = 15.3824
+Producto 20134: mejor modelo = lgbm, MAE 2019 = 14.5065
+Producto 20137: mejor modelo = arima, MAE 2019 = 10.2602
+Producto 20138: mejor modelo = arima, MAE 2019 = 17.6135
+Producto 20139: mejor modelo = regresion, MAE 2019 = 12.4883
+Producto 20140: mejor modelo = lgbm, MAE 2019 = 14.4009
+Producto 20142: mejor modelo = regresion, MAE 2019 = 15.2048
+Producto 20144: mejor modelo = arima, MAE 2019 = 13.7071
+Producto 20145: mejor modelo = regresion, MAE 2019 = 17.1901
+Producto 20146: mejor modelo = arima, MAE 2019 = 21.4830
+Producto 20148: mejor modelo = lgbm, MAE 2019 = 34.1678
+Producto 20151: mejor modelo = arima, MAE 2019 = 21.2873
+Producto 20152: mejor modelo = regresion, MAE 2019 = 19.5196
+Producto 20153: mejor modelo = lgbm, MAE 2019 = 10.2291
+Producto 20155: mejor modelo = lgbm, MAE 2019 = 9.8708
+Producto 20157: mejor modelo = lgbm, MAE 2019 = 14.3705
+Producto 20158: mejor modelo = regresion, MAE 2019 = 17.8164
+Producto 20160: mejor modelo = lgbm, MAE 2019 = 8.9308
+Producto 20161: mejor modelo = regresion, MAE 2019 = 8.8457
+Producto 20162: mejor modelo = lgbm, MAE 2019 = 24.3440
+Producto 20164: mejor modelo = regresion, MAE 2019 = 23.3028
+Producto 20166: mejor modelo = regresion, MAE 2019 = 13.7413
+Producto 20167: mejor modelo = regresion, MAE 2019 = 7.5285
+Producto 20168: mejor modelo = arima, MAE 2019 = 7.8901
+Producto 20175: mejor modelo = regresion, MAE 2019 = 15.1937
+Producto 20176: mejor modelo = arima, MAE 2019 = 9.4744
+Producto 20177: mejor modelo = regresion, MAE 2019 = 10.5407
+Producto 20179: mejor modelo = lgbm, MAE 2019 = 14.1131
+Producto 20180: mejor modelo = lgbm, MAE 2019 = 6.7405
+Producto 20181: mejor modelo = lgbm, MAE 2019 = 6.0383
+Producto 20182: mejor modelo = regresion, MAE 2019 = 9.7838
+Producto 20183: mejor modelo = arima, MAE 2019 = 6.9188
+Producto 20184: mejor modelo = arima, MAE 2019 = 10.3554
+Producto 20187: mejor modelo = arima, MAE 2019 = 6.9669
+Producto 20188: mejor modelo = arima, MAE 2019 = 8.8398
+Producto 20189: mejor modelo = lgbm, MAE 2019 = 11.1925
+Producto 20192: mejor modelo = regresion, MAE 2019 = 17.5193
+Producto 20193: mejor modelo = arima, MAE 2019 = 7.3612
+Producto 20196: mejor modelo = arima, MAE 2019 = 7.4439
+Producto 20197: mejor modelo = arima, MAE 2019 = 5.5824
+Producto 20198: mejor modelo = regresion, MAE 2019 = 5.9032
+Producto 20200: mejor modelo = regresion, MAE 2019 = 4.1248
+Producto 20201: mejor modelo = regresion, MAE 2019 = 10.4627
+Producto 20202: mejor modelo = regresion, MAE 2019 = 11.6754
+Producto 20203: mejor modelo = lgbm, MAE 2019 = 19.0766
+Producto 20205: mejor modelo = regresion, MAE 2019 = 7.6995
+Producto 20206: mejor modelo = arima, MAE 2019 = 6.8075
+Producto 20207: mejor modelo = arima, MAE 2019 = 23.9644
+Producto 20208: mejor modelo = arima, MAE 2019 = 5.6840
+Producto 20209: mejor modelo = arima, MAE 2019 = 8.5652
+Producto 20211: mejor modelo = arima, MAE 2019 = 11.2021
+Producto 20212: mejor modelo = lgbm, MAE 2019 = 7.4241
+Producto 20215: mejor modelo = regresion, MAE 2019 = 4.1032
+Producto 20216: mejor modelo = arima, MAE 2019 = 7.2631
+Producto 20218: mejor modelo = regresion, MAE 2019 = 10.8405
+Producto 20219: mejor modelo = arima, MAE 2019 = 5.1761
+Producto 20220: mejor modelo = arima, MAE 2019 = 4.2629
+Producto 20222: mejor modelo = arima, MAE 2019 = 8.9323
+Producto 20224: mejor modelo = lgbm, MAE 2019 = 5.1970
+Producto 20225: mejor modelo = arima, MAE 2019 = 4.4838
+Producto 20226: mejor modelo = arima, MAE 2019 = 5.6327
+Producto 20227: mejor modelo = arima, MAE 2019 = 17.5587
+Producto 20228: mejor modelo = arima, MAE 2019 = 7.1455
+Producto 20230: mejor modelo = arima, MAE 2019 = 3.3954
+Producto 20231: mejor modelo = arima, MAE 2019 = 4.6915
+Producto 20232: mejor modelo = arima, MAE 2019 = 11.0106
+Producto 20233: mejor modelo = lgbm, MAE 2019 = 14.0023
+Producto 20234: mejor modelo = regresion, MAE 2019 = 11.7648
+Producto 20235: mejor modelo = lgbm, MAE 2019 = 16.5384
+Producto 20238: mejor modelo = arima, MAE 2019 = 6.9909
+Producto 20239: mejor modelo = regresion, MAE 2019 = 4.1142
+Producto 20240: mejor modelo = regresion, MAE 2019 = 4.3601
+Producto 20241: mejor modelo = arima, MAE 2019 = 3.7695
+Producto 20242: mejor modelo = arima, MAE 2019 = 6.1271
+Producto 20244: mejor modelo = lgbm, MAE 2019 = 6.1785
+Producto 20246: mejor modelo = arima, MAE 2019 = 4.2220
+Producto 20249: mejor modelo = regresion, MAE 2019 = 7.3796
+Producto 20251: mejor modelo = arima, MAE 2019 = 6.2751
+Producto 20252: mejor modelo = arima, MAE 2019 = 5.0749
+Producto 20253: mejor modelo = regresion, MAE 2019 = 4.2937
+Producto 20254: mejor modelo = arima, MAE 2019 = 5.6769
+Producto 20255: mejor modelo = lgbm, MAE 2019 = 10.9364
+Producto 20256: mejor modelo = arima, MAE 2019 = 2.8664
+Producto 20259: mejor modelo = regresion, MAE 2019 = 5.4656
+Producto 20263: mejor modelo = lgbm, MAE 2019 = 3.1116
+Producto 20264: mejor modelo = arima, MAE 2019 = 3.3801
+Producto 20265: mejor modelo = regresion, MAE 2019 = 11.4767
+Producto 20267: mejor modelo = lgbm, MAE 2019 = 3.0292
+Producto 20268: mejor modelo = arima, MAE 2019 = 7.1395
+Producto 20269: mejor modelo = arima, MAE 2019 = 2.7198
+Producto 20270: mejor modelo = arima, MAE 2019 = 7.1695
+Producto 20271: mejor modelo = regresion, MAE 2019 = 6.2103
+Producto 20272: mejor modelo = arima, MAE 2019 = 5.1396
+Producto 20273: mejor modelo = arima, MAE 2019 = 4.6354
+Producto 20275: mejor modelo = regresion, MAE 2019 = 3.6221
+Producto 20276: mejor modelo = arima, MAE 2019 = 3.4533
+Producto 20277: mejor modelo = arima, MAE 2019 = 6.7494
+Producto 20278: mejor modelo = regresion, MAE 2019 = 6.0634
+Producto 20280: mejor modelo = arima, MAE 2019 = 4.8400
+Producto 20281: mejor modelo = arima, MAE 2019 = 5.3124
+Producto 20282: mejor modelo = lgbm, MAE 2019 = 5.3897
+Producto 20283: mejor modelo = arima, MAE 2019 = 5.2334
+Producto 20284: mejor modelo = arima, MAE 2019 = 4.6606
+Producto 20285: mejor modelo = regresion, MAE 2019 = 6.4549
+Producto 20288: mejor modelo = arima, MAE 2019 = 4.2025
+Producto 20289: mejor modelo = arima, MAE 2019 = 3.1739
+Producto 20290: mejor modelo = regresion, MAE 2019 = 4.6001
+Producto 20291: mejor modelo = arima, MAE 2019 = 2.7030
+Producto 20292: mejor modelo = arima, MAE 2019 = 4.7935
+Producto 20295: mejor modelo = arima, MAE 2019 = 3.4692
+Producto 20296: mejor modelo = arima, MAE 2019 = 2.9119
+Producto 20297: mejor modelo = lgbm, MAE 2019 = 9.3970
+Producto 20298: mejor modelo = arima, MAE 2019 = 3.9459
+Producto 20299: mejor modelo = regresion, MAE 2019 = 7.9791
+Producto 20300: mejor modelo = arima, MAE 2019 = 3.5430
+Producto 20301: mejor modelo = lgbm, MAE 2019 = 5.2676
+Producto 20302: mejor modelo = regresion, MAE 2019 = 9.4422
+Producto 20303: mejor modelo = lgbm, MAE 2019 = 4.9326
+Producto 20304: mejor modelo = arima, MAE 2019 = 7.8074
+Producto 20305: mejor modelo = regresion, MAE 2019 = 9.1317
+Producto 20306: mejor modelo = arima, MAE 2019 = 6.4413
+Producto 20307: mejor modelo = arima, MAE 2019 = 4.3167
+Producto 20309: mejor modelo = arima, MAE 2019 = 3.9536
+Producto 20310: mejor modelo = arima, MAE 2019 = 6.3917
+Producto 20311: mejor modelo = lgbm, MAE 2019 = 3.8286
+Producto 20313: mejor modelo = lgbm, MAE 2019 = 8.3394
+Producto 20314: mejor modelo = arima, MAE 2019 = 3.6755
+Producto 20315: mejor modelo = arima, MAE 2019 = 2.5384
+Producto 20316: mejor modelo = lgbm, MAE 2019 = 11.4077
+Producto 20317: mejor modelo = arima, MAE 2019 = 2.1923
+Producto 20319: mejor modelo = regresion, MAE 2019 = 4.6119
+Producto 20320: mejor modelo = arima, MAE 2019 = 2.9809
+Producto 20321: mejor modelo = regresion, MAE 2019 = 5.5831
+Producto 20322: mejor modelo = arima, MAE 2019 = 9.5665
+Producto 20323: mejor modelo = lgbm, MAE 2019 = 11.6290
+Producto 20324: mejor modelo = arima, MAE 2019 = 3.1629
+Producto 20325: mejor modelo = arima, MAE 2019 = 5.7270
+Producto 20326: mejor modelo = regresion, MAE 2019 = 2.7471
+Producto 20327: mejor modelo = arima, MAE 2019 = 3.3259
+Producto 20328: mejor modelo = lgbm, MAE 2019 = 4.3155
+Producto 20329: mejor modelo = arima, MAE 2019 = 3.7030
+Producto 20330: mejor modelo = arima, MAE 2019 = 2.9324
+Producto 20332: mejor modelo = arima, MAE 2019 = 5.6176
+Producto 20334: mejor modelo = lgbm, MAE 2019 = 7.5239
+Producto 20335: mejor modelo = arima, MAE 2019 = 3.1152
+Producto 20336: mejor modelo = arima, MAE 2019 = 4.1448
+Producto 20337: mejor modelo = regresion, MAE 2019 = 2.9722
+Producto 20338: mejor modelo = arima, MAE 2019 = 3.0594
+Producto 20340: mejor modelo = lgbm, MAE 2019 = 7.0393
+Producto 20341: mejor modelo = arima, MAE 2019 = 3.2253
+Producto 20342: mejor modelo = lgbm, MAE 2019 = 4.2683
+Producto 20343: mejor modelo = arima, MAE 2019 = 3.2322
+Producto 20344: mejor modelo = regresion, MAE 2019 = 4.2224
+Producto 20346: mejor modelo = arima, MAE 2019 = 5.4595
+Producto 20348: mejor modelo = arima, MAE 2019 = 3.8470
+Producto 20349: mejor modelo = arima, MAE 2019 = 2.7895
+Producto 20350: mejor modelo = regresion, MAE 2019 = 7.3642
+Producto 20352: mejor modelo = lgbm, MAE 2019 = 3.7974
+Producto 20353: mejor modelo = arima, MAE 2019 = 5.5728
+Producto 20354: mejor modelo = lgbm, MAE 2019 = 1.8665
+Producto 20356: mejor modelo = lgbm, MAE 2019 = 2.5878
+Producto 20357: mejor modelo = arima, MAE 2019 = 2.5305
+Producto 20358: mejor modelo = arima, MAE 2019 = 3.2400
+Producto 20359: mejor modelo = arima, MAE 2019 = 2.5635
+Producto 20361: mejor modelo = lgbm, MAE 2019 = 7.6201
+Producto 20362: mejor modelo = lgbm, MAE 2019 = 7.8322
+Producto 20365: mejor modelo = arima, MAE 2019 = 3.0739
+Producto 20366: mejor modelo = arima, MAE 2019 = 4.6700
+Producto 20367: mejor modelo = arima, MAE 2019 = 1.8599
+Producto 20372: mejor modelo = arima, MAE 2019 = 6.8639
+Producto 20375: mejor modelo = arima, MAE 2019 = 3.1710
+Producto 20377: mejor modelo = arima, MAE 2019 = 4.0698
+Producto 20379: mejor modelo = arima, MAE 2019 = 7.2302
+Producto 20380: mejor modelo = lgbm, MAE 2019 = 2.8156
+Producto 20381: mejor modelo = lgbm, MAE 2019 = 3.5792
+Producto 20382: mejor modelo = arima, MAE 2019 = 4.0579
+Producto 20383: mejor modelo = arima, MAE 2019 = 2.0084
+Producto 20384: mejor modelo = regresion, MAE 2019 = 4.7711
+Producto 20385: mejor modelo = arima, MAE 2019 = 1.5633
+Producto 20386: mejor modelo = lgbm, MAE 2019 = 1.3886
+Producto 20387: mejor modelo = arima, MAE 2019 = 3.7297
+Producto 20388: mejor modelo = lgbm, MAE 2019 = 3.6755
+Producto 20390: mejor modelo = lgbm, MAE 2019 = 5.9905
+Producto 20396: mejor modelo = arima, MAE 2019 = 4.0797
+Producto 20398: mejor modelo = regresion, MAE 2019 = 7.0853
+Producto 20400: mejor modelo = arima, MAE 2019 = 3.0609
+Producto 20401: mejor modelo = arima, MAE 2019 = 2.1854
+Producto 20402: mejor modelo = regresion, MAE 2019 = 3.3597
+Producto 20403: mejor modelo = arima, MAE 2019 = 2.5328
+Producto 20404: mejor modelo = arima, MAE 2019 = 1.7446
+Producto 20406: mejor modelo = lgbm, MAE 2019 = 2.2305
+Producto 20407: mejor modelo = arima, MAE 2019 = 2.9267
+Producto 20409: mejor modelo = arima, MAE 2019 = 2.4094
+Producto 20410: mejor modelo = arima, MAE 2019 = 3.2605
+Producto 20411: mejor modelo = arima, MAE 2019 = 2.7241
+Producto 20415: mejor modelo = arima, MAE 2019 = 1.6771
+Producto 20416: mejor modelo = regresion, MAE 2019 = 5.6828
+Producto 20417: mejor modelo = arima, MAE 2019 = 2.6619
+Producto 20418: mejor modelo = regresion, MAE 2019 = 6.0998
+Producto 20419: mejor modelo = arima, MAE 2019 = 1.5564
+Producto 20421: mejor modelo = regresion, MAE 2019 = 2.9560
+Producto 20422: mejor modelo = regresion, MAE 2019 = 5.5445
+Producto 20424: mejor modelo = arima, MAE 2019 = 1.9077
+Producto 20426: mejor modelo = lgbm, MAE 2019 = 4.7799
+Producto 20428: mejor modelo = regresion, MAE 2019 = 5.9189
+Producto 20429: mejor modelo = regresion, MAE 2019 = 5.5038
+Producto 20432: mejor modelo = arima, MAE 2019 = 2.1888
+Producto 20433: mejor modelo = lgbm, MAE 2019 = 3.1189
+Producto 20434: mejor modelo = arima, MAE 2019 = 2.2470
+Producto 20438: mejor modelo = lgbm, MAE 2019 = 2.9209
+Producto 20443: mejor modelo = arima, MAE 2019 = 1.7682
+Producto 20447: mejor modelo = arima, MAE 2019 = 2.3197
+Producto 20449: mejor modelo = regresion, MAE 2019 = 5.8208
+Producto 20450: mejor modelo = arima, MAE 2019 = 2.6119
+Producto 20453: mejor modelo = arima, MAE 2019 = 2.2924
+Producto 20456: mejor modelo = regresion, MAE 2019 = 4.3193
+Producto 20463: mejor modelo = lgbm, MAE 2019 = 2.2848
+Producto 20464: mejor modelo = arima, MAE 2019 = 3.2372
+Producto 20465: mejor modelo = arima, MAE 2019 = 2.1907
+Producto 20466: mejor modelo = arima, MAE 2019 = 1.6516
+Producto 20469: mejor modelo = regresion, MAE 2019 = 2.3003
+Producto 20470: mejor modelo = arima, MAE 2019 = 2.9740
+Producto 20473: mejor modelo = arima, MAE 2019 = 3.5119
+Producto 20474: mejor modelo = lgbm, MAE 2019 = 2.0494
+Producto 20478: mejor modelo = arima, MAE 2019 = 1.9137
+Producto 20479: mejor modelo = arima, MAE 2019 = 3.4221
+Producto 20480: mejor modelo = arima, MAE 2019 = 2.3393
+Producto 20482: mejor modelo = arima, MAE 2019 = 2.3838
+Producto 20483: mejor modelo = lgbm, MAE 2019 = 2.0301
+Producto 20484: mejor modelo = arima, MAE 2019 = 2.4963
+Producto 20490: mejor modelo = regresion, MAE 2019 = 5.1611
+Producto 20496: mejor modelo = arima, MAE 2019 = 3.5329
+Producto 20497: mejor modelo = regresion, MAE 2019 = 2.3186
+Producto 20500: mejor modelo = arima, MAE 2019 = 1.0832
+Producto 20502: mejor modelo = arima, MAE 2019 = 0.9330
+Producto 20505: mejor modelo = arima, MAE 2019 = 1.8571
+Producto 20508: mejor modelo = arima, MAE 2019 = 2.5962
+Producto 20509: mejor modelo = regresion, MAE 2019 = 5.2973
+Producto 20514: mejor modelo = arima, MAE 2019 = 1.6053
+Producto 20517: mejor modelo = arima, MAE 2019 = 1.2950
+Producto 20520: mejor modelo = arima, MAE 2019 = 2.6124
+Producto 20524: mejor modelo = lgbm, MAE 2019 = 1.4772
+Producto 20530: mejor modelo = arima, MAE 2019 = 3.7295
+Producto 20532: mejor modelo = arima, MAE 2019 = 1.1677
+Producto 20536: mejor modelo = arima, MAE 2019 = 0.9481
+Producto 20538: mejor modelo = regresion, MAE 2019 = 1.4341
+Producto 20539: mejor modelo = arima, MAE 2019 = 0.9917
+Producto 20542: mejor modelo = lgbm, MAE 2019 = 1.4729
+Producto 20544: mejor modelo = arima, MAE 2019 = 1.4216
+Producto 20549: mejor modelo = regresion, MAE 2019 = 2.6217
+Producto 20551: mejor modelo = arima, MAE 2019 = 1.6948
+Producto 20552: mejor modelo = arima, MAE 2019 = 2.4680
+Producto 20555: mejor modelo = regresion, MAE 2019 = 2.4760
+Producto 20560: mejor modelo = lgbm, MAE 2019 = 2.7992
+Producto 20561: mejor modelo = regresion, MAE 2019 = 3.4317
+Producto 20563: mejor modelo = lgbm, MAE 2019 = 2.7888
+Producto 20565: mejor modelo = regresion, MAE 2019 = 2.4060
+Producto 20567: mejor modelo = lgbm, MAE 2019 = 2.7637
+Producto 20568: mejor modelo = arima, MAE 2019 = 1.1330
+Producto 20570: mejor modelo = lgbm, MAE 2019 = 0.7925
+Producto 20572: mejor modelo = arima, MAE 2019 = 1.0058
+Producto 20574: mejor modelo = arima, MAE 2019 = 1.8931
+Producto 20578: mejor modelo = arima, MAE 2019 = 1.1547
+Producto 20579: mejor modelo = regresion, MAE 2019 = 2.8562
+Producto 20583: mejor modelo = arima, MAE 2019 = 0.9847
+Producto 20585: mejor modelo = lgbm, MAE 2019 = 1.6938
+Producto 20586: mejor modelo = regresion, MAE 2019 = 3.3482
+Producto 20588: mejor modelo = arima, MAE 2019 = 2.0899
+Producto 20589: mejor modelo = lgbm, MAE 2019 = 1.1966
+Producto 20596: mejor modelo = lgbm, MAE 2019 = 2.8451
+Producto 20597: mejor modelo = regresion, MAE 2019 = 3.1650
+Producto 20599: mejor modelo = arima, MAE 2019 = 1.2077
+Producto 20600: mejor modelo = regresion, MAE 2019 = 0.9276
+Producto 20601: mejor modelo = regresion, MAE 2019 = 3.3929
+Producto 20602: mejor modelo = arima, MAE 2019 = 1.4322
+Producto 20605: mejor modelo = arima, MAE 2019 = 0.8766
+Producto 20606: mejor modelo = arima, MAE 2019 = 1.1186
+Producto 20609: mejor modelo = arima, MAE 2019 = 1.3987
+Producto 20612: mejor modelo = arima, MAE 2019 = 1.7525
+Producto 20614: mejor modelo = arima, MAE 2019 = 2.1747
+Producto 20617: mejor modelo = arima, MAE 2019 = 1.1924
+Producto 20622: mejor modelo = lgbm, MAE 2019 = 0.5951
+Producto 20624: mejor modelo = arima, MAE 2019 = 2.9308
+Producto 20628: mejor modelo = regresion, MAE 2019 = 0.9595
+Producto 20629: mejor modelo = arima, MAE 2019 = 1.1040
+Producto 20632: mejor modelo = arima, MAE 2019 = 1.3545
+Producto 20636: mejor modelo = regresion, MAE 2019 = 2.9777
+Producto 20637: mejor modelo = arima, MAE 2019 = 1.1399
+Producto 20639: mejor modelo = arima, MAE 2019 = 0.6499
+Producto 20640: mejor modelo = arima, MAE 2019 = 0.5632
+Producto 20641: mejor modelo = regresion, MAE 2019 = 2.4179
+Producto 20642: mejor modelo = arima, MAE 2019 = 1.7205
+Producto 20644: mejor modelo = arima, MAE 2019 = 0.8918
+Producto 20646: mejor modelo = regresion, MAE 2019 = 2.2906
+Producto 20647: mejor modelo = regresion, MAE 2019 = 1.5340
+Producto 20651: mejor modelo = arima, MAE 2019 = 1.4858
+Producto 20652: mejor modelo = lgbm, MAE 2019 = 0.8778
+Producto 20653: mejor modelo = regresion, MAE 2019 = 0.9124
+Producto 20654: mejor modelo = arima, MAE 2019 = 0.8919
+Producto 20655: mejor modelo = arima, MAE 2019 = 0.7877
+Producto 20657: mejor modelo = arima, MAE 2019 = 2.8538
+Producto 20658: mejor modelo = lgbm, MAE 2019 = 1.0553
+Producto 20660: mejor modelo = arima, MAE 2019 = 1.4604
+Producto 20661: mejor modelo = lgbm, MAE 2019 = 1.0077
+Producto 20663: mejor modelo = arima, MAE 2019 = 2.5399
+Producto 20664: mejor modelo = arima, MAE 2019 = 1.7658
+Producto 20666: mejor modelo = lgbm, MAE 2019 = 3.3403
+Producto 20667: mejor modelo = regresion, MAE 2019 = 3.8180
+Producto 20670: mejor modelo = regresion, MAE 2019 = 4.2644
+Producto 20672: mejor modelo = regresion, MAE 2019 = 0.8017
+Producto 20676: mejor modelo = arima, MAE 2019 = 0.9622
+Producto 20677: mejor modelo = arima, MAE 2019 = 1.2026
+Producto 20678: mejor modelo = arima, MAE 2019 = 2.6392
+Producto 20680: mejor modelo = arima, MAE 2019 = 1.0523
+Producto 20684: mejor modelo = arima, MAE 2019 = 2.2684
+Producto 20685: mejor modelo = regresion, MAE 2019 = 2.2455
+Producto 20693: mejor modelo = lgbm, MAE 2019 = 1.3358
+Producto 20696: mejor modelo = arima, MAE 2019 = 1.0298
+Producto 20697: mejor modelo = arima, MAE 2019 = 0.6911
+Producto 20699: mejor modelo = lgbm, MAE 2019 = 1.5387
+Producto 20701: mejor modelo = lgbm, MAE 2019 = 0.5929
+Producto 20702: mejor modelo = arima, MAE 2019 = 0.8154
+Producto 20705: mejor modelo = lgbm, MAE 2019 = 1.5818
+Producto 20706: mejor modelo = regresion, MAE 2019 = 1.2699
+Producto 20708: mejor modelo = arima, MAE 2019 = 0.8413
+Producto 20713: mejor modelo = arima, MAE 2019 = 1.5598
+Producto 20714: mejor modelo = lgbm, MAE 2019 = 1.0409
+Producto 20715: mejor modelo = arima, MAE 2019 = 0.8535
+Producto 20721: mejor modelo = arima, MAE 2019 = 1.2353
+Producto 20724: mejor modelo = arima, MAE 2019 = 1.4681
+Producto 20729: mejor modelo = regresion, MAE 2019 = 2.9267
+Producto 20730: mejor modelo = arima, MAE 2019 = 1.2530
+Producto 20733: mejor modelo = arima, MAE 2019 = 1.5859
+Producto 20735: mejor modelo = arima, MAE 2019 = 0.7703
+Producto 20737: mejor modelo = lgbm, MAE 2019 = 1.5293
+Producto 20739: mejor modelo = arima, MAE 2019 = 0.5493
+Producto 20741: mejor modelo = arima, MAE 2019 = 1.6220
+Producto 20742: mejor modelo = arima, MAE 2019 = 1.1105
+Producto 20743: mejor modelo = arima, MAE 2019 = 0.7338
+Producto 20744: mejor modelo = arima, MAE 2019 = 0.5327
+Producto 20745: mejor modelo = arima, MAE 2019 = 1.3176
+Producto 20749: mejor modelo = regresion, MAE 2019 = 0.4327
+Producto 20750: mejor modelo = regresion, MAE 2019 = 0.4309
+Producto 20751: mejor modelo = arima, MAE 2019 = 0.9583
+Producto 20756: mejor modelo = arima, MAE 2019 = 0.7649
+Producto 20758: mejor modelo = arima, MAE 2019 = 0.8699
+Producto 20759: mejor modelo = arima, MAE 2019 = 0.9645
+Producto 20761: mejor modelo = regresion, MAE 2019 = 0.5499
+Producto 20765: mejor modelo = arima, MAE 2019 = 1.7347
+Producto 20768: mejor modelo = arima, MAE 2019 = 0.7274
+Producto 20771: mejor modelo = arima, MAE 2019 = 0.6960
+Producto 20773: mejor modelo = arima, MAE 2019 = 1.6064
+Producto 20775: mejor modelo = arima, MAE 2019 = 1.5548
+Producto 20777: mejor modelo = arima, MAE 2019 = 0.5161
+Producto 20781: mejor modelo = arima, MAE 2019 = 0.8574
+Producto 20786: mejor modelo = regresion, MAE 2019 = 1.2987
+Producto 20788: mejor modelo = arima, MAE 2019 = 0.6489
+Producto 20789: mejor modelo = arima, MAE 2019 = 0.3307
+Producto 20793: mejor modelo = lgbm, MAE 2019 = 0.6511
+Producto 20800: mejor modelo = arima, MAE 2019 = 0.5794
+Producto 20801: mejor modelo = arima, MAE 2019 = 0.5820
+Producto 20802: mejor modelo = arima, MAE 2019 = 1.1728
+Producto 20803: mejor modelo = arima, MAE 2019 = 0.5595
+Producto 20807: mejor modelo = arima, MAE 2019 = 0.2761
+Producto 20809: mejor modelo = lgbm, MAE 2019 = 0.4369
+Producto 20810: mejor modelo = lgbm, MAE 2019 = 0.7671
+Producto 20812: mejor modelo = arima, MAE 2019 = 0.6050
+Producto 20818: mejor modelo = arima, MAE 2019 = 0.5993
+Producto 20820: mejor modelo = regresion, MAE 2019 = 0.4667
+Producto 20823: mejor modelo = arima, MAE 2019 = 0.4052
+Producto 20824: mejor modelo = arima, MAE 2019 = 2.1427
+Producto 20826: mejor modelo = arima, MAE 2019 = 0.3127
+Producto 20828: mejor modelo = arima, MAE 2019 = 0.7908
+Producto 20830: mejor modelo = arima, MAE 2019 = 0.4716
+Producto 20831: mejor modelo = arima, MAE 2019 = 0.5786
+Producto 20832: mejor modelo = lgbm, MAE 2019 = 0.9600
+Producto 20838: mejor modelo = arima, MAE 2019 = 0.4736
+Producto 20840: mejor modelo = regresion, MAE 2019 = 0.6986
+Producto 20843: mejor modelo = arima, MAE 2019 = 0.6641
+Producto 20846: mejor modelo = arima, MAE 2019 = 0.6126
+Producto 20847: mejor modelo = regresion, MAE 2019 = 0.6283
+Producto 20849: mejor modelo = arima, MAE 2019 = 0.6066
+Producto 20852: mejor modelo = regresion, MAE 2019 = 0.6624
+Producto 20855: mejor modelo = arima, MAE 2019 = 0.4946
+Producto 20862: mejor modelo = regresion, MAE 2019 = 0.3259
+Producto 20863: mejor modelo = lgbm, MAE 2019 = 0.4896
+Producto 20864: mejor modelo = arima, MAE 2019 = 0.3798
+Producto 20865: mejor modelo = arima, MAE 2019 = 0.5079
+Producto 20870: mejor modelo = arima, MAE 2019 = 0.4328
+Producto 20877: mejor modelo = arima, MAE 2019 = 0.5055
+Producto 20878: mejor modelo = regresion, MAE 2019 = 0.4790
+Producto 20879: mejor modelo = regresion, MAE 2019 = 0.4814
+Producto 20882: mejor modelo = regresion, MAE 2019 = 0.3055
+Producto 20883: mejor modelo = arima, MAE 2019 = 0.7840
+Producto 20885: mejor modelo = lgbm, MAE 2019 = 0.4171
+Producto 20892: mejor modelo = arima, MAE 2019 = 0.3175
+Producto 20894: mejor modelo = arima, MAE 2019 = 0.5990
+Producto 20901: mejor modelo = arima, MAE 2019 = 0.6131
+Producto 20906: mejor modelo = arima, MAE 2019 = 0.6882
+Producto 20913: mejor modelo = lgbm, MAE 2019 = 0.3182
+Producto 20914: mejor modelo = arima, MAE 2019 = 0.2554
+Producto 20919: mejor modelo = arima, MAE 2019 = 0.4224
+Producto 20922: mejor modelo = arima, MAE 2019 = 0.2435
+Producto 20925: mejor modelo = arima, MAE 2019 = 0.3043
+Producto 20931: mejor modelo = lgbm, MAE 2019 = 0.3440
+Producto 20936: mejor modelo = regresion, MAE 2019 = 0.9417
+Producto 20937: mejor modelo = arima, MAE 2019 = 0.3044
+Producto 20941: mejor modelo = arima, MAE 2019 = 0.1651
+Producto 20945: mejor modelo = arima, MAE 2019 = 0.5316
+Producto 20947: mejor modelo = regresion, MAE 2019 = 0.4200
+Producto 20948: mejor modelo = arima, MAE 2019 = 0.4529
+Producto 20949: mejor modelo = lgbm, MAE 2019 = 0.3741
+Producto 20951: mejor modelo = lgbm, MAE 2019 = 0.5977
+Producto 20956: mejor modelo = arima, MAE 2019 = 0.5172
+Producto 20957: mejor modelo = arima, MAE 2019 = 0.2842
+Producto 20961: mejor modelo = arima, MAE 2019 = 0.1865
+Producto 20965: mejor modelo = arima, MAE 2019 = 0.2413
+Producto 20970: mejor modelo = arima, MAE 2019 = 0.4071
+Producto 20976: mejor modelo = arima, MAE 2019 = 0.1697
+Producto 20982: mejor modelo = arima, MAE 2019 = 0.3677
+Producto 20985: mejor modelo = arima, MAE 2019 = 0.2957
+Producto 20986: mejor modelo = regresion, MAE 2019 = 0.1738
+Producto 20991: mejor modelo = arima, MAE 2019 = 0.4490
+Producto 20994: mejor modelo = arima, MAE 2019 = 0.3755
+Producto 20996: mejor modelo = regresion, MAE 2019 = 0.1959
+Producto 21003: mejor modelo = lgbm, MAE 2019 = 0.2893
+Producto 21008: mejor modelo = arima, MAE 2019 = 0.1826
+Producto 21014: mejor modelo = arima, MAE 2019 = 0.2644
+Producto 21016: mejor modelo = arima, MAE 2019 = 0.1214
+Producto 21024: mejor modelo = arima, MAE 2019 = 0.2626
+Producto 21027: mejor modelo = regresion, MAE 2019 = 0.6875
+Producto 21028: mejor modelo = regresion, MAE 2019 = 0.1504
+Producto 21032: mejor modelo = regresion, MAE 2019 = 0.2533
+Producto 21038: mejor modelo = regresion, MAE 2019 = 0.2257
+Producto 21048: mejor modelo = arima, MAE 2019 = 0.0976
+Producto 21049: mejor modelo = lgbm, MAE 2019 = 0.4631
+Producto 21055: mejor modelo = arima, MAE 2019 = 0.1578
+Producto 21057: mejor modelo = lgbm, MAE 2019 = 0.2069
+Producto 21077: mejor modelo = arima, MAE 2019 = 0.1574
+Producto 21080: mejor modelo = arima, MAE 2019 = 0.1501
+Producto 21088: mejor modelo = arima, MAE 2019 = 0.1491
+Producto 21118: mejor modelo = arima, MAE 2019 = 0.0995
+Producto 21131: mejor modelo = arima, MAE 2019 = 0.0701
+Producto 21155: mejor modelo = arima, MAE 2019 = 0.0862
+Producto 21167: mejor modelo = arima, MAE 2019 = 0.0469
+Producto 21170: mejor modelo = lgbm, MAE 2019 = 0.1087
+Producto 21180: mejor modelo = arima, MAE 2019 = 0.0618
+Producto 21182: mejor modelo = arima, MAE 2019 = 0.0777
+Producto 21184: mejor modelo = arima, MAE 2019 = 0.0484
+Producto 21190: mejor modelo = regresion, MAE 2019 = 0.0700
+Producto 21192: mejor modelo = arima, MAE 2019 = 0.0255
+Producto 21194: mejor modelo = arima, MAE 2019 = 0.0450
+Producto 21200: mejor modelo = regresion, MAE 2019 = 0.0769
+Producto 21202: mejor modelo = arima, MAE 2019 = 0.0773
+Producto 21207: mejor modelo = arima, MAE 2019 = 0.0612
+Producto 21212: mejor modelo = arima, MAE 2019 = 0.0522
+Producto 21218: mejor modelo = arima, MAE 2019 = 0.0364
+Producto 21222: mejor modelo = arima, MAE 2019 = 0.0251
+Producto 21224: mejor modelo = arima, MAE 2019 = 0.0298
+Producto 20481: fallback promedio últimos 12 meses = 9.08
+Producto 20995: fallback promedio últimos 12 meses = 3.37
+Producto 20997: fallback promedio últimos 12 meses = 1.38
+Producto 20488: fallback promedio últimos 12 meses = 11.98
+Producto 21001: fallback promedio últimos 12 meses = 0.83
+Producto 20491: fallback promedio últimos 12 meses = 15.66
+Producto 21006: fallback promedio últimos 12 meses = 2.40
+Producto 20495: fallback promedio últimos 12 meses = 16.57
+Producto 21007: fallback promedio últimos 12 meses = 2.13
+Producto 20503: fallback promedio últimos 12 meses = 15.31
+Producto 20510: fallback promedio últimos 12 meses = 20.47
+Producto 21022: fallback promedio últimos 12 meses = 1.18
+Producto 20513: fallback promedio últimos 12 meses = 8.41
+Producto 20521: fallback promedio últimos 12 meses = 21.18
+Producto 20522: fallback promedio últimos 12 meses = 12.36
+Producto 20523: fallback promedio últimos 12 meses = 14.51
+Producto 21033: fallback promedio últimos 12 meses = 1.64
+Producto 20525: fallback promedio últimos 12 meses = 18.36
+Producto 20526: fallback promedio últimos 12 meses = 19.87
+Producto 20527: fallback promedio últimos 12 meses = 14.12
+Producto 21034: fallback promedio últimos 12 meses = 0.90
+Producto 21035: fallback promedio últimos 12 meses = 1.90
+Producto 21037: fallback promedio últimos 12 meses = 0.77
+Producto 20531: fallback promedio últimos 12 meses = 17.81
+Producto 21039: fallback promedio últimos 12 meses = 1.98
+Producto 21040: fallback promedio últimos 12 meses = 0.85
+Producto 21042: fallback promedio últimos 12 meses = 1.78
+Producto 21044: fallback promedio últimos 12 meses = 1.86
+Producto 20537: fallback promedio últimos 12 meses = 17.25
+Producto 20540: fallback promedio últimos 12 meses = 13.68
+Producto 20541: fallback promedio últimos 12 meses = 10.38
+Producto 21056: fallback promedio últimos 12 meses = 1.07
+Producto 20032: fallback promedio últimos 12 meses = 590.33
+Producto 21058: fallback promedio últimos 12 meses = 1.64
+Producto 20547: fallback promedio últimos 12 meses = 13.83
+Producto 20548: fallback promedio últimos 12 meses = 20.25
+Producto 21064: fallback promedio últimos 12 meses = 2.16
+Producto 20553: fallback promedio últimos 12 meses = 13.51
+Producto 21065: fallback promedio últimos 12 meses = 0.60
+Producto 20558: fallback promedio últimos 12 meses = 15.57
+Producto 20559: fallback promedio últimos 12 meses = 13.66
+Producto 21073: fallback promedio últimos 12 meses = 1.33
+Producto 21074: fallback promedio últimos 12 meses = 1.43
+Producto 21079: fallback promedio últimos 12 meses = 1.90
+Producto 20569: fallback promedio últimos 12 meses = 11.01
+Producto 20571: fallback promedio últimos 12 meses = 9.94
+Producto 21084: fallback promedio últimos 12 meses = 0.70
+Producto 21086: fallback promedio últimos 12 meses = 1.50
+Producto 20575: fallback promedio últimos 12 meses = 15.82
+Producto 20576: fallback promedio últimos 12 meses = 6.33
+Producto 20577: fallback promedio últimos 12 meses = 15.52
+Producto 21087: fallback promedio últimos 12 meses = 0.91
+Producto 20580: fallback promedio últimos 12 meses = 14.39
+Producto 21092: fallback promedio últimos 12 meses = 1.04
+Producto 21093: fallback promedio últimos 12 meses = 1.06
+Producto 21097: fallback promedio últimos 12 meses = 1.38
+Producto 21099: fallback promedio últimos 12 meses = 1.52
+Producto 20592: fallback promedio últimos 12 meses = 16.77
+Producto 20593: fallback promedio últimos 12 meses = 17.16
+Producto 21105: fallback promedio últimos 12 meses = 0.88
+Producto 21109: fallback promedio últimos 12 meses = 1.22
+Producto 21110: fallback promedio últimos 12 meses = 1.39
+Producto 21111: fallback promedio últimos 12 meses = 1.26
+Producto 21112: fallback promedio últimos 12 meses = 1.08
+Producto 20085: fallback promedio últimos 12 meses = 190.80
+Producto 21114: fallback promedio últimos 12 meses = 1.28
+Producto 20603: fallback promedio últimos 12 meses = 14.08
+Producto 20604: fallback promedio últimos 12 meses = 5.75
+Producto 20089: fallback promedio últimos 12 meses = 196.35
+Producto 21119: fallback promedio últimos 12 meses = 1.16
+Producto 20611: fallback promedio últimos 12 meses = 10.85
+Producto 21126: fallback promedio últimos 12 meses = 0.47
+Producto 20615: fallback promedio últimos 12 meses = 13.48
+Producto 21129: fallback promedio últimos 12 meses = 0.93
+Producto 20620: fallback promedio últimos 12 meses = 15.09
+Producto 20621: fallback promedio últimos 12 meses = 12.56
+Producto 20623: fallback promedio últimos 12 meses = 13.21
+Producto 21135: fallback promedio últimos 12 meses = 0.69
+Producto 20627: fallback promedio últimos 12 meses = 8.94
+Producto 21140: fallback promedio últimos 12 meses = 0.83
+Producto 21142: fallback promedio últimos 12 meses = 0.36
+Producto 21144: fallback promedio últimos 12 meses = 1.18
+Producto 20633: fallback promedio últimos 12 meses = 13.05
+Producto 21146: fallback promedio últimos 12 meses = 1.20
+Producto 20638: fallback promedio últimos 12 meses = 5.94
+Producto 20126: fallback promedio últimos 12 meses = 103.18
+Producto 20127: fallback promedio últimos 12 meses = 208.44
+Producto 21153: fallback promedio últimos 12 meses = 0.59
+Producto 21154: fallback promedio últimos 12 meses = 1.20
+Producto 20130: fallback promedio últimos 12 meses = 110.57
+Producto 21157: fallback promedio últimos 12 meses = 0.24
+Producto 21159: fallback promedio últimos 12 meses = 0.51
+Producto 20135: fallback promedio últimos 12 meses = 95.03
+Producto 20649: fallback promedio últimos 12 meses = 21.76
+Producto 21163: fallback promedio últimos 12 meses = 0.69
+Producto 21164: fallback promedio últimos 12 meses = 0.39
+Producto 20143: fallback promedio últimos 12 meses = 104.44
+Producto 21168: fallback promedio últimos 12 meses = 0.49
+Producto 20659: fallback promedio últimos 12 meses = 11.69
+Producto 21171: fallback promedio últimos 12 meses = 0.55
+Producto 20662: fallback promedio últimos 12 meses = 10.89
+Producto 20150: fallback promedio últimos 12 meses = 98.39
+Producto 21176: fallback promedio últimos 12 meses = 0.33
+Producto 21179: fallback promedio últimos 12 meses = 0.53
+Producto 20159: fallback promedio últimos 12 meses = 80.26
+Producto 20673: fallback promedio últimos 12 meses = 11.39
+Producto 20674: fallback promedio últimos 12 meses = 13.74
+Producto 20679: fallback promedio últimos 12 meses = 7.08
+Producto 21191: fallback promedio últimos 12 meses = 0.17
+Producto 20681: fallback promedio últimos 12 meses = 12.23
+Producto 20682: fallback promedio últimos 12 meses = 7.52
+Producto 20170: fallback promedio últimos 12 meses = 79.86
+Producto 21196: fallback promedio últimos 12 meses = 0.45
+Producto 20686: fallback promedio últimos 12 meses = 12.50
+Producto 20174: fallback promedio últimos 12 meses = 114.81
+Producto 20689: fallback promedio últimos 12 meses = 9.02
+Producto 21201: fallback promedio últimos 12 meses = 0.25
+Producto 20691: fallback promedio últimos 12 meses = 19.81
+Producto 20694: fallback promedio últimos 12 meses = 8.78
+Producto 21209: fallback promedio últimos 12 meses = 0.14
+Producto 20700: fallback promedio últimos 12 meses = 3.76
+Producto 21214: fallback promedio últimos 12 meses = 0.41
+Producto 20703: fallback promedio últimos 12 meses = 12.17
+Producto 20709: fallback promedio últimos 12 meses = 6.92
+Producto 20711: fallback promedio últimos 12 meses = 11.25
+Producto 21226: fallback promedio últimos 12 meses = 0.14
+Producto 21227: fallback promedio últimos 12 meses = 0.34
+Producto 20719: fallback promedio últimos 12 meses = 8.32
+Producto 20720: fallback promedio últimos 12 meses = 9.75
+Producto 21233: fallback promedio últimos 12 meses = 0.10
+Producto 20210: fallback promedio últimos 12 meses = 82.18
+Producto 20213: fallback promedio últimos 12 meses = 78.12
+Producto 20732: fallback promedio últimos 12 meses = 10.11
+Producto 21244: fallback promedio últimos 12 meses = 0.04
+Producto 21245: fallback promedio últimos 12 meses = 0.06
+Producto 21246: fallback promedio últimos 12 meses = 0.03
+Producto 21248: fallback promedio últimos 12 meses = 0.03
+Producto 21252: fallback promedio últimos 12 meses = 0.18
+Producto 21256: fallback promedio últimos 12 meses = 0.03
+Producto 20746: fallback promedio últimos 12 meses = 7.32
+Producto 21259: fallback promedio últimos 12 meses = 0.03
+Producto 20236: fallback promedio últimos 12 meses = 97.62
+Producto 20237: fallback promedio últimos 12 meses = 51.89
+Producto 21262: fallback promedio últimos 12 meses = 0.03
+Producto 21263: fallback promedio últimos 12 meses = 0.03
+Producto 21265: fallback promedio últimos 12 meses = 0.09
+Producto 20754: fallback promedio últimos 12 meses = 8.74
+Producto 21266: fallback promedio últimos 12 meses = 0.09
+Producto 21267: fallback promedio últimos 12 meses = 0.09
+Producto 20757: fallback promedio últimos 12 meses = 5.68
+Producto 20762: fallback promedio últimos 12 meses = 6.82
+Producto 21276: fallback promedio últimos 12 meses = 0.05
+Producto 20257: fallback promedio últimos 12 meses = 58.23
+Producto 20772: fallback promedio últimos 12 meses = 9.34
+Producto 20261: fallback promedio últimos 12 meses = 71.73
+Producto 20774: fallback promedio últimos 12 meses = 7.70
+Producto 20262: fallback promedio últimos 12 meses = 24.59
+Producto 20266: fallback promedio últimos 12 meses = 35.38
+Producto 20783: fallback promedio últimos 12 meses = 3.71
+Producto 20785: fallback promedio últimos 12 meses = 7.75
+Producto 20795: fallback promedio últimos 12 meses = 6.31
+Producto 20286: fallback promedio últimos 12 meses = 49.78
+Producto 20811: fallback promedio últimos 12 meses = 3.32
+Producto 20815: fallback promedio últimos 12 meses = 7.46
+Producto 20817: fallback promedio últimos 12 meses = 6.43
+Producto 20822: fallback promedio últimos 12 meses = 6.03
+Producto 20827: fallback promedio últimos 12 meses = 6.93
+Producto 20835: fallback promedio últimos 12 meses = 5.79
+Producto 20845: fallback promedio últimos 12 meses = 6.43
+Producto 20853: fallback promedio últimos 12 meses = 3.15
+Producto 20859: fallback promedio últimos 12 meses = 2.89
+Producto 20351: fallback promedio últimos 12 meses = 21.15
+Producto 20355: fallback promedio últimos 12 meses = 35.55
+Producto 20364: fallback promedio últimos 12 meses = 31.51
+Producto 20368: fallback promedio últimos 12 meses = 19.07
+Producto 20886: fallback promedio últimos 12 meses = 3.52
+Producto 20378: fallback promedio últimos 12 meses = 17.83
+Producto 20899: fallback promedio últimos 12 meses = 3.02
+Producto 20389: fallback promedio últimos 12 meses = 30.65
+Producto 20902: fallback promedio últimos 12 meses = 2.58
+Producto 20904: fallback promedio últimos 12 meses = 5.29
+Producto 20907: fallback promedio últimos 12 meses = 4.65
+Producto 20908: fallback promedio últimos 12 meses = 2.44
+Producto 20395: fallback promedio últimos 12 meses = 17.04
+Producto 20910: fallback promedio últimos 12 meses = 4.86
+Producto 20912: fallback promedio últimos 12 meses = 4.68
+Producto 20917: fallback promedio últimos 12 meses = 2.59
+Producto 20920: fallback promedio últimos 12 meses = 3.66
+Producto 20408: fallback promedio últimos 12 meses = 17.67
+Producto 20924: fallback promedio últimos 12 meses = 3.10
+Producto 20414: fallback promedio últimos 12 meses = 31.20
+Producto 20927: fallback promedio últimos 12 meses = 3.73
+Producto 20928: fallback promedio últimos 12 meses = 4.59
+Producto 20932: fallback promedio últimos 12 meses = 2.60
+Producto 20933: fallback promedio últimos 12 meses = 3.57
+Producto 20942: fallback promedio últimos 12 meses = 2.35
+Producto 20946: fallback promedio últimos 12 meses = 3.17
+Producto 20440: fallback promedio últimos 12 meses = 30.27
+Producto 20953: fallback promedio últimos 12 meses = 4.00
+Producto 20442: fallback promedio últimos 12 meses = 31.27
+Producto 20962: fallback promedio últimos 12 meses = 3.92
+Producto 20966: fallback promedio últimos 12 meses = 1.41
+Producto 20967: fallback promedio últimos 12 meses = 1.72
+Producto 20968: fallback promedio últimos 12 meses = 2.97
+Producto 20458: fallback promedio últimos 12 meses = 24.69
+Producto 20459: fallback promedio últimos 12 meses = 17.30
+Producto 20460: fallback promedio últimos 12 meses = 18.20
+Producto 20975: fallback promedio últimos 12 meses = 3.58
+Producto 20987: fallback promedio últimos 12 meses = 2.67
+Producto 20476: fallback promedio últimos 12 meses = 24.86
+Producto 20477: fallback promedio últimos 12 meses = 14.47
+Producto 20990: fallback promedio últimos 12 meses = 1.15
