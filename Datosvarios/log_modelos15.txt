@@ -1,0 +1,1987 @@
+Producto 20001: mejor modelo = arima, MAE sep-nov = 130.5715
+Producto 20002: mejor modelo = arima, MAE sep-nov = 530.9232
+Producto 20003: mejor modelo = lgbm, MAE sep-nov = 120.5745
+Producto 20004: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20004: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20004: mejor modelo = xgboost, MAE sep-nov = 156.5936
+Producto 20005: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20005: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20005: mejor modelo = xgboost, MAE sep-nov = 84.5837
+Producto 20006: mejor modelo = arima, MAE sep-nov = 51.4267
+Producto 20007: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20007: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20007: mejor modelo = arima, MAE sep-nov = 61.6130
+Producto 20008: mejor modelo = arima, MAE sep-nov = 47.7401
+Producto 20009: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20009: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20009: mejor modelo = arima, MAE sep-nov = 55.9116
+Producto 20010: mejor modelo = lgbm, MAE sep-nov = 45.5079
+Producto 20011: mejor modelo = arima, MAE sep-nov = 73.1989
+Producto 20012: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20012: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20012: mejor modelo = arima, MAE sep-nov = 29.4812
+Producto 20013: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20013: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20013: mejor modelo = xgboost, MAE sep-nov = 73.9048
+Producto 20014: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20014: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20014: mejor modelo = lgbm, MAE sep-nov = 49.1577
+Producto 20015: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20015: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20015: mejor modelo = lgbm, MAE sep-nov = 53.9219
+Producto 20016: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20016: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20016: mejor modelo = arima, MAE sep-nov = 74.2653
+Producto 20017: mejor modelo = arima, MAE sep-nov = 44.3361
+Producto 20018: mejor modelo = arima, MAE sep-nov = 15.4559
+Producto 20019: mejor modelo = lgbm, MAE sep-nov = 37.6818
+Producto 20020: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20020: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20020: mejor modelo = arima, MAE sep-nov = 40.5193
+Producto 20021: mejor modelo = arima, MAE sep-nov = 38.5118
+Producto 20022: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20022: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20022: mejor modelo = lgbm, MAE sep-nov = 63.4849
+Producto 20023: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20023: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20023: mejor modelo = lgbm, MAE sep-nov = 62.6323
+Producto 20024: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20024: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20024: mejor modelo = arima, MAE sep-nov = 46.1725
+Producto 20025: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20025: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20025: mejor modelo = lgbm, MAE sep-nov = 58.6245
+Producto 20026: mejor modelo = lgbm, MAE sep-nov = 71.7378
+Producto 20027: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20027: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20027: mejor modelo = arima, MAE sep-nov = 23.1471
+Producto 20028: mejor modelo = lgbm, MAE sep-nov = 81.1477
+Producto 20029: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20029: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20029: mejor modelo = arima, MAE sep-nov = 17.1953
+Producto 20030: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20030: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20030: mejor modelo = arima, MAE sep-nov = 31.7116
+Producto 20031: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20031: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20031: mejor modelo = arima, MAE sep-nov = 78.7239
+Producto 20032: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20033: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20033: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20033: mejor modelo = arima, MAE sep-nov = 29.1768
+Producto 20035: mejor modelo = arima, MAE sep-nov = 31.0844
+Producto 20037: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20037: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20037: mejor modelo = arima, MAE sep-nov = 24.1623
+Producto 20038: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20038: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20038: mejor modelo = arima, MAE sep-nov = 21.4150
+Producto 20039: mejor modelo = lgbm, MAE sep-nov = 31.5719
+Producto 20041: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20041: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20041: mejor modelo = arima, MAE sep-nov = 44.3307
+Producto 20042: mejor modelo = lgbm, MAE sep-nov = 61.1742
+Producto 20043: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20043: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20043: mejor modelo = arima, MAE sep-nov = 28.0135
+Producto 20044: mejor modelo = lgbm, MAE sep-nov = 40.8597
+Producto 20045: mejor modelo = arima, MAE sep-nov = 37.0120
+Producto 20046: mejor modelo = lgbm, MAE sep-nov = 43.8840
+Producto 20047: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20047: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20047: mejor modelo = lgbm, MAE sep-nov = 45.6609
+Producto 20049: mejor modelo = lgbm, MAE sep-nov = 37.5077
+Producto 20050: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20050: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20050: mejor modelo = arima, MAE sep-nov = 5.8213
+Producto 20051: mejor modelo = arima, MAE sep-nov = 30.5355
+Producto 20052: mejor modelo = arima, MAE sep-nov = 40.1407
+Producto 20053: mejor modelo = lgbm, MAE sep-nov = 15.1684
+Producto 20054: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20054: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20054: mejor modelo = xgboost, MAE sep-nov = 14.2302
+Producto 20055: mejor modelo = arima, MAE sep-nov = 49.3006
+Producto 20056: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20056: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20056: mejor modelo = arima, MAE sep-nov = 49.1425
+Producto 20057: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20057: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20057: mejor modelo = arima, MAE sep-nov = 17.9261
+Producto 20058: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20058: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20058: mejor modelo = arima, MAE sep-nov = 18.1365
+Producto 20059: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20059: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20059: mejor modelo = xgboost, MAE sep-nov = 21.4131
+Producto 20061: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20061: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20061: mejor modelo = xgboost, MAE sep-nov = 17.4613
+Producto 20062: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20062: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20062: mejor modelo = arima, MAE sep-nov = 10.3955
+Producto 20063: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20063: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20063: mejor modelo = lgbm, MAE sep-nov = 29.8790
+Producto 20065: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20065: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20065: mejor modelo = lgbm, MAE sep-nov = 17.4600
+Producto 20066: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20066: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20066: mejor modelo = lgbm, MAE sep-nov = 32.8747
+Producto 20067: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20067: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20067: mejor modelo = arima, MAE sep-nov = 30.4698
+Producto 20068: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20068: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20068: mejor modelo = arima, MAE sep-nov = 8.6269
+Producto 20069: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20069: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20069: mejor modelo = xgboost, MAE sep-nov = 20.3587
+Producto 20070: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20070: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20070: mejor modelo = lgbm, MAE sep-nov = 7.7671
+Producto 20071: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20071: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20071: mejor modelo = xgboost, MAE sep-nov = 12.5946
+Producto 20072: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20072: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20072: mejor modelo = arima, MAE sep-nov = 17.5477
+Producto 20073: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20073: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20073: mejor modelo = arima, MAE sep-nov = 5.6518
+Producto 20074: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20074: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20074: mejor modelo = arima, MAE sep-nov = 11.0081
+Producto 20075: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20075: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20075: mejor modelo = lgbm, MAE sep-nov = 25.4213
+Producto 20076: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20076: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20076: mejor modelo = xgboost, MAE sep-nov = 10.2932
+Producto 20077: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20077: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20077: mejor modelo = xgboost, MAE sep-nov = 21.2922
+Producto 20079: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20079: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20079: mejor modelo = arima, MAE sep-nov = 7.7333
+Producto 20080: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20080: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20080: mejor modelo = lgbm, MAE sep-nov = 21.8656
+Producto 20081: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20081: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20081: mejor modelo = lgbm, MAE sep-nov = 8.9302
+Producto 20082: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20082: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20082: mejor modelo = arima, MAE sep-nov = 19.3466
+Producto 20084: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20084: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20084: mejor modelo = xgboost, MAE sep-nov = 49.6931
+Producto 20085: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20086: mejor modelo = arima, MAE sep-nov = 12.7982
+Producto 20087: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20087: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20087: mejor modelo = arima, MAE sep-nov = 24.7191
+Producto 20089: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20089: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20089: error ARIMA: -1
+Producto 20089: mejor modelo = lgbm, MAE sep-nov = 78.5347
+Producto 20090: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20090: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20090: mejor modelo = arima, MAE sep-nov = 2.0690
+Producto 20091: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20091: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20091: mejor modelo = arima, MAE sep-nov = 15.4184
+Producto 20092: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20092: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20092: mejor modelo = arima, MAE sep-nov = 11.1156
+Producto 20093: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20093: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20093: mejor modelo = xgboost, MAE sep-nov = 18.3643
+Producto 20094: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20094: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20094: mejor modelo = lgbm, MAE sep-nov = 31.9870
+Producto 20095: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20095: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20095: mejor modelo = xgboost, MAE sep-nov = 16.2511
+Producto 20096: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20096: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20096: mejor modelo = arima, MAE sep-nov = 16.2493
+Producto 20097: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20097: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20097: mejor modelo = arima, MAE sep-nov = 13.9875
+Producto 20099: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20099: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20099: mejor modelo = arima, MAE sep-nov = 11.1697
+Producto 20100: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20100: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20100: mejor modelo = xgboost, MAE sep-nov = 40.0617
+Producto 20101: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20101: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20101: mejor modelo = xgboost, MAE sep-nov = 12.8360
+Producto 20102: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20102: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20102: mejor modelo = arima, MAE sep-nov = 34.1911
+Producto 20103: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20103: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20103: mejor modelo = xgboost, MAE sep-nov = 0.5785
+Producto 20106: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20106: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20106: mejor modelo = arima, MAE sep-nov = 12.2514
+Producto 20107: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20107: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20107: mejor modelo = lgbm, MAE sep-nov = 16.8053
+Producto 20108: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20108: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20108: mejor modelo = lgbm, MAE sep-nov = 9.0868
+Producto 20109: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20109: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20109: mejor modelo = arima, MAE sep-nov = 5.9231
+Producto 20111: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20111: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20111: mejor modelo = xgboost, MAE sep-nov = 6.0871
+Producto 20112: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20112: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20112: mejor modelo = arima, MAE sep-nov = 2.5209
+Producto 20114: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20114: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20114: mejor modelo = arima, MAE sep-nov = 3.6548
+Producto 20116: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20116: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20116: mejor modelo = xgboost, MAE sep-nov = 73.5444
+Producto 20117: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20117: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20117: mejor modelo = arima, MAE sep-nov = 6.8412
+Producto 20118: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20118: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20118: mejor modelo = arima, MAE sep-nov = 8.4236
+Producto 20119: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20119: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20119: mejor modelo = xgboost, MAE sep-nov = 27.0362
+Producto 20120: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20120: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20120: mejor modelo = arima, MAE sep-nov = 11.9548
+Producto 20121: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20121: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20121: mejor modelo = xgboost, MAE sep-nov = 26.5450
+Producto 20122: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20122: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20122: mejor modelo = arima, MAE sep-nov = 8.7577
+Producto 20123: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20123: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20123: mejor modelo = xgboost, MAE sep-nov = 11.1834
+Producto 20124: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20124: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20124: mejor modelo = arima, MAE sep-nov = 3.8681
+Producto 20125: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20125: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20125: mejor modelo = xgboost, MAE sep-nov = 12.5134
+Producto 20126: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20126: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20126: mejor modelo = xgboost, MAE sep-nov = 15.3382
+Producto 20127: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20129: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20129: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20129: mejor modelo = xgboost, MAE sep-nov = 4.5934
+Producto 20130: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20130: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20130: mejor modelo = lgbm, MAE sep-nov = 29.7885
+Producto 20132: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20132: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20132: mejor modelo = xgboost, MAE sep-nov = 9.3140
+Producto 20133: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20133: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20133: mejor modelo = xgboost, MAE sep-nov = 11.5388
+Producto 20134: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20134: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20134: mejor modelo = lgbm, MAE sep-nov = 13.7800
+Producto 20135: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20135: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20135: mejor modelo = arima, MAE sep-nov = 22.3426
+Producto 20137: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20137: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20137: mejor modelo = arima, MAE sep-nov = 3.2058
+Producto 20138: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20138: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20138: mejor modelo = arima, MAE sep-nov = 10.1180
+Producto 20139: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20139: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20139: mejor modelo = xgboost, MAE sep-nov = 10.1888
+Producto 20140: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20140: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20140: mejor modelo = xgboost, MAE sep-nov = 12.4397
+Producto 20142: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20142: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20142: mejor modelo = lgbm, MAE sep-nov = 11.8957
+Producto 20143: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20143: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20143: mejor modelo = arima, MAE sep-nov = 29.5215
+Producto 20144: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20144: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20144: mejor modelo = xgboost, MAE sep-nov = 6.1389
+Producto 20145: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20145: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20145: mejor modelo = xgboost, MAE sep-nov = 17.4061
+Producto 20146: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20146: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20146: mejor modelo = lgbm, MAE sep-nov = 2.7278
+Producto 20148: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20148: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20148: mejor modelo = lgbm, MAE sep-nov = 14.1546
+Producto 20150: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20150: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20150: mejor modelo = arima, MAE sep-nov = 80.8317
+Producto 20151: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20151: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20151: mejor modelo = arima, MAE sep-nov = 16.5232
+Producto 20152: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20152: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20152: mejor modelo = arima, MAE sep-nov = 2.1540
+Producto 20153: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20153: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20153: mejor modelo = lgbm, MAE sep-nov = 26.8608
+Producto 20155: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20155: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20155: mejor modelo = lgbm, MAE sep-nov = 19.9895
+Producto 20157: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20157: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20157: mejor modelo = lgbm, MAE sep-nov = 33.8742
+Producto 20158: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20158: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20158: mejor modelo = xgboost, MAE sep-nov = 26.9529
+Producto 20159: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20159: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20159: mejor modelo = xgboost, MAE sep-nov = 20.6215
+Producto 20160: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20160: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20160: mejor modelo = xgboost, MAE sep-nov = 2.0264
+Producto 20161: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20161: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20161: mejor modelo = xgboost, MAE sep-nov = 6.4007
+Producto 20162: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20162: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20162: mejor modelo = arima, MAE sep-nov = 6.9770
+Producto 20164: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20164: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20164: mejor modelo = arima, MAE sep-nov = 9.1051
+Producto 20166: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20166: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20166: mejor modelo = lgbm, MAE sep-nov = 6.4673
+Producto 20167: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20167: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20167: mejor modelo = lgbm, MAE sep-nov = 12.0375
+Producto 20168: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20168: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20168: mejor modelo = arima, MAE sep-nov = 12.1190
+Producto 20170: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20170: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20170: mejor modelo = arima, MAE sep-nov = 19.9014
+Producto 20174: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20175: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20175: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20175: mejor modelo = lgbm, MAE sep-nov = 10.2695
+Producto 20176: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20176: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20176: mejor modelo = xgboost, MAE sep-nov = 4.4239
+Producto 20177: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20177: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20177: mejor modelo = xgboost, MAE sep-nov = 6.8535
+Producto 20179: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20179: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20179: mejor modelo = xgboost, MAE sep-nov = 12.2414
+Producto 20180: mejor modelo = arima, MAE sep-nov = 3.7015
+Producto 20181: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20181: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20181: mejor modelo = xgboost, MAE sep-nov = 4.1402
+Producto 20182: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20182: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20182: mejor modelo = lgbm, MAE sep-nov = 4.9504
+Producto 20183: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20183: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20183: mejor modelo = arima, MAE sep-nov = 10.9481
+Producto 20184: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20184: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20184: mejor modelo = xgboost, MAE sep-nov = 4.0834
+Producto 20187: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20187: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20187: mejor modelo = lgbm, MAE sep-nov = 3.6539
+Producto 20188: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20188: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20188: mejor modelo = arima, MAE sep-nov = 6.3557
+Producto 20189: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20189: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20189: mejor modelo = lgbm, MAE sep-nov = 14.8145
+Producto 20192: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20192: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20192: error ARIMA: -1
+Producto 20192: mejor modelo = xgboost, MAE sep-nov = 4.9612
+Producto 20193: mejor modelo = lgbm, MAE sep-nov = 8.0601
+Producto 20196: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20196: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20196: mejor modelo = arima, MAE sep-nov = 5.1292
+Producto 20197: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20197: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20197: mejor modelo = arima, MAE sep-nov = 3.5897
+Producto 20198: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20198: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20198: mejor modelo = lgbm, MAE sep-nov = 4.5639
+Producto 20200: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20200: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20200: mejor modelo = lgbm, MAE sep-nov = 4.0516
+Producto 20201: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20201: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20201: mejor modelo = arima, MAE sep-nov = 5.8446
+Producto 20202: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20202: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20202: mejor modelo = arima, MAE sep-nov = 9.0346
+Producto 20203: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20203: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20203: mejor modelo = xgboost, MAE sep-nov = 11.4859
+Producto 20205: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20205: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20205: mejor modelo = lgbm, MAE sep-nov = 6.0859
+Producto 20206: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20206: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20206: mejor modelo = arima, MAE sep-nov = 9.0840
+Producto 20207: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20207: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20207: mejor modelo = arima, MAE sep-nov = 4.0838
+Producto 20208: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20208: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20208: mejor modelo = arima, MAE sep-nov = 3.6683
+Producto 20209: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20209: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20209: mejor modelo = xgboost, MAE sep-nov = 2.9857
+Producto 20210: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20211: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20211: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20211: mejor modelo = arima, MAE sep-nov = 5.2983
+Producto 20212: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20212: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20212: mejor modelo = lgbm, MAE sep-nov = 12.9057
+Producto 20213: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20215: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20215: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20215: mejor modelo = lgbm, MAE sep-nov = 4.4108
+Producto 20216: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20216: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20216: mejor modelo = arima, MAE sep-nov = 2.0094
+Producto 20218: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20218: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20218: mejor modelo = arima, MAE sep-nov = 13.4467
+Producto 20219: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20219: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20219: mejor modelo = arima, MAE sep-nov = 5.6918
+Producto 20220: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20220: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20220: mejor modelo = xgboost, MAE sep-nov = 4.1151
+Producto 20222: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20222: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20222: mejor modelo = lgbm, MAE sep-nov = 5.8634
+Producto 20224: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20224: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20224: mejor modelo = arima, MAE sep-nov = 7.8772
+Producto 20225: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20225: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20225: mejor modelo = xgboost, MAE sep-nov = 2.0043
+Producto 20226: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20226: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20226: mejor modelo = arima, MAE sep-nov = 2.1843
+Producto 20227: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20227: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20227: mejor modelo = arima, MAE sep-nov = 23.1121
+Producto 20228: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20228: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20228: mejor modelo = arima, MAE sep-nov = 1.6155
+Producto 20230: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20230: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20230: mejor modelo = xgboost, MAE sep-nov = 2.0237
+Producto 20231: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20231: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20231: mejor modelo = arima, MAE sep-nov = 3.0945
+Producto 20232: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20232: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20232: mejor modelo = arima, MAE sep-nov = 18.8484
+Producto 20233: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20233: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20233: mejor modelo = lgbm, MAE sep-nov = 2.9245
+Producto 20234: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20234: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20234: mejor modelo = xgboost, MAE sep-nov = 4.3787
+Producto 20235: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20235: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20235: mejor modelo = arima, MAE sep-nov = 12.3743
+Producto 20236: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20237: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20237: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20237: mejor modelo = lgbm, MAE sep-nov = 1.8486
+Producto 20238: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20238: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20238: mejor modelo = lgbm, MAE sep-nov = 6.4264
+Producto 20239: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20239: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20239: mejor modelo = xgboost, MAE sep-nov = 3.9692
+Producto 20240: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20240: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20240: mejor modelo = arima, MAE sep-nov = 4.4987
+Producto 20241: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20241: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20241: mejor modelo = lgbm, MAE sep-nov = 2.8700
+Producto 20242: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20242: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20242: mejor modelo = arima, MAE sep-nov = 4.3613
+Producto 20244: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20244: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20244: mejor modelo = xgboost, MAE sep-nov = 5.8514
+Producto 20246: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20246: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20246: mejor modelo = xgboost, MAE sep-nov = 4.6787
+Producto 20249: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20249: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20249: mejor modelo = xgboost, MAE sep-nov = 1.9467
+Producto 20251: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20251: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20251: mejor modelo = arima, MAE sep-nov = 8.8777
+Producto 20252: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20252: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20252: mejor modelo = arima, MAE sep-nov = 4.0806
+Producto 20253: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20253: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20253: mejor modelo = arima, MAE sep-nov = 1.7955
+Producto 20254: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20254: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20254: mejor modelo = lgbm, MAE sep-nov = 2.6346
+Producto 20255: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20255: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20255: mejor modelo = arima, MAE sep-nov = 5.2405
+Producto 20256: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20256: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20256: mejor modelo = xgboost, MAE sep-nov = 1.2832
+Producto 20257: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20259: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20259: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20259: mejor modelo = xgboost, MAE sep-nov = 3.9070
+Producto 20261: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20262: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20262: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20262: mejor modelo = arima, MAE sep-nov = 6.8446
+Producto 20263: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20263: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20263: mejor modelo = lgbm, MAE sep-nov = 3.0844
+Producto 20264: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20264: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20264: mejor modelo = lgbm, MAE sep-nov = 3.9356
+Producto 20265: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20265: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20265: mejor modelo = xgboost, MAE sep-nov = 2.4308
+Producto 20266: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20266: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20266: mejor modelo = arima, MAE sep-nov = 19.8441
+Producto 20267: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20267: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20267: mejor modelo = xgboost, MAE sep-nov = 3.7785
+Producto 20268: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20268: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20268: mejor modelo = xgboost, MAE sep-nov = 1.2230
+Producto 20269: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20269: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20269: mejor modelo = arima, MAE sep-nov = 6.2538
+Producto 20270: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20270: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20270: mejor modelo = lgbm, MAE sep-nov = 3.1655
+Producto 20271: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20271: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20271: mejor modelo = arima, MAE sep-nov = 7.1010
+Producto 20272: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20272: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20272: mejor modelo = arima, MAE sep-nov = 1.8172
+Producto 20273: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20273: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20273: mejor modelo = xgboost, MAE sep-nov = 1.5287
+Producto 20275: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20275: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20275: mejor modelo = arima, MAE sep-nov = 5.2431
+Producto 20276: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20276: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20276: mejor modelo = arima, MAE sep-nov = 3.1942
+Producto 20277: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20277: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20277: mejor modelo = arima, MAE sep-nov = 0.8427
+Producto 20278: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20278: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20278: mejor modelo = xgboost, MAE sep-nov = 1.2992
+Producto 20280: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20280: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20280: mejor modelo = arima, MAE sep-nov = 4.6125
+Producto 20281: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20281: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20281: mejor modelo = arima, MAE sep-nov = 6.9447
+Producto 20282: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20282: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20282: mejor modelo = arima, MAE sep-nov = 3.4917
+Producto 20283: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20283: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20283: mejor modelo = arima, MAE sep-nov = 2.6209
+Producto 20284: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20284: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20284: mejor modelo = lgbm, MAE sep-nov = 2.7684
+Producto 20285: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20285: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20285: mejor modelo = arima, MAE sep-nov = 5.3491
+Producto 20286: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20288: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20288: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20288: mejor modelo = arima, MAE sep-nov = 2.4631
+Producto 20289: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20289: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20289: mejor modelo = lgbm, MAE sep-nov = 3.1726
+Producto 20290: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20290: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20290: mejor modelo = lgbm, MAE sep-nov = 9.7436
+Producto 20291: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20291: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20291: mejor modelo = xgboost, MAE sep-nov = 1.5789
+Producto 20292: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20292: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20292: mejor modelo = lgbm, MAE sep-nov = 1.4979
+Producto 20295: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20295: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20295: mejor modelo = xgboost, MAE sep-nov = 3.5836
+Producto 20296: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20296: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20296: mejor modelo = arima, MAE sep-nov = 0.4497
+Producto 20297: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20297: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20297: mejor modelo = lgbm, MAE sep-nov = 12.3622
+Producto 20298: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20298: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20298: mejor modelo = arima, MAE sep-nov = 3.6725
+Producto 20299: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20299: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20299: mejor modelo = xgboost, MAE sep-nov = 7.6010
+Producto 20300: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20300: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20300: mejor modelo = arima, MAE sep-nov = 2.7823
+Producto 20301: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20301: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20301: mejor modelo = xgboost, MAE sep-nov = 3.0866
+Producto 20302: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20302: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20302: mejor modelo = xgboost, MAE sep-nov = 3.7359
+Producto 20303: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20303: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20303: mejor modelo = lgbm, MAE sep-nov = 5.0153
+Producto 20304: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20304: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20304: mejor modelo = arima, MAE sep-nov = 4.5447
+Producto 20305: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20305: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20305: mejor modelo = arima, MAE sep-nov = 3.2424
+Producto 20306: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20306: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20306: mejor modelo = lgbm, MAE sep-nov = 11.7407
+Producto 20307: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20307: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20307: mejor modelo = arima, MAE sep-nov = 5.8378
+Producto 20309: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20309: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20309: mejor modelo = lgbm, MAE sep-nov = 1.7304
+Producto 20310: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20310: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20310: mejor modelo = xgboost, MAE sep-nov = 5.3814
+Producto 20311: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20311: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20311: mejor modelo = arima, MAE sep-nov = 0.7646
+Producto 20313: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20313: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20313: error ARIMA: -1
+Producto 20313: mejor modelo = lgbm, MAE sep-nov = 7.6798
+Producto 20314: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20314: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20314: mejor modelo = arima, MAE sep-nov = 0.5504
+Producto 20315: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20315: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20315: mejor modelo = arima, MAE sep-nov = 1.7840
+Producto 20316: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20316: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20316: mejor modelo = arima, MAE sep-nov = 13.2858
+Producto 20317: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20317: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20317: mejor modelo = xgboost, MAE sep-nov = 2.4447
+Producto 20319: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20319: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20319: mejor modelo = xgboost, MAE sep-nov = 2.8807
+Producto 20320: mejor modelo = lgbm, MAE sep-nov = 1.3093
+Producto 20321: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20321: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20321: mejor modelo = xgboost, MAE sep-nov = 10.4138
+Producto 20322: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20322: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20322: mejor modelo = arima, MAE sep-nov = 2.0595
+Producto 20323: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20323: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20323: mejor modelo = arima, MAE sep-nov = 7.3039
+Producto 20324: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20324: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20324: mejor modelo = lgbm, MAE sep-nov = 1.2728
+Producto 20325: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20325: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20325: mejor modelo = arima, MAE sep-nov = 2.2963
+Producto 20326: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20326: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20326: mejor modelo = xgboost, MAE sep-nov = 2.6652
+Producto 20327: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20327: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20327: mejor modelo = xgboost, MAE sep-nov = 1.8219
+Producto 20328: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20328: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20328: mejor modelo = arima, MAE sep-nov = 7.1965
+Producto 20329: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20329: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20329: mejor modelo = xgboost, MAE sep-nov = 3.5579
+Producto 20330: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20330: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20330: mejor modelo = lgbm, MAE sep-nov = 0.3966
+Producto 20332: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20332: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20332: mejor modelo = arima, MAE sep-nov = 3.8760
+Producto 20334: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20334: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20334: mejor modelo = arima, MAE sep-nov = 9.3563
+Producto 20335: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20335: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20335: mejor modelo = lgbm, MAE sep-nov = 4.5166
+Producto 20336: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20336: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20336: mejor modelo = xgboost, MAE sep-nov = 2.1498
+Producto 20337: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20337: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20337: mejor modelo = lgbm, MAE sep-nov = 3.7267
+Producto 20338: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20338: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20338: mejor modelo = xgboost, MAE sep-nov = 1.7516
+Producto 20340: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20340: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20340: mejor modelo = lgbm, MAE sep-nov = 10.7271
+Producto 20341: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20341: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20341: mejor modelo = arima, MAE sep-nov = 3.5637
+Producto 20342: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20342: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20342: mejor modelo = lgbm, MAE sep-nov = 5.5951
+Producto 20343: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20343: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20343: mejor modelo = xgboost, MAE sep-nov = 2.2273
+Producto 20344: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20344: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20344: mejor modelo = xgboost, MAE sep-nov = 3.4789
+Producto 20346: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20346: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20346: mejor modelo = arima, MAE sep-nov = 3.0628
+Producto 20348: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20348: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20348: mejor modelo = arima, MAE sep-nov = 1.7309
+Producto 20349: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20349: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20349: mejor modelo = arima, MAE sep-nov = 1.2514
+Producto 20350: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20350: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20350: mejor modelo = arima, MAE sep-nov = 1.4608
+Producto 20351: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20351: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20351: mejor modelo = lgbm, MAE sep-nov = 3.4358
+Producto 20352: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20352: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20352: mejor modelo = arima, MAE sep-nov = 2.4864
+Producto 20353: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20353: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20353: mejor modelo = xgboost, MAE sep-nov = 2.2801
+Producto 20354: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20354: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20354: mejor modelo = lgbm, MAE sep-nov = 1.6741
+Producto 20355: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20356: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20356: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20356: mejor modelo = xgboost, MAE sep-nov = 1.0499
+Producto 20357: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20357: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20357: mejor modelo = arima, MAE sep-nov = 0.9792
+Producto 20358: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20358: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20358: mejor modelo = xgboost, MAE sep-nov = 2.7474
+Producto 20359: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20359: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20359: mejor modelo = arima, MAE sep-nov = 0.9685
+Producto 20361: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20361: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20361: mejor modelo = arima, MAE sep-nov = 6.5278
+Producto 20362: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20362: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20362: mejor modelo = arima, MAE sep-nov = 2.7954
+Producto 20364: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20364: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20364: mejor modelo = arima, MAE sep-nov = 6.9473
+Producto 20365: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20365: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20365: mejor modelo = xgboost, MAE sep-nov = 0.9097
+Producto 20366: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20366: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20366: mejor modelo = arima, MAE sep-nov = 2.9850
+Producto 20367: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20367: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20367: mejor modelo = arima, MAE sep-nov = 1.7261
+Producto 20368: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20368: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20368: mejor modelo = arima, MAE sep-nov = 1.1855
+Producto 20372: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20372: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20372: mejor modelo = arima, MAE sep-nov = 5.1088
+Producto 20375: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20375: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20375: mejor modelo = arima, MAE sep-nov = 2.6535
+Producto 20377: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20377: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20377: mejor modelo = arima, MAE sep-nov = 0.7313
+Producto 20378: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20378: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20378: mejor modelo = lgbm, MAE sep-nov = 5.8690
+Producto 20379: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20379: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20379: mejor modelo = arima, MAE sep-nov = 2.5906
+Producto 20380: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20380: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20380: mejor modelo = arima, MAE sep-nov = 2.0793
+Producto 20381: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20381: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20381: mejor modelo = arima, MAE sep-nov = 1.5868
+Producto 20382: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20382: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20382: mejor modelo = arima, MAE sep-nov = 3.5404
+Producto 20383: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20383: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20383: mejor modelo = arima, MAE sep-nov = 2.1516
+Producto 20384: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20384: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20384: mejor modelo = arima, MAE sep-nov = 6.1039
+Producto 20385: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20385: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20385: mejor modelo = arima, MAE sep-nov = 1.1076
+Producto 20386: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20386: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20386: mejor modelo = lgbm, MAE sep-nov = 0.5746
+Producto 20387: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20387: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20387: mejor modelo = xgboost, MAE sep-nov = 2.4272
+Producto 20388: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20388: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20388: mejor modelo = arima, MAE sep-nov = 2.3489
+Producto 20389: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20389: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20389: mejor modelo = arima, MAE sep-nov = 3.2185
+Producto 20390: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20390: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20390: mejor modelo = arima, MAE sep-nov = 3.8935
+Producto 20395: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20395: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20395: mejor modelo = lgbm, MAE sep-nov = 5.5710
+Producto 20396: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20396: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20396: mejor modelo = lgbm, MAE sep-nov = 0.6915
+Producto 20398: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20398: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20398: mejor modelo = xgboost, MAE sep-nov = 2.5731
+Producto 20400: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20400: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20400: mejor modelo = arima, MAE sep-nov = 1.2574
+Producto 20401: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20401: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20401: mejor modelo = arima, MAE sep-nov = 1.8809
+Producto 20402: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20402: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20402: mejor modelo = lgbm, MAE sep-nov = 2.1716
+Producto 20403: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20403: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20403: mejor modelo = lgbm, MAE sep-nov = 1.9561
+Producto 20404: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20404: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20404: mejor modelo = arima, MAE sep-nov = 1.7102
+Producto 20406: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20406: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20406: mejor modelo = lgbm, MAE sep-nov = 3.8617
+Producto 20407: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20407: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20407: mejor modelo = lgbm, MAE sep-nov = 2.0053
+Producto 20408: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20409: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20409: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20409: mejor modelo = arima, MAE sep-nov = 0.7182
+Producto 20410: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20410: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20410: mejor modelo = arima, MAE sep-nov = 2.5265
+Producto 20411: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20411: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20411: mejor modelo = lgbm, MAE sep-nov = 2.0136
+Producto 20414: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20415: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20415: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20415: mejor modelo = arima, MAE sep-nov = 1.3291
+Producto 20416: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20416: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20416: mejor modelo = xgboost, MAE sep-nov = 1.2833
+Producto 20417: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20417: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20417: mejor modelo = xgboost, MAE sep-nov = 1.7051
+Producto 20418: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20418: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20418: mejor modelo = xgboost, MAE sep-nov = 1.3808
+Producto 20419: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20419: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20419: mejor modelo = lgbm, MAE sep-nov = 1.1414
+Producto 20421: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20421: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20421: mejor modelo = xgboost, MAE sep-nov = 1.6744
+Producto 20422: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20422: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20422: mejor modelo = xgboost, MAE sep-nov = 1.0779
+Producto 20424: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20424: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20424: mejor modelo = arima, MAE sep-nov = 1.1015
+Producto 20426: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20426: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20426: error ARIMA: -1
+Producto 20426: mejor modelo = xgboost, MAE sep-nov = 5.5316
+Producto 20428: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20428: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20428: mejor modelo = arima, MAE sep-nov = 0.2507
+Producto 20429: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20429: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20429: mejor modelo = xgboost, MAE sep-nov = 1.2925
+Producto 20432: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20432: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20432: mejor modelo = lgbm, MAE sep-nov = 1.2116
+Producto 20433: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20433: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20433: mejor modelo = lgbm, MAE sep-nov = 3.2416
+Producto 20434: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20434: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20434: mejor modelo = arima, MAE sep-nov = 0.8432
+Producto 20438: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20438: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20438: mejor modelo = arima, MAE sep-nov = 3.4632
+Producto 20440: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20442: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20443: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20443: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20443: mejor modelo = arima, MAE sep-nov = 0.5338
+Producto 20447: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20447: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20447: mejor modelo = arima, MAE sep-nov = 0.9446
+Producto 20449: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20449: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20449: mejor modelo = xgboost, MAE sep-nov = 0.7084
+Producto 20450: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20450: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20450: mejor modelo = xgboost, MAE sep-nov = 0.8968
+Producto 20453: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20453: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20453: mejor modelo = arima, MAE sep-nov = 2.7374
+Producto 20456: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20456: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20456: error ARIMA: -1
+Producto 20456: mejor modelo = lgbm, MAE sep-nov = 2.2268
+Producto 20458: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20459: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20459: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20459: mejor modelo = lgbm, MAE sep-nov = 2.5042
+Producto 20460: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20463: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20463: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20463: mejor modelo = lgbm, MAE sep-nov = 3.0837
+Producto 20464: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20464: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20464: mejor modelo = arima, MAE sep-nov = 2.6551
+Producto 20465: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20465: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20465: mejor modelo = arima, MAE sep-nov = 1.0059
+Producto 20466: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20466: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20466: mejor modelo = lgbm, MAE sep-nov = 1.0625
+Producto 20469: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20469: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20469: error ARIMA: -1
+Producto 20469: mejor modelo = lgbm, MAE sep-nov = 2.9337
+Producto 20470: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20470: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20470: mejor modelo = arima, MAE sep-nov = 0.8989
+Producto 20473: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20473: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20473: mejor modelo = xgboost, MAE sep-nov = 4.6856
+Producto 20474: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20474: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20474: mejor modelo = lgbm, MAE sep-nov = 2.0737
+Producto 20476: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20477: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20478: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20478: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20478: mejor modelo = arima, MAE sep-nov = 1.3547
+Producto 20479: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20479: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20479: mejor modelo = lgbm, MAE sep-nov = 1.3445
+Producto 20480: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20480: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20480: mejor modelo = arima, MAE sep-nov = 1.5424
+Producto 20481: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20481: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20481: mejor modelo = xgboost, MAE sep-nov = 0.6669
+Producto 20482: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20482: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20482: mejor modelo = lgbm, MAE sep-nov = 1.4150
+Producto 20483: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20483: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20483: mejor modelo = arima, MAE sep-nov = 2.2185
+Producto 20484: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20484: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20484: mejor modelo = lgbm, MAE sep-nov = 1.7626
+Producto 20488: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20488: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20488: mejor modelo = arima, MAE sep-nov = 1.3369
+Producto 20490: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20490: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20490: mejor modelo = arima, MAE sep-nov = 1.0387
+Producto 20491: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20495: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20495: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20495: mejor modelo = lgbm, MAE sep-nov = 1.2607
+Producto 20496: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20496: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20496: mejor modelo = arima, MAE sep-nov = 1.4333
+Producto 20497: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20497: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20497: mejor modelo = arima, MAE sep-nov = 1.5710
+Producto 20500: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20500: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20500: mejor modelo = lgbm, MAE sep-nov = 1.6107
+Producto 20502: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20502: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20502: mejor modelo = arima, MAE sep-nov = 1.1040
+Producto 20503: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20503: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20503: mejor modelo = arima, MAE sep-nov = 2.1808
+Producto 20505: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20505: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20505: mejor modelo = lgbm, MAE sep-nov = 1.0873
+Producto 20508: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20508: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20508: mejor modelo = arima, MAE sep-nov = 2.7653
+Producto 20509: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20509: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20509: mejor modelo = xgboost, MAE sep-nov = 1.2012
+Producto 20510: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20513: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20513: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20513: mejor modelo = lgbm, MAE sep-nov = 1.5465
+Producto 20514: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20514: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20514: mejor modelo = xgboost, MAE sep-nov = 0.7898
+Producto 20517: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20517: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20517: mejor modelo = xgboost, MAE sep-nov = 0.6671
+Producto 20520: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20520: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20520: mejor modelo = xgboost, MAE sep-nov = 2.2482
+Producto 20521: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20522: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20522: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20522: mejor modelo = lgbm, MAE sep-nov = 1.7745
+Producto 20523: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20523: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20523: mejor modelo = lgbm, MAE sep-nov = 1.1078
+Producto 20524: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20524: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20524: mejor modelo = lgbm, MAE sep-nov = 1.3313
+Producto 20525: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20526: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20527: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20527: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20527: mejor modelo = lgbm, MAE sep-nov = 2.0264
+Producto 20530: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20530: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20530: mejor modelo = xgboost, MAE sep-nov = 2.8909
+Producto 20531: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20532: mejor modelo = arima, MAE sep-nov = 0.6929
+Producto 20536: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20536: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20536: mejor modelo = lgbm, MAE sep-nov = 0.7223
+Producto 20537: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20538: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20538: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20538: mejor modelo = xgboost, MAE sep-nov = 2.3460
+Producto 20539: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20539: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20539: mejor modelo = arima, MAE sep-nov = 1.3135
+Producto 20540: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20540: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20540: mejor modelo = arima, MAE sep-nov = 2.2981
+Producto 20541: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20541: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20541: mejor modelo = lgbm, MAE sep-nov = 1.3176
+Producto 20542: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20542: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20542: mejor modelo = lgbm, MAE sep-nov = 1.5855
+Producto 20544: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20544: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20544: mejor modelo = arima, MAE sep-nov = 1.8596
+Producto 20547: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20548: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20549: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20549: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20549: mejor modelo = lgbm, MAE sep-nov = 3.4724
+Producto 20551: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20551: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20551: mejor modelo = arima, MAE sep-nov = 1.1864
+Producto 20552: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20552: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20552: mejor modelo = arima, MAE sep-nov = 2.6839
+Producto 20553: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20553: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20553: mejor modelo = arima, MAE sep-nov = 2.3803
+Producto 20555: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20555: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20555: mejor modelo = xgboost, MAE sep-nov = 1.4302
+Producto 20558: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20559: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20559: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20559: mejor modelo = xgboost, MAE sep-nov = 2.8720
+Producto 20560: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20560: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20560: mejor modelo = arima, MAE sep-nov = 1.2411
+Producto 20561: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20561: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20561: mejor modelo = xgboost, MAE sep-nov = 0.6975
+Producto 20563: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20563: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20563: mejor modelo = xgboost, MAE sep-nov = 5.1473
+Producto 20565: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20565: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20565: mejor modelo = lgbm, MAE sep-nov = 2.3034
+Producto 20567: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20567: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20567: mejor modelo = lgbm, MAE sep-nov = 2.1617
+Producto 20568: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20568: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20568: mejor modelo = lgbm, MAE sep-nov = 1.0635
+Producto 20569: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20569: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20569: mejor modelo = lgbm, MAE sep-nov = 1.8807
+Producto 20570: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20570: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20570: mejor modelo = lgbm, MAE sep-nov = 0.2684
+Producto 20571: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20571: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20571: mejor modelo = lgbm, MAE sep-nov = 1.3878
+Producto 20572: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20572: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20572: mejor modelo = arima, MAE sep-nov = 0.6659
+Producto 20574: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20574: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20574: mejor modelo = lgbm, MAE sep-nov = 1.5365
+Producto 20575: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20576: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20576: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20576: mejor modelo = arima, MAE sep-nov = 2.3430
+Producto 20577: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20578: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20578: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20578: mejor modelo = xgboost, MAE sep-nov = 0.7552
+Producto 20579: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20579: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20579: mejor modelo = lgbm, MAE sep-nov = 1.5850
+Producto 20580: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20583: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20583: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20583: mejor modelo = arima, MAE sep-nov = 0.3154
+Producto 20585: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20585: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20585: mejor modelo = lgbm, MAE sep-nov = 2.1831
+Producto 20586: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20586: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20586: mejor modelo = xgboost, MAE sep-nov = 0.6803
+Producto 20588: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20588: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20588: mejor modelo = xgboost, MAE sep-nov = 2.7909
+Producto 20589: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20589: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20589: mejor modelo = lgbm, MAE sep-nov = 0.7992
+Producto 20592: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20593: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20596: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20596: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20596: error ARIMA: -1
+Producto 20596: mejor modelo = lgbm, MAE sep-nov = 2.1887
+Producto 20597: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20597: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20597: mejor modelo = xgboost, MAE sep-nov = 0.8954
+Producto 20599: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20599: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20599: mejor modelo = arima, MAE sep-nov = 0.6093
+Producto 20600: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20600: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20600: mejor modelo = xgboost, MAE sep-nov = 0.4226
+Producto 20601: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20601: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20601: mejor modelo = xgboost, MAE sep-nov = 0.5499
+Producto 20602: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20602: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20602: mejor modelo = arima, MAE sep-nov = 0.5276
+Producto 20603: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20604: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20604: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20604: mejor modelo = lgbm, MAE sep-nov = 1.6731
+Producto 20605: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20605: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20605: mejor modelo = lgbm, MAE sep-nov = 0.2989
+Producto 20606: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20606: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20606: mejor modelo = arima, MAE sep-nov = 0.6774
+Producto 20609: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20609: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20609: mejor modelo = arima, MAE sep-nov = 1.1475
+Producto 20611: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20611: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20611: mejor modelo = lgbm, MAE sep-nov = 0.8318
+Producto 20612: mejor modelo = lgbm, MAE sep-nov = 3.2795
+Producto 20614: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20614: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20614: mejor modelo = arima, MAE sep-nov = 1.0218
+Producto 20615: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20617: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20617: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20617: mejor modelo = arima, MAE sep-nov = 0.4455
+Producto 20620: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20621: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20622: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20622: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20622: mejor modelo = lgbm, MAE sep-nov = 0.5022
+Producto 20623: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20624: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20624: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20624: mejor modelo = arima, MAE sep-nov = 0.9803
+Producto 20627: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20628: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20628: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20628: mejor modelo = lgbm, MAE sep-nov = 0.5297
+Producto 20629: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20629: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20629: mejor modelo = arima, MAE sep-nov = 0.3271
+Producto 20632: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20632: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20632: mejor modelo = arima, MAE sep-nov = 0.5226
+Producto 20633: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20636: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20636: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20636: mejor modelo = xgboost, MAE sep-nov = 0.6303
+Producto 20637: mejor modelo = lgbm, MAE sep-nov = 0.3118
+Producto 20638: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20638: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20638: mejor modelo = lgbm, MAE sep-nov = 0.7626
+Producto 20639: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20639: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20639: mejor modelo = lgbm, MAE sep-nov = 0.1815
+Producto 20640: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20640: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20640: mejor modelo = arima, MAE sep-nov = 0.0843
+Producto 20641: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20641: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20641: error ARIMA: -1
+Producto 20641: mejor modelo = xgboost, MAE sep-nov = 1.0978
+Producto 20642: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20642: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20642: mejor modelo = xgboost, MAE sep-nov = 0.9073
+Producto 20644: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20644: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20644: mejor modelo = arima, MAE sep-nov = 0.3794
+Producto 20646: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20646: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20646: mejor modelo = lgbm, MAE sep-nov = 0.7427
+Producto 20647: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20647: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20647: mejor modelo = xgboost, MAE sep-nov = 0.8629
+Producto 20649: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20651: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20651: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20651: mejor modelo = arima, MAE sep-nov = 0.7589
+Producto 20652: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20652: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20652: mejor modelo = lgbm, MAE sep-nov = 1.1489
+Producto 20653: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20653: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20653: mejor modelo = lgbm, MAE sep-nov = 1.2594
+Producto 20654: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20654: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20654: mejor modelo = arima, MAE sep-nov = 0.5758
+Producto 20655: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20655: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20655: mejor modelo = arima, MAE sep-nov = 0.1266
+Producto 20657: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20657: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20657: mejor modelo = arima, MAE sep-nov = 3.4571
+Producto 20658: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20658: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20658: mejor modelo = xgboost, MAE sep-nov = 0.8328
+Producto 20659: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20660: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20660: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20660: mejor modelo = xgboost, MAE sep-nov = 0.5927
+Producto 20661: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20661: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20661: mejor modelo = lgbm, MAE sep-nov = 1.0886
+Producto 20662: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20663: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20663: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20663: mejor modelo = arima, MAE sep-nov = 0.1158
+Producto 20664: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20664: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20664: mejor modelo = arima, MAE sep-nov = 1.4015
+Producto 20666: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20666: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20666: error ARIMA: -1
+Producto 20666: mejor modelo = xgboost, MAE sep-nov = 2.5070
+Producto 20667: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20667: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20667: mejor modelo = lgbm, MAE sep-nov = 0.9883
+Producto 20670: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20670: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20670: mejor modelo = xgboost, MAE sep-nov = 0.3022
+Producto 20672: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20672: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20672: mejor modelo = lgbm, MAE sep-nov = 0.8114
+Producto 20673: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20674: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20676: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20676: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20676: mejor modelo = arima, MAE sep-nov = 0.9169
+Producto 20677: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20677: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20677: mejor modelo = arima, MAE sep-nov = 0.6737
+Producto 20678: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20678: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20678: mejor modelo = arima, MAE sep-nov = 0.2826
+Producto 20679: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20679: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20679: mejor modelo = lgbm, MAE sep-nov = 1.3730
+Producto 20680: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20680: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20680: mejor modelo = lgbm, MAE sep-nov = 2.2597
+Producto 20681: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20682: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20682: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20682: mejor modelo = lgbm, MAE sep-nov = 1.6162
+Producto 20684: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20684: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20684: mejor modelo = arima, MAE sep-nov = 1.0134
+Producto 20685: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20685: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20685: mejor modelo = xgboost, MAE sep-nov = 0.2391
+Producto 20686: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20689: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20691: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20693: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20693: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20693: mejor modelo = lgbm, MAE sep-nov = 0.8769
+Producto 20694: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20696: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20696: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20696: mejor modelo = lgbm, MAE sep-nov = 0.9866
+Producto 20697: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20697: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20697: mejor modelo = arima, MAE sep-nov = 0.6311
+Producto 20699: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20699: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20699: mejor modelo = xgboost, MAE sep-nov = 3.0744
+Producto 20700: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20701: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20701: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20701: mejor modelo = lgbm, MAE sep-nov = 0.6213
+Producto 20702: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20702: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20702: mejor modelo = arima, MAE sep-nov = 0.3989
+Producto 20703: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20705: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20705: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20705: mejor modelo = arima, MAE sep-nov = 2.2079
+Producto 20706: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20706: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20706: mejor modelo = arima, MAE sep-nov = 1.2309
+Producto 20708: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20708: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20708: mejor modelo = arima, MAE sep-nov = 0.2541
+Producto 20709: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20711: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20713: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20713: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20713: mejor modelo = arima, MAE sep-nov = 0.7402
+Producto 20714: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20714: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20714: mejor modelo = lgbm, MAE sep-nov = 0.8959
+Producto 20715: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20715: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20715: mejor modelo = arima, MAE sep-nov = 0.5624
+Producto 20719: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20720: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20721: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20721: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20721: mejor modelo = xgboost, MAE sep-nov = 0.8970
+Producto 20724: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20724: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20724: mejor modelo = xgboost, MAE sep-nov = 1.7947
+Producto 20729: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20729: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20729: mejor modelo = xgboost, MAE sep-nov = 0.1574
+Producto 20730: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20730: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20730: mejor modelo = xgboost, MAE sep-nov = 0.9426
+Producto 20732: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20733: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20733: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20733: mejor modelo = arima, MAE sep-nov = 1.4263
+Producto 20735: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20735: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20735: mejor modelo = lgbm, MAE sep-nov = 0.2415
+Producto 20737: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20737: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20737: mejor modelo = xgboost, MAE sep-nov = 2.2673
+Producto 20739: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20739: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20739: mejor modelo = xgboost, MAE sep-nov = 0.1579
+Producto 20741: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20741: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20741: mejor modelo = arima, MAE sep-nov = 1.2464
+Producto 20742: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20742: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20742: mejor modelo = lgbm, MAE sep-nov = 1.7764
+Producto 20743: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20743: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20743: mejor modelo = arima, MAE sep-nov = 0.6142
+Producto 20744: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20744: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20744: mejor modelo = arima, MAE sep-nov = 0.2044
+Producto 20745: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20745: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20745: mejor modelo = arima, MAE sep-nov = 0.8488
+Producto 20746: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20749: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20749: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20749: mejor modelo = lgbm, MAE sep-nov = 0.2430
+Producto 20750: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20750: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20750: mejor modelo = xgboost, MAE sep-nov = 0.7776
+Producto 20751: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20751: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20751: mejor modelo = xgboost, MAE sep-nov = 0.9244
+Producto 20754: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20756: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20756: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20756: mejor modelo = arima, MAE sep-nov = 0.7180
+Producto 20757: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20758: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20758: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20758: mejor modelo = arima, MAE sep-nov = 0.7530
+Producto 20759: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20759: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20759: mejor modelo = arima, MAE sep-nov = 0.4317
+Producto 20761: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20761: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20761: mejor modelo = lgbm, MAE sep-nov = 0.2943
+Producto 20762: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20765: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20765: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20765: mejor modelo = xgboost, MAE sep-nov = 0.4400
+Producto 20768: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20768: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20768: mejor modelo = arima, MAE sep-nov = 0.2942
+Producto 20771: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20771: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20771: mejor modelo = arima, MAE sep-nov = 0.6903
+Producto 20772: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20773: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20773: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20773: mejor modelo = xgboost, MAE sep-nov = 0.1238
+Producto 20774: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20775: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20775: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20775: mejor modelo = arima, MAE sep-nov = 1.0710
+Producto 20777: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20777: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20777: mejor modelo = xgboost, MAE sep-nov = 0.4486
+Producto 20781: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20781: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20781: mejor modelo = xgboost, MAE sep-nov = 1.0396
+Producto 20783: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20783: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20783: mejor modelo = lgbm, MAE sep-nov = 0.4896
+Producto 20785: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20786: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20786: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20786: error ARIMA: -1
+Producto 20786: mejor modelo = lgbm, MAE sep-nov = 0.6593
+Producto 20788: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20788: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20788: mejor modelo = arima, MAE sep-nov = 0.7503
+Producto 20789: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20789: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20789: mejor modelo = arima, MAE sep-nov = 0.2150
+Producto 20793: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20793: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20793: error ARIMA: -1
+Producto 20793: mejor modelo = lgbm, MAE sep-nov = 0.6486
+Producto 20795: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20800: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20800: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20800: mejor modelo = arima, MAE sep-nov = 0.7029
+Producto 20801: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20801: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20801: mejor modelo = xgboost, MAE sep-nov = 0.5518
+Producto 20802: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20802: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20802: mejor modelo = arima, MAE sep-nov = 0.4970
+Producto 20803: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20803: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20803: mejor modelo = arima, MAE sep-nov = 0.7275
+Producto 20807: mejor modelo = lgbm, MAE sep-nov = 0.4720
+Producto 20809: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20809: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20809: mejor modelo = lgbm, MAE sep-nov = 0.2864
+Producto 20810: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20810: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20810: mejor modelo = arima, MAE sep-nov = 0.7480
+Producto 20811: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20811: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20811: mejor modelo = arima, MAE sep-nov = 0.4538
+Producto 20812: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20812: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20812: mejor modelo = arima, MAE sep-nov = 0.6292
+Producto 20815: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20817: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20818: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20818: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20818: mejor modelo = arima, MAE sep-nov = 0.3030
+Producto 20820: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20820: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20820: mejor modelo = xgboost, MAE sep-nov = 0.0529
+Producto 20822: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20823: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20823: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20823: mejor modelo = arima, MAE sep-nov = 0.2269
+Producto 20824: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20824: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20824: error ARIMA: -1
+Producto 20824: mejor modelo = lgbm, MAE sep-nov = 1.5994
+Producto 20826: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20826: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20826: mejor modelo = arima, MAE sep-nov = 0.3968
+Producto 20827: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20828: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20828: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20828: mejor modelo = arima, MAE sep-nov = 0.3163
+Producto 20830: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20830: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20830: mejor modelo = xgboost, MAE sep-nov = 0.5923
+Producto 20831: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20831: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20831: mejor modelo = arima, MAE sep-nov = 0.4231
+Producto 20832: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20832: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20832: mejor modelo = lgbm, MAE sep-nov = 0.4240
+Producto 20835: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20838: mejor modelo = arima, MAE sep-nov = 0.3518
+Producto 20840: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20840: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20840: mejor modelo = arima, MAE sep-nov = 0.2076
+Producto 20843: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20843: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20843: mejor modelo = lgbm, MAE sep-nov = 0.5943
+Producto 20845: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20846: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20846: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20846: mejor modelo = arima, MAE sep-nov = 0.1392
+Producto 20847: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20847: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20847: mejor modelo = arima, MAE sep-nov = 0.3387
+Producto 20849: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20849: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20849: mejor modelo = xgboost, MAE sep-nov = 0.7575
+Producto 20852: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20852: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20852: mejor modelo = arima, MAE sep-nov = 0.7595
+Producto 20853: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20853: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20853: mejor modelo = lgbm, MAE sep-nov = 0.8202
+Producto 20855: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20855: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20855: mejor modelo = arima, MAE sep-nov = 0.3759
+Producto 20859: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20862: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20862: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20862: mejor modelo = xgboost, MAE sep-nov = 0.1912
+Producto 20863: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20863: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20863: mejor modelo = lgbm, MAE sep-nov = 0.3980
+Producto 20864: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20864: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20864: mejor modelo = arima, MAE sep-nov = 0.2977
+Producto 20865: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20865: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20865: mejor modelo = xgboost, MAE sep-nov = 0.1315
+Producto 20870: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20870: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20870: mejor modelo = arima, MAE sep-nov = 0.1058
+Producto 20877: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20877: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20877: mejor modelo = arima, MAE sep-nov = 0.3302
+Producto 20878: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20878: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20878: mejor modelo = lgbm, MAE sep-nov = 0.4380
+Producto 20879: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20879: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20879: error ARIMA: -1
+Producto 20879: mejor modelo = lgbm, MAE sep-nov = 0.7727
+Producto 20882: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20882: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20882: mejor modelo = xgboost, MAE sep-nov = 0.2566
+Producto 20883: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20883: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20883: mejor modelo = arima, MAE sep-nov = 0.4180
+Producto 20885: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20885: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20885: error ARIMA: -1
+Producto 20885: mejor modelo = lgbm, MAE sep-nov = 0.3464
+Producto 20886: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20892: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20892: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20892: mejor modelo = xgboost, MAE sep-nov = 0.2064
+Producto 20894: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20894: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20894: mejor modelo = lgbm, MAE sep-nov = 0.6146
+Producto 20899: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20901: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20901: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20901: mejor modelo = arima, MAE sep-nov = 0.1635
+Producto 20902: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20902: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20902: mejor modelo = lgbm, MAE sep-nov = 0.5444
+Producto 20904: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20906: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20906: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20906: mejor modelo = arima, MAE sep-nov = 0.2568
+Producto 20907: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20908: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20908: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20908: mejor modelo = lgbm, MAE sep-nov = 0.4097
+Producto 20910: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20912: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20913: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20913: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20913: mejor modelo = xgboost, MAE sep-nov = 0.4311
+Producto 20914: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20914: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20914: mejor modelo = lgbm, MAE sep-nov = 0.4348
+Producto 20917: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20919: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20919: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20919: mejor modelo = lgbm, MAE sep-nov = 0.2286
+Producto 20920: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20922: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20922: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20922: mejor modelo = arima, MAE sep-nov = 0.1969
+Producto 20924: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20925: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20925: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20925: mejor modelo = arima, MAE sep-nov = 0.2585
+Producto 20927: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20928: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20931: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20931: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20931: mejor modelo = xgboost, MAE sep-nov = 0.3573
+Producto 20932: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20933: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20936: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20936: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 20936: error ARIMA: -1
+Producto 20936: mejor modelo = xgboost, MAE sep-nov = 0.2526
+Producto 20937: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20937: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20937: mejor modelo = arima, MAE sep-nov = 0.1847
+Producto 20941: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20941: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20941: mejor modelo = arima, MAE sep-nov = 0.3438
+Producto 20942: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20945: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20945: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20945: mejor modelo = lgbm, MAE sep-nov = 0.8120
+Producto 20946: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20947: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20947: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20947: mejor modelo = xgboost, MAE sep-nov = 0.1939
+Producto 20948: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20948: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20948: mejor modelo = arima, MAE sep-nov = 0.3212
+Producto 20949: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20949: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20949: mejor modelo = lgbm, MAE sep-nov = 0.2028
+Producto 20951: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20951: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20951: mejor modelo = lgbm, MAE sep-nov = 0.7330
+Producto 20953: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20956: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20956: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20956: mejor modelo = arima, MAE sep-nov = 0.2855
+Producto 20957: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20957: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20957: mejor modelo = xgboost, MAE sep-nov = 0.3765
+Producto 20961: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20961: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20961: mejor modelo = arima, MAE sep-nov = 0.1360
+Producto 20962: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20965: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20965: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20965: mejor modelo = arima, MAE sep-nov = 0.0601
+Producto 20966: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20967: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20967: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20967: mejor modelo = lgbm, MAE sep-nov = 0.2674
+Producto 20968: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20970: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20970: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20970: mejor modelo = arima, MAE sep-nov = 0.2158
+Producto 20975: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20976: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20976: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20976: mejor modelo = arima, MAE sep-nov = 0.0281
+Producto 20982: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20982: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20982: mejor modelo = arima, MAE sep-nov = 0.5336
+Producto 20985: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20985: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20985: mejor modelo = arima, MAE sep-nov = 0.2758
+Producto 20986: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20986: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20986: mejor modelo = xgboost, MAE sep-nov = 0.0638
+Producto 20987: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20990: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20991: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20991: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20991: mejor modelo = xgboost, MAE sep-nov = 0.3313
+Producto 20994: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20994: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20994: mejor modelo = arima, MAE sep-nov = 0.2539
+Producto 20995: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 20996: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20996: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20996: mejor modelo = xgboost, MAE sep-nov = 0.1501
+Producto 20997: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 20997: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 20997: mejor modelo = lgbm, MAE sep-nov = 0.3450
+Producto 21001: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21003: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21003: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21003: mejor modelo = arima, MAE sep-nov = 0.2364
+Producto 21006: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21007: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21008: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21008: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21008: mejor modelo = arima, MAE sep-nov = 0.1189
+Producto 21014: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21014: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21014: mejor modelo = xgboost, MAE sep-nov = 0.1258
+Producto 21016: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21016: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21016: mejor modelo = arima, MAE sep-nov = 0.1703
+Producto 21022: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21024: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21024: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21024: mejor modelo = xgboost, MAE sep-nov = 0.1433
+Producto 21027: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21027: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21027: mejor modelo = arima, MAE sep-nov = 0.7321
+Producto 21028: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21028: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21028: mejor modelo = arima, MAE sep-nov = 0.1074
+Producto 21032: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21032: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21032: mejor modelo = arima, MAE sep-nov = 0.1744
+Producto 21033: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21034: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21034: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21034: mejor modelo = arima, MAE sep-nov = 0.2146
+Producto 21035: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21037: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21038: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21038: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21038: mejor modelo = xgboost, MAE sep-nov = 0.2842
+Producto 21039: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21040: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21040: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21040: mejor modelo = xgboost, MAE sep-nov = 0.3441
+Producto 21042: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21044: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21048: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21048: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21048: mejor modelo = arima, MAE sep-nov = 0.0475
+Producto 21049: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21049: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 21049: error ARIMA: -1
+Producto 21049: mejor modelo = xgboost, MAE sep-nov = 0.3456
+Producto 21055: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21055: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21055: mejor modelo = arima, MAE sep-nov = 0.1402
+Producto 21056: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21057: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21057: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21057: mejor modelo = xgboost, MAE sep-nov = 0.1679
+Producto 21058: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21064: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21065: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21065: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21065: mejor modelo = lgbm, MAE sep-nov = 0.3471
+Producto 21073: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21074: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21077: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21077: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21077: mejor modelo = arima, MAE sep-nov = 0.0868
+Producto 21079: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21080: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21080: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21080: mejor modelo = xgboost, MAE sep-nov = 0.0339
+Producto 21084: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21084: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21084: mejor modelo = xgboost, MAE sep-nov = 0.3071
+Producto 21086: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21087: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21088: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21088: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21088: mejor modelo = arima, MAE sep-nov = 0.1383
+Producto 21092: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21093: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21097: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21099: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21105: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21109: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21110: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21111: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21112: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21114: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21118: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21118: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21118: mejor modelo = xgboost, MAE sep-nov = 0.1104
+Producto 21119: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21126: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21126: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21126: mejor modelo = xgboost, MAE sep-nov = 0.2476
+Producto 21129: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21131: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21131: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21131: mejor modelo = xgboost, MAE sep-nov = 0.0771
+Producto 21135: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21140: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21142: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21142: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21142: mejor modelo = arima, MAE sep-nov = 0.1401
+Producto 21144: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21146: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21153: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21154: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21155: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21155: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21155: mejor modelo = arima, MAE sep-nov = 0.0711
+Producto 21157: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21157: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21157: mejor modelo = xgboost, MAE sep-nov = 0.0535
+Producto 21159: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21163: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21164: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21164: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21164: mejor modelo = xgboost, MAE sep-nov = 0.0999
+Producto 21167: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21167: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21167: mejor modelo = lgbm, MAE sep-nov = 0.0586
+Producto 21168: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21170: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21170: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 21170: error ARIMA: -1
+Producto 21170: mejor modelo = xgboost, MAE sep-nov = 0.0776
+Producto 21171: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21176: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21176: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21176: mejor modelo = arima, MAE sep-nov = 0.0326
+Producto 21179: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21180: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21180: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21180: mejor modelo = arima, MAE sep-nov = 0.0142
+Producto 21182: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21182: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21182: mejor modelo = arima, MAE sep-nov = 0.0417
+Producto 21184: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21184: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21184: mejor modelo = arima, MAE sep-nov = 0.0350
+Producto 21190: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21190: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 21190: error ARIMA: -1
+Producto 21190: mejor modelo = xgboost, MAE sep-nov = 0.0349
+Producto 21191: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21191: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21191: mejor modelo = arima, MAE sep-nov = 0.0396
+Producto 21192: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21192: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21192: mejor modelo = arima, MAE sep-nov = 0.0504
+Producto 21194: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21194: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21194: mejor modelo = arima, MAE sep-nov = 0.0647
+Producto 21196: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21200: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21200: error AutoGluon: Please make sure that all time series have a regular index before calling `fill_missing_values`(for example, using the `to_regular_index` method).
+Producto 21200: error ARIMA: -1
+Producto 21200: mejor modelo = xgboost, MAE sep-nov = 0.0549
+Producto 21201: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21202: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21202: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21202: mejor modelo = arima, MAE sep-nov = 0.0334
+Producto 21207: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21207: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21207: mejor modelo = lgbm, MAE sep-nov = 0.1053
+Producto 21209: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21209: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21209: mejor modelo = arima, MAE sep-nov = 0.0444
+Producto 21212: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21212: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21212: mejor modelo = arima, MAE sep-nov = 0.0395
+Producto 21214: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21218: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21218: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21218: mejor modelo = arima, MAE sep-nov = 0.0208
+Producto 21222: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21222: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21222: mejor modelo = arima, MAE sep-nov = 0.0215
+Producto 21224: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21224: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21224: mejor modelo = xgboost, MAE sep-nov = 0.0149
+Producto 21226: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21226: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21226: mejor modelo = arima, MAE sep-nov = 0.0359
+Producto 21227: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21233: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21233: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21233: mejor modelo = arima, MAE sep-nov = 0.0948
+Producto 21244: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21245: error regresión global: X has 396 features, but LinearRegression is expecting 12 features as input.
+Producto 21245: error AutoGluon: __init__() got an unexpected keyword argument 'freq'
+Producto 21245: mejor modelo = arima, MAE sep-nov = 0.0336
+Producto 21246: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21248: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21252: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21256: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21259: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21262: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21263: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21265: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21266: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21267: menos de 12 períodos de entrenamiento, resultado fallback.
+Producto 21276: menos de 12 períodos de entrenamiento, resultado fallback.
