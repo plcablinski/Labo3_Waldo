@@ -1,0 +1,11 @@
+product_id,periodo,tn_predicho,metodo,zona_fibo
+20001,2020-02-01,1488.554630878354,autoarima,zona media-baja (50-61.8%)
+20002,2020-02-01,1550.9779374520976,autoarima,zona alta (Fibo > 38.2%)
+20003,2020-02-01,868.7141398318029,autoarima,zona baja (Fibo < 61.8%)
+20004,2020-02-01,668.7699933882518,autoarima,zona baja (Fibo < 61.8%)
+20005,2020-02-01,532.9863133753063,autoarima,zona baja (Fibo < 61.8%)
+20006,2020-02-01,438.6951372829739,autoarima,zona baja (Fibo < 61.8%)
+20007,2020-02-01,398.2986525003095,autoarima,zona baja (Fibo < 61.8%)
+20012,2020-02-01,264.20621677737216,autoarima,zona baja (Fibo < 61.8%)
+20032,2020-02-01,590.3336599999999,autoarima,zona media-alta (38.2-50%)
+20127,2020-02-01,208.43745,autoarima,zona media-baja (50-61.8%)
