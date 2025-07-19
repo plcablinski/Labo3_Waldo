@@ -1,2 +1,2 @@
 # Labo3
-Laboratorio 3 MCDUA
+Repositorio de la materia Laboratorio 3 MCDUA
